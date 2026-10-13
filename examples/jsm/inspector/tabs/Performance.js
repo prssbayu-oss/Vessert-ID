@@ -12,4 +12,3 @@ class Performance {
 }
 
 export { Performance };
-export default Performance;

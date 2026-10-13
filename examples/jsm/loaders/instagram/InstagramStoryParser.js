@@ -12,4 +12,3 @@ class InstagramStoryParser {
 }
 
 export { InstagramStoryParser };
-export default InstagramStoryParser;

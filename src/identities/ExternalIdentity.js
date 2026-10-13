@@ -12,4 +12,3 @@ class ExternalIdentity {
 }
 
 export { ExternalIdentity };
-export default ExternalIdentity;

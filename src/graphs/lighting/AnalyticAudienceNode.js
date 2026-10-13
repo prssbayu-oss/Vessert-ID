@@ -12,4 +12,3 @@ class AnalyticAudienceNode {
 }
 
 export { AnalyticAudienceNode };
-export default AnalyticAudienceNode;

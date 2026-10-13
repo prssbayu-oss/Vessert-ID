@@ -12,4 +12,3 @@ class voronoiNoise {
 }
 
 export { voronoiNoise };
-export default voronoiNoise;

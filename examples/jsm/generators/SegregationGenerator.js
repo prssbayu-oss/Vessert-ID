@@ -12,4 +12,3 @@ class SegregationGenerator {
 }
 
 export { SegregationGenerator };
-export default SegregationGenerator;

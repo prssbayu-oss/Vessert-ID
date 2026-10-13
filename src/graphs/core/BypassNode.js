@@ -12,4 +12,3 @@ class BypassNode {
 }
 
 export { BypassNode };
-export default BypassNode;

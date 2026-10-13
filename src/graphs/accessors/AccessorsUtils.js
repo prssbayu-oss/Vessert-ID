@@ -12,4 +12,3 @@ class AccessorsUtils {
 }
 
 export { AccessorsUtils };
-export default AccessorsUtils;

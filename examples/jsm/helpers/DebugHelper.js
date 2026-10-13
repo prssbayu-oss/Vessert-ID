@@ -12,4 +12,3 @@ class DebugHelper {
 }
 
 export { DebugHelper };
-export default DebugHelper;

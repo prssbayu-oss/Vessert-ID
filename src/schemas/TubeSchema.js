@@ -12,4 +12,3 @@ class TubeSchema {
 }
 
 export { TubeSchema };
-export default TubeSchema;

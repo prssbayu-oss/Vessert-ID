@@ -12,4 +12,3 @@ class CPUEnvironments {
 }
 
 export { CPUEnvironments };
-export default CPUEnvironments;

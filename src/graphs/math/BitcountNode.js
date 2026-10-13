@@ -12,4 +12,3 @@ class BitcountNode {
 }
 
 export { BitcountNode };
-export default BitcountNode;

@@ -12,4 +12,3 @@ class DouyinLoader {
 }
 
 export { DouyinLoader };
-export default DouyinLoader;

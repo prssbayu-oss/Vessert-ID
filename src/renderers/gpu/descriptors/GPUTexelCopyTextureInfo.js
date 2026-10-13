@@ -12,4 +12,3 @@ class GPUTexelCopyTextureInfo {
 }
 
 export { GPUTexelCopyTextureInfo };
-export default GPUTexelCopyTextureInfo;

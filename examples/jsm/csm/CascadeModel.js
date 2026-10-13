@@ -12,4 +12,3 @@ class CascadeModel {
 }
 
 export { CascadeModel };
-export default CascadeModel;

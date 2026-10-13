@@ -12,4 +12,3 @@ class MatrixExportLoader {
 }
 
 export { MatrixExportLoader };
-export default MatrixExportLoader;

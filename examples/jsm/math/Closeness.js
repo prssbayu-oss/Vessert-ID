@@ -12,4 +12,3 @@ class Closeness {
 }
 
 export { Closeness };
-export default Closeness;

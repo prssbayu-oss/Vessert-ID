@@ -12,4 +12,3 @@ class ContextNode {
 }
 
 export { ContextNode };
-export default ContextNode;

@@ -12,4 +12,3 @@ class JSONSchema {
 }
 
 export { JSONSchema };
-export default JSONSchema;

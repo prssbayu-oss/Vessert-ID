@@ -12,4 +12,3 @@ class Flow {
 }
 
 export { Flow };
-export default Flow;

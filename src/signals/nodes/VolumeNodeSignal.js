@@ -12,4 +12,3 @@ class VolumeNodeSignal {
 }
 
 export { VolumeNodeSignal };
-export default VolumeNodeSignal;

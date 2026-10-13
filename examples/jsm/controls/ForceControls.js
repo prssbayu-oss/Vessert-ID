@@ -12,4 +12,3 @@ class ForceControls {
 }
 
 export { ForceControls };
-export default ForceControls;

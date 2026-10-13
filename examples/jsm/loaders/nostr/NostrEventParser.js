@@ -12,4 +12,3 @@ class NostrEventParser {
 }
 
 export { NostrEventParser };
-export default NostrEventParser;

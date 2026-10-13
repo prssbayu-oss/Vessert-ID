@@ -12,4 +12,3 @@ class ClusteringModule {
 }
 
 export { ClusteringModule };
-export default ClusteringModule;

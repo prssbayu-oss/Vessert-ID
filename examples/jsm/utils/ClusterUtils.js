@@ -12,4 +12,3 @@ class ClusterUtils {
 }
 
 export { ClusterUtils };
-export default ClusterUtils;

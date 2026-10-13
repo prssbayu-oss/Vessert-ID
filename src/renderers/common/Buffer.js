@@ -12,4 +12,3 @@ class Buffer {
 }
 
 export { Buffer };
-export default Buffer;

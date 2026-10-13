@@ -12,4 +12,3 @@ class ChainMap {
 }
 
 export { ChainMap };
-export default ChainMap;

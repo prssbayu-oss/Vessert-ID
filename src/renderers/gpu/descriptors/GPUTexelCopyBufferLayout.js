@@ -12,4 +12,3 @@ class GPUTexelCopyBufferLayout {
 }
 
 export { GPUTexelCopyBufferLayout };
-export default GPUTexelCopyBufferLayout;

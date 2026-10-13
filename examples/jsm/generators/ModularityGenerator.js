@@ -12,4 +12,3 @@ class ModularityGenerator {
 }
 
 export { ModularityGenerator };
-export default ModularityGenerator;

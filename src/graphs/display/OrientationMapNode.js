@@ -12,4 +12,3 @@ class OrientationMapNode {
 }
 
 export { OrientationMapNode };
-export default OrientationMapNode;

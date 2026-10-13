@@ -12,4 +12,3 @@ class GPUTimestampQueryPool {
 }
 
 export { GPUTimestampQueryPool };
-export default GPUTimestampQueryPool;

@@ -12,4 +12,3 @@ class Packing {
 }
 
 export { Packing };
-export default Packing;

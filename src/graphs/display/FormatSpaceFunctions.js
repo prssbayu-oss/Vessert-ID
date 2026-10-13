@@ -12,4 +12,3 @@ class FormatSpaceFunctions {
 }
 
 export { FormatSpaceFunctions };
-export default FormatSpaceFunctions;

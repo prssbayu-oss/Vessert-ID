@@ -12,4 +12,3 @@ class DebugEnvironment {
 }
 
 export { DebugEnvironment };
-export default DebugEnvironment;

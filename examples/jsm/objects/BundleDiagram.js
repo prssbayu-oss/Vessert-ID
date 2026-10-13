@@ -12,4 +12,3 @@ class BundleDiagram {
 }
 
 export { BundleDiagram };
-export default BundleDiagram;

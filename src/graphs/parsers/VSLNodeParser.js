@@ -12,4 +12,3 @@ class VSLNodeParser {
 }
 
 export { VSLNodeParser };
-export default VSLNodeParser;

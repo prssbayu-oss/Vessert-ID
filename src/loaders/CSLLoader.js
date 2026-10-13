@@ -12,4 +12,3 @@ class CSLLoader {
 }
 
 export { CSLLoader };
-export default CSLLoader;

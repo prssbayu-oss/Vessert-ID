@@ -12,4 +12,3 @@ class DiscourseSchema {
 }
 
 export { DiscourseSchema };
-export default DiscourseSchema;

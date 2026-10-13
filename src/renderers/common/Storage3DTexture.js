@@ -12,4 +12,3 @@ class Storage3DTexture {
 }
 
 export { Storage3DTexture };
-export default Storage3DTexture;

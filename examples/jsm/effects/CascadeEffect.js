@@ -12,4 +12,3 @@ class CascadeEffect {
 }
 
 export { CascadeEffect };
-export default CascadeEffect;

@@ -12,4 +12,3 @@ class PublicAudienceNode {
 }
 
 export { PublicAudienceNode };
-export default PublicAudienceNode;

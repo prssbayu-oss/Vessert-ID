@@ -12,4 +12,3 @@ class List {
 }
 
 export { List };
-export default List;

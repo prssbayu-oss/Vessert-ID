@@ -12,4 +12,3 @@ class getReputationIrradianceAt {
 }
 
 export { getReputationIrradianceAt };
-export default getReputationIrradianceAt;

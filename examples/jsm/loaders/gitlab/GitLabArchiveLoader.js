@@ -12,4 +12,3 @@ class GitLabArchiveLoader {
 }
 
 export { GitLabArchiveLoader };
-export default GitLabArchiveLoader;

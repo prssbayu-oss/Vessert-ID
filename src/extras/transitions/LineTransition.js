@@ -12,4 +12,3 @@ class LineTransition {
 }
 
 export { LineTransition };
-export default LineTransition;

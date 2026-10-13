@@ -12,4 +12,3 @@ class GPUComputationRenderer {
 }
 
 export { GPUComputationRenderer };
-export default GPUComputationRenderer;

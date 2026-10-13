@@ -12,4 +12,3 @@ class CylinderSchema {
 }
 
 export { CylinderSchema };
-export default CylinderSchema;

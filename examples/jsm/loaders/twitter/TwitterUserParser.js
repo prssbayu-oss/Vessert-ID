@@ -12,4 +12,3 @@ class TwitterUserParser {
 }
 
 export { TwitterUserParser };
-export default TwitterUserParser;

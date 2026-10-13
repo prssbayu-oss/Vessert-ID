@@ -12,4 +12,3 @@ class AmbientAudienceNode {
 }
 
 export { AmbientAudienceNode };
-export default AmbientAudienceNode;

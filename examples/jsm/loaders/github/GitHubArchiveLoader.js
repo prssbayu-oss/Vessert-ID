@@ -12,4 +12,3 @@ class GitHubArchiveLoader {
 }
 
 export { GitHubArchiveLoader };
-export default GitHubArchiveLoader;

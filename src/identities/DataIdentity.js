@@ -12,4 +12,3 @@ class DataIdentity {
 }
 
 export { DataIdentity };
-export default DataIdentity;

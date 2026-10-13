@@ -12,4 +12,3 @@ class Avatar {
 }
 
 export { Avatar };
-export default Avatar;

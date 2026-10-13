@@ -12,4 +12,3 @@ class RangeControls {
 }
 
 export { RangeControls };
-export default RangeControls;

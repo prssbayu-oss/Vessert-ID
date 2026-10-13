@@ -12,4 +12,3 @@ class JSONLoader {
 }
 
 export { JSONLoader };
-export default JSONLoader;

@@ -12,4 +12,3 @@ class Style {
 }
 
 export { Style };
-export default Style;

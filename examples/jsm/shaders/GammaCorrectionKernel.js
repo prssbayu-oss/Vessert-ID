@@ -12,4 +12,3 @@ class GammaCorrectionKernel {
 }
 
 export { GammaCorrectionKernel };
-export default GammaCorrectionKernel;

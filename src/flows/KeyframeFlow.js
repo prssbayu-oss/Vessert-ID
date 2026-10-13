@@ -12,4 +12,3 @@ class KeyframeFlow {
 }
 
 export { KeyframeFlow };
-export default KeyframeFlow;

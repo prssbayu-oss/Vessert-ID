@@ -12,4 +12,3 @@ class SpotModeration {
 }
 
 export { SpotModeration };
-export default SpotModeration;

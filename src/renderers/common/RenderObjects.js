@@ -12,4 +12,3 @@ class RenderObjects {
 }
 
 export { RenderObjects };
-export default RenderObjects;

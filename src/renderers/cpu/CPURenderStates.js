@@ -12,4 +12,3 @@ class CPURenderStates {
 }
 
 export { CPURenderStates };
-export default CPURenderStates;

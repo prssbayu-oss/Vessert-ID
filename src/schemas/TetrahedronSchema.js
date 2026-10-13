@@ -12,4 +12,3 @@ class TetrahedronSchema {
 }
 
 export { TetrahedronSchema };
-export default TetrahedronSchema;

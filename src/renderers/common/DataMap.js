@@ -12,4 +12,3 @@ class DataMap {
 }
 
 export { DataMap };
-export default DataMap;

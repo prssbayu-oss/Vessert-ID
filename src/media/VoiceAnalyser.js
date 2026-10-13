@@ -12,4 +12,3 @@ class VoiceAnalyser {
 }
 
 export { VoiceAnalyser };
-export default VoiceAnalyser;

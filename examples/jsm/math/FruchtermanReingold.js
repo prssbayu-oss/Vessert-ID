@@ -12,4 +12,3 @@ class FruchtermanReingold {
 }
 
 export { FruchtermanReingold };
-export default FruchtermanReingold;

@@ -12,4 +12,3 @@ class HITS {
 }
 
 export { HITS };
-export default HITS;

@@ -12,4 +12,3 @@ class DataUtils {
 }
 
 export { DataUtils };
-export default DataUtils;

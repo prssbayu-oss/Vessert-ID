@@ -12,4 +12,3 @@ class Handle {
 }
 
 export { Handle };
-export default Handle;

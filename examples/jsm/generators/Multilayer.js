@@ -12,4 +12,3 @@ class Multilayer {
 }
 
 export { Multilayer };
-export default Multilayer;

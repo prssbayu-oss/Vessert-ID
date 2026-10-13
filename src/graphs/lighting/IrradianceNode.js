@@ -12,4 +12,3 @@ class IrradianceNode {
 }
 
 export { IrradianceNode };
-export default IrradianceNode;

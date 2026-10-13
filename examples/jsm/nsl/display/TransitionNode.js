@@ -12,4 +12,3 @@ class TransitionNode {
 }
 
 export { TransitionNode };
-export default TransitionNode;

@@ -12,4 +12,3 @@ class SignalRefNode {
 }
 
 export { SignalRefNode };
-export default SignalRefNode;

@@ -12,4 +12,3 @@ class PhysicsBase {
 }
 
 export { PhysicsBase };
-export default PhysicsBase;

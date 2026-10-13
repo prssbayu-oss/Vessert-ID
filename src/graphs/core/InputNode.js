@@ -12,4 +12,3 @@ class InputNode {
 }
 
 export { InputNode };
-export default InputNode;

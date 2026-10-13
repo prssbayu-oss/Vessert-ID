@@ -12,4 +12,3 @@ class GPUComputePassDescriptor {
 }
 
 export { GPUComputePassDescriptor };
-export default GPUComputePassDescriptor;

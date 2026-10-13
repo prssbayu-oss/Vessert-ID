@@ -12,4 +12,3 @@ class ParametersGroup {
 }
 
 export { ParametersGroup };
-export default ParametersGroup;

@@ -12,4 +12,3 @@ class MapperUtils {
 }
 
 export { MapperUtils };
-export default MapperUtils;

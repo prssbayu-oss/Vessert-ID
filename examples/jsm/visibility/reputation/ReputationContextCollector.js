@@ -12,4 +12,3 @@ class ReputationContextCollector {
 }
 
 export { ReputationContextCollector };
-export default ReputationContextCollector;

@@ -12,4 +12,3 @@ class CompressedArrayIdentity {
 }
 
 export { CompressedArrayIdentity };
-export default CompressedArrayIdentity;

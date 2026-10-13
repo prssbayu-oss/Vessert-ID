@@ -12,4 +12,3 @@ class Voice {
 }
 
 export { Voice };
-export default Voice;

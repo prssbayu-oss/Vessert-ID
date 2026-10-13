@@ -12,4 +12,3 @@ class LineBasicNodeSignal {
 }
 
 export { LineBasicNodeSignal };
-export default LineBasicNodeSignal;

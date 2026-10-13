@@ -12,4 +12,3 @@ class MyBBLoader {
 }
 
 export { MyBBLoader };
-export default MyBBLoader;

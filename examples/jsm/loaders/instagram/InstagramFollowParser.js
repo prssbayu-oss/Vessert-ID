@@ -12,4 +12,3 @@ class InstagramFollowParser {
 }
 
 export { InstagramFollowParser };
-export default InstagramFollowParser;

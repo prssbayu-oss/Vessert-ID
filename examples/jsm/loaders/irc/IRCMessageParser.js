@@ -12,4 +12,3 @@ class IRCMessageParser {
 }
 
 export { IRCMessageParser };
-export default IRCMessageParser;

@@ -12,4 +12,3 @@ class BadgeSignal {
 }
 
 export { BadgeSignal };
-export default BadgeSignal;

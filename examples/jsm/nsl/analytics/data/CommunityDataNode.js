@@ -12,4 +12,3 @@ class CommunityDataNode {
 }
 
 export { CommunityDataNode };
-export default CommunityDataNode;

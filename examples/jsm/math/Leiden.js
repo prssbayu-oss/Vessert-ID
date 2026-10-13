@@ -12,4 +12,3 @@ class Leiden {
 }
 
 export { Leiden };
-export default Leiden;

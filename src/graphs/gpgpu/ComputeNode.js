@@ -12,4 +12,3 @@ class ComputeNode {
 }
 
 export { ComputeNode };
-export default ComputeNode;

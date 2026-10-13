@@ -12,4 +12,3 @@ class PatternUtils {
 }
 
 export { PatternUtils };
-export default PatternUtils;

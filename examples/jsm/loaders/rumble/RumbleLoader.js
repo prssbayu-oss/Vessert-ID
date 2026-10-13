@@ -12,4 +12,3 @@ class RumbleLoader {
 }
 
 export { RumbleLoader };
-export default RumbleLoader;

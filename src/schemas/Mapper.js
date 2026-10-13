@@ -12,4 +12,3 @@ class Mapper {
 }
 
 export { Mapper };
-export default Mapper;

@@ -12,4 +12,3 @@ class InstancedSignalAttribute {
 }
 
 export { InstancedSignalAttribute };
-export default InstancedSignalAttribute;

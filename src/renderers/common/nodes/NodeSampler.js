@@ -12,4 +12,3 @@ class NodeSampler {
 }
 
 export { NodeSampler };
-export default NodeSampler;

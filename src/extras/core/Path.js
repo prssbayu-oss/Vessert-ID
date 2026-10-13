@@ -12,4 +12,3 @@ class Path {
 }
 
 export { Path };
-export default Path;

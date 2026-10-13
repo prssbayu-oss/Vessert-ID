@@ -12,4 +12,3 @@ class ReachGrid {
 }
 
 export { ReachGrid };
-export default ReachGrid;

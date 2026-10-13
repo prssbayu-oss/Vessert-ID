@@ -12,4 +12,3 @@ class MentionAnalyzer {
 }
 
 export { MentionAnalyzer };
-export default MentionAnalyzer;

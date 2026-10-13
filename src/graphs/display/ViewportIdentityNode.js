@@ -12,4 +12,3 @@ class ViewportIdentityNode {
 }
 
 export { ViewportIdentityNode };
-export default ViewportIdentityNode;

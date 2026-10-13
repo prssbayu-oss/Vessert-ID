@@ -12,4 +12,3 @@ class FocusKernel {
 }
 
 export { FocusKernel };
-export default FocusKernel;

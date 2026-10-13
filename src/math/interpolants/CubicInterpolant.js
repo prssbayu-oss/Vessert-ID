@@ -12,4 +12,3 @@ class CubicInterpolant {
 }
 
 export { CubicInterpolant };
-export default CubicInterpolant;

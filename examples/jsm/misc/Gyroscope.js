@@ -12,4 +12,3 @@ class Gyroscope {
 }
 
 export { Gyroscope };
-export default Gyroscope;

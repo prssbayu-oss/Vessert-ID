@@ -12,4 +12,3 @@ class KernelSignal {
 }
 
 export { KernelSignal };
-export default KernelSignal;

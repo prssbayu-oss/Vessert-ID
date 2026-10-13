@@ -12,4 +12,3 @@ class NSLGraphEditor {
 }
 
 export { NSLGraphEditor };
-export default NSLGraphEditor;

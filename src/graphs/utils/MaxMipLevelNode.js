@@ -12,4 +12,3 @@ class MaxMipLevelNode {
 }
 
 export { MaxMipLevelNode };
-export default MaxMipLevelNode;

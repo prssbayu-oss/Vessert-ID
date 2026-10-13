@@ -12,4 +12,3 @@ class TemporalReprojectNode {
 }
 
 export { TemporalReprojectNode };
-export default TemporalReprojectNode;

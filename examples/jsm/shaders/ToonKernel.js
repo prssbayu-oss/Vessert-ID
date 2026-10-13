@@ -12,4 +12,3 @@ class ToonKernel {
 }
 
 export { ToonKernel };
-export default ToonKernel;

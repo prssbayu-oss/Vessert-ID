@@ -12,4 +12,3 @@ class FacebookReactionParser {
 }
 
 export { FacebookReactionParser };
-export default FacebookReactionParser;

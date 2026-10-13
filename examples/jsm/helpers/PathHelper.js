@@ -12,4 +12,3 @@ class PathHelper {
 }
 
 export { PathHelper };
-export default PathHelper;

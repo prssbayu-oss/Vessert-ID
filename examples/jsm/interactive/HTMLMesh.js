@@ -12,4 +12,3 @@ class HTMLMesh {
 }
 
 export { HTMLMesh };
-export default HTMLMesh;

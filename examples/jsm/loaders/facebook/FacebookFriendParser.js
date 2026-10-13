@@ -12,4 +12,3 @@ class FacebookFriendParser {
 }
 
 export { FacebookFriendParser };
-export default FacebookFriendParser;

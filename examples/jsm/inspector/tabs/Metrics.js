@@ -12,4 +12,3 @@ class Metrics {
 }
 
 export { Metrics };
-export default Metrics;

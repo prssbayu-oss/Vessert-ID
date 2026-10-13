@@ -12,4 +12,3 @@ class ReactionGenerator {
 }
 
 export { ReactionGenerator };
-export default ReactionGenerator;

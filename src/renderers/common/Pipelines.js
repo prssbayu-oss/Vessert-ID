@@ -12,4 +12,3 @@ class Pipelines {
 }
 
 export { Pipelines };
-export default Pipelines;

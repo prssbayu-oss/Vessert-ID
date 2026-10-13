@@ -12,4 +12,3 @@ class MastodonPostParser {
 }
 
 export { MastodonPostParser };
-export default MastodonPostParser;

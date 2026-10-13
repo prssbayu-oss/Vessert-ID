@@ -12,4 +12,3 @@ class EchoChamberDetector {
 }
 
 export { EchoChamberDetector };
-export default EchoChamberDetector;

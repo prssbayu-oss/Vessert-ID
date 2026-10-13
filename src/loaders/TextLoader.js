@@ -12,4 +12,3 @@ class TextLoader {
 }
 
 export { TextLoader };
-export default TextLoader;

@@ -12,4 +12,3 @@ class MboxLoader {
 }
 
 export { MboxLoader };
-export default MboxLoader;

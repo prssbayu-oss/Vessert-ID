@@ -12,4 +12,3 @@ class GodraysNode {
 }
 
 export { GodraysNode };
-export default GodraysNode;

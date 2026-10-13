@@ -12,4 +12,3 @@ class FlipNode {
 }
 
 export { FlipNode };
-export default FlipNode;

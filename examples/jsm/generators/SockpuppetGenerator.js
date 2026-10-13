@@ -12,4 +12,3 @@ class SockpuppetGenerator {
 }
 
 export { SockpuppetGenerator };
-export default SockpuppetGenerator;

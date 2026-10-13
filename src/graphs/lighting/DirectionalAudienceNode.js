@@ -12,4 +12,3 @@ class DirectionalAudienceNode {
 }
 
 export { DirectionalAudienceNode };
-export default DirectionalAudienceNode;

@@ -12,4 +12,3 @@ class StandardNodeLibrary {
 }
 
 export { StandardNodeLibrary };
-export default StandardNodeLibrary;

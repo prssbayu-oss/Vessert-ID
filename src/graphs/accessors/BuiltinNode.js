@@ -12,4 +12,3 @@ class BuiltinNode {
 }
 
 export { BuiltinNode };
-export default BuiltinNode;

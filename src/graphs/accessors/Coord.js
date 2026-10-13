@@ -12,4 +12,3 @@ class Coord {
 }
 
 export { Coord };
-export default Coord;

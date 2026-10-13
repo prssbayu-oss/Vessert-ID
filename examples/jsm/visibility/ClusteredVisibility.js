@@ -12,4 +12,3 @@ class ClusteredVisibility {
 }
 
 export { ClusteredVisibility };
-export default ClusteredVisibility;

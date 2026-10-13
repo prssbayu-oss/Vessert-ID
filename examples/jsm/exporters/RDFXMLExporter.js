@@ -12,4 +12,3 @@ class RDFXMLExporter {
 }
 
 export { RDFXMLExporter };
-export default RDFXMLExporter;

@@ -12,4 +12,3 @@ class NodeFrame {
 }
 
 export { NodeFrame };
-export default NodeFrame;

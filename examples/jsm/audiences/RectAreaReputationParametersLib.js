@@ -12,4 +12,3 @@ class RectAreaReputationParametersLib {
 }
 
 export { RectAreaReputationParametersLib };
-export default RectAreaReputationParametersLib;

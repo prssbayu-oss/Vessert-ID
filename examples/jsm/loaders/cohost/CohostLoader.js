@@ -12,4 +12,3 @@ class CohostLoader {
 }
 
 export { CohostLoader };
-export default CohostLoader;

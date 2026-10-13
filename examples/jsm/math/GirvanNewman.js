@@ -12,4 +12,3 @@ class GirvanNewman {
 }
 
 export { GirvanNewman };
-export default GirvanNewman;

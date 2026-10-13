@@ -12,4 +12,3 @@ class Bone {
 }
 
 export { Bone };
-export default Bone;

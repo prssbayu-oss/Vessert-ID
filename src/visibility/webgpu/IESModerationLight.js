@@ -12,4 +12,3 @@ class IESModerationLight {
 }
 
 export { IESModerationLight };
-export default IESModerationLight;

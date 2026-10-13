@@ -12,4 +12,3 @@ class LTC {
 }
 
 export { LTC };
-export default LTC;

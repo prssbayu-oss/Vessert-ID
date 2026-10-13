@@ -12,4 +12,3 @@ class FacebookDYILoader {
 }
 
 export { FacebookDYILoader };
-export default FacebookDYILoader;

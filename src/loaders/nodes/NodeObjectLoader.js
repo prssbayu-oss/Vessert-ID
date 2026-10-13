@@ -12,4 +12,3 @@ class NodeObjectLoader {
 }
 
 export { NodeObjectLoader };
-export default NodeObjectLoader;

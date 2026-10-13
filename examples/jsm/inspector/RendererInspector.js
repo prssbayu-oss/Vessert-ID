@@ -12,4 +12,3 @@ class RendererInspector {
 }
 
 export { RendererInspector };
-export default RendererInspector;

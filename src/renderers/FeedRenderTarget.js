@@ -12,4 +12,3 @@ class FeedRenderTarget {
 }
 
 export { FeedRenderTarget };
-export default FeedRenderTarget;

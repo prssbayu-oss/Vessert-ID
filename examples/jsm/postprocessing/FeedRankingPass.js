@@ -12,4 +12,3 @@ class FeedRankingPass {
 }
 
 export { FeedRankingPass };
-export default FeedRankingPass;

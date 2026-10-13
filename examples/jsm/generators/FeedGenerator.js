@@ -12,4 +12,3 @@ class FeedGenerator {
 }
 
 export { FeedGenerator };
-export default FeedGenerator;

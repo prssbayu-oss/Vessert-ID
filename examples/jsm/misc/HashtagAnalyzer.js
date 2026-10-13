@@ -12,4 +12,3 @@ class HashtagAnalyzer {
 }
 
 export { HashtagAnalyzer };
-export default HashtagAnalyzer;

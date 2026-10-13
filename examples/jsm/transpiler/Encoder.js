@@ -12,4 +12,3 @@ class Encoder {
 }
 
 export { Encoder };
-export default Encoder;

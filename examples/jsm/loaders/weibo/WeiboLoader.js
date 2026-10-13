@@ -12,4 +12,3 @@ class WeiboLoader {
 }
 
 export { WeiboLoader };
-export default WeiboLoader;

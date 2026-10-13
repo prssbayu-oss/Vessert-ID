@@ -12,4 +12,3 @@ class ToneManagement {
 }
 
 export { ToneManagement };
-export default ToneManagement;

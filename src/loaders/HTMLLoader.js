@@ -12,4 +12,3 @@ class HTMLLoader {
 }
 
 export { HTMLLoader };
-export default HTMLLoader;

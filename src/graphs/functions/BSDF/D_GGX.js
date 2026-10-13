@@ -12,4 +12,3 @@ class D_GGX {
 }
 
 export { D_GGX };
-export default D_GGX;

@@ -12,4 +12,3 @@ class InstagramPostParser {
 }
 
 export { InstagramPostParser };
-export default InstagramPostParser;

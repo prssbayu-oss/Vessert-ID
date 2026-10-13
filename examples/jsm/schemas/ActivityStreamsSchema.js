@@ -12,4 +12,3 @@ class ActivityStreamsSchema {
 }
 
 export { ActivityStreamsSchema };
-export default ActivityStreamsSchema;

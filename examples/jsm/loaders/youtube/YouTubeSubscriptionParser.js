@@ -12,4 +12,3 @@ class YouTubeSubscriptionParser {
 }
 
 export { YouTubeSubscriptionParser };
-export default YouTubeSubscriptionParser;

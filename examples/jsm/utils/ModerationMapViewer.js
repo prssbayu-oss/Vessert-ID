@@ -12,4 +12,3 @@ class ModerationMapViewer {
 }
 
 export { ModerationMapViewer };
-export default ModerationMapViewer;

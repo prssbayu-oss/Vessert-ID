@@ -12,4 +12,3 @@ class ARButton {
 }
 
 export { ARButton };
-export default ARButton;

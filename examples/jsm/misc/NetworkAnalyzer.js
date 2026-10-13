@@ -12,4 +12,3 @@ class NetworkAnalyzer {
 }
 
 export { NetworkAnalyzer };
-export default NetworkAnalyzer;

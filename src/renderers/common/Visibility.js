@@ -12,4 +12,3 @@ class Visibility {
 }
 
 export { Visibility };
-export default Visibility;

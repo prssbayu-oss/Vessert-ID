@@ -12,4 +12,3 @@ class LineLoop {
 }
 
 export { LineLoop };
-export default LineLoop;

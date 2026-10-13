@@ -12,4 +12,3 @@ class ToneMappingNode {
 }
 
 export { ToneMappingNode };
-export default ToneMappingNode;

@@ -12,4 +12,3 @@ class AttractionNode {
 }
 
 export { AttractionNode };
-export default AttractionNode;

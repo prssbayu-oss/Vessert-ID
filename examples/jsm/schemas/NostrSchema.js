@@ -12,4 +12,3 @@ class NostrSchema {
 }
 
 export { NostrSchema };
-export default NostrSchema;

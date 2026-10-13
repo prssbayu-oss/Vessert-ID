@@ -12,4 +12,3 @@ class ParlerLoader {
 }
 
 export { ParlerLoader };
-export default ParlerLoader;

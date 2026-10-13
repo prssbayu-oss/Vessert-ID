@@ -12,4 +12,3 @@ class HubzillaLoader {
 }
 
 export { HubzillaLoader };
-export default HubzillaLoader;

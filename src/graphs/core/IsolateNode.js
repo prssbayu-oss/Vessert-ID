@@ -12,4 +12,3 @@ class IsolateNode {
 }
 
 export { IsolateNode };
-export default IsolateNode;

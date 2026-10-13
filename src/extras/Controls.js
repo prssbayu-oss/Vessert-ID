@@ -12,4 +12,3 @@ class Controls {
 }
 
 export { Controls };
-export default Controls;

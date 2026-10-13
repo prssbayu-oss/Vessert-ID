@@ -12,4 +12,3 @@ class NostrRelayLoader {
 }
 
 export { NostrRelayLoader };
-export default NostrRelayLoader;

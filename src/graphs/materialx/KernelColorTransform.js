@@ -12,4 +12,3 @@ class KernelColorTransform {
 }
 
 export { KernelColorTransform };
-export default KernelColorTransform;

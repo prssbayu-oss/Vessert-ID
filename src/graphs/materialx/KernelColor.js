@@ -12,4 +12,3 @@ class KernelColor {
 }
 
 export { KernelColor };
-export default KernelColor;

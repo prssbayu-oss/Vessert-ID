@@ -12,4 +12,3 @@ class MathUtils {
 }
 
 export { MathUtils };
-export default MathUtils;

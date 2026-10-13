@@ -12,4 +12,3 @@ class MRTNode {
 }
 
 export { MRTNode };
-export default MRTNode;

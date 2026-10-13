@@ -12,4 +12,3 @@ class XenForoLoader {
 }
 
 export { XenForoLoader };
-export default XenForoLoader;

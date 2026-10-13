@@ -12,4 +12,3 @@ class StructTypeNode {
 }
 
 export { StructTypeNode };
-export default StructTypeNode;

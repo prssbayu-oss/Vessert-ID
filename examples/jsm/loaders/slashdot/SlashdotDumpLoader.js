@@ -12,4 +12,3 @@ class SlashdotDumpLoader {
 }
 
 export { SlashdotDumpLoader };
-export default SlashdotDumpLoader;

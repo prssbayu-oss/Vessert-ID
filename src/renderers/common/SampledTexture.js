@@ -12,4 +12,3 @@ class SampledTexture {
 }
 
 export { SampledTexture };
-export default SampledTexture;

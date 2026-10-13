@@ -12,4 +12,3 @@ class SSRNode {
 }
 
 export { SSRNode };
-export default SSRNode;

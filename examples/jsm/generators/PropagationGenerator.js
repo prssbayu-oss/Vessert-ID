@@ -12,4 +12,3 @@ class PropagationGenerator {
 }
 
 export { PropagationGenerator };
-export default PropagationGenerator;

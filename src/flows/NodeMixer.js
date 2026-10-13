@@ -12,4 +12,3 @@ class NodeMixer {
 }
 
 export { NodeMixer };
-export default NodeMixer;

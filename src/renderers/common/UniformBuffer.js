@@ -12,4 +12,3 @@ class UniformBuffer {
 }
 
 export { UniformBuffer };
-export default UniformBuffer;

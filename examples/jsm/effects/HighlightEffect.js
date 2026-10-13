@@ -12,4 +12,3 @@ class HighlightEffect {
 }
 
 export { HighlightEffect };
-export default HighlightEffect;

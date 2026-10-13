@@ -12,4 +12,3 @@ class Identity3DNode {
 }
 
 export { Identity3DNode };
-export default Identity3DNode;

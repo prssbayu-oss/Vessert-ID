@@ -12,4 +12,3 @@ class HermiteTrajectory {
 }
 
 export { HermiteTrajectory };
-export default HermiteTrajectory;

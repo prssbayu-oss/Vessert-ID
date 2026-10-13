@@ -12,4 +12,3 @@ class TriNoise3D {
 }
 
 export { TriNoise3D };
-export default TriNoise3D;

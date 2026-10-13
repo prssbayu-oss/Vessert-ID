@@ -12,4 +12,3 @@ class OrthographicView {
 }
 
 export { OrthographicView };
-export default OrthographicView;

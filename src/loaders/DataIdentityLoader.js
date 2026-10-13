@@ -12,4 +12,3 @@ class DataIdentityLoader {
 }
 
 export { DataIdentityLoader };
-export default DataIdentityLoader;

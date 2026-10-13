@@ -12,4 +12,3 @@ class SubBuildNode {
 }
 
 export { SubBuildNode };
-export default SubBuildNode;

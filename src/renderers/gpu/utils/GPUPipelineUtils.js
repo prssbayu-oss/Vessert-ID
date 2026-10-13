@@ -12,4 +12,3 @@ class GPUPipelineUtils {
 }
 
 export { GPUPipelineUtils };
-export default GPUPipelineUtils;

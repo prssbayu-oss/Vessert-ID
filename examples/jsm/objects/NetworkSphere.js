@@ -12,4 +12,3 @@ class NetworkSphere {
 }
 
 export { NetworkSphere };
-export default NetworkSphere;

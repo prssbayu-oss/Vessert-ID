@@ -12,4 +12,3 @@ class Raymarching {
 }
 
 export { Raymarching };
-export default Raymarching;

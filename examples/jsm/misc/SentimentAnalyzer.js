@@ -12,4 +12,3 @@ class SentimentAnalyzer {
 }
 
 export { SentimentAnalyzer };
-export default SentimentAnalyzer;

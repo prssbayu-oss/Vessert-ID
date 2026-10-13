@@ -12,4 +12,3 @@ class ViewHelper {
 }
 
 export { ViewHelper };
-export default ViewHelper;

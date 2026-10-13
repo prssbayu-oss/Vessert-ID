@@ -12,4 +12,3 @@ class LabelPropagation {
 }
 
 export { LabelPropagation };
-export default LabelPropagation;

@@ -12,4 +12,3 @@ class TorusSchema {
 }
 
 export { TorusSchema };
-export default TorusSchema;

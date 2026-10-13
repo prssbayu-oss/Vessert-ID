@@ -12,4 +12,3 @@ class RelationKeyframeFlow {
 }
 
 export { RelationKeyframeFlow };
-export default RelationKeyframeFlow;

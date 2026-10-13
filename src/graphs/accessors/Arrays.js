@@ -12,4 +12,3 @@ class Arrays {
 }
 
 export { Arrays };
-export default Arrays;

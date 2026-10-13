@@ -12,4 +12,3 @@ class CascadeHelper {
 }
 
 export { CascadeHelper };
-export default CascadeHelper;

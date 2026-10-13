@@ -12,4 +12,3 @@ class ReputationVolume {
 }
 
 export { ReputationVolume };
-export default ReputationVolume;

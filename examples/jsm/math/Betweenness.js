@@ -12,4 +12,3 @@ class Betweenness {
 }
 
 export { Betweenness };
-export default Betweenness;

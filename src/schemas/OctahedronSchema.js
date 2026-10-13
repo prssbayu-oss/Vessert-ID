@@ -12,4 +12,3 @@ class OctahedronSchema {
 }
 
 export { OctahedronSchema };
-export default OctahedronSchema;

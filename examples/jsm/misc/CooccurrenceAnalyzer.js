@@ -12,4 +12,3 @@ class CooccurrenceAnalyzer {
 }
 
 export { CooccurrenceAnalyzer };
-export default CooccurrenceAnalyzer;

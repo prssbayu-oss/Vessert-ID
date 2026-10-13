@@ -12,4 +12,3 @@ class Katz {
 }
 
 export { Katz };
-export default Katz;

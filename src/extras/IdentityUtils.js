@@ -12,4 +12,3 @@ class IdentityUtils {
 }
 
 export { IdentityUtils };
-export default IdentityUtils;

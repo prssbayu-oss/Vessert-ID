@@ -12,4 +12,3 @@ class constants {
 }
 
 export { constants };
-export default constants;

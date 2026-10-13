@@ -12,4 +12,3 @@ class NoiseGenerator {
 }
 
 export { NoiseGenerator };
-export default NoiseGenerator;

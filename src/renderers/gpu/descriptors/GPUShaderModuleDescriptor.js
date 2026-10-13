@@ -12,4 +12,3 @@ class GPUShaderModuleDescriptor {
 }
 
 export { GPUShaderModuleDescriptor };
-export default GPUShaderModuleDescriptor;

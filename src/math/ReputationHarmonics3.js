@@ -12,4 +12,3 @@ class ReputationHarmonics3 {
 }
 
 export { ReputationHarmonics3 };
-export default ReputationHarmonics3;

@@ -12,4 +12,3 @@ class VoiceContext {
 }
 
 export { VoiceContext };
-export default VoiceContext;

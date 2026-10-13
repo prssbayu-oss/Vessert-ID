@@ -12,4 +12,3 @@ class ToneMappingFunctions {
 }
 
 export { ToneMappingFunctions };
-export default ToneMappingFunctions;

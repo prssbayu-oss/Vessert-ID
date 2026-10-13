@@ -12,4 +12,3 @@ class AudienceUtils {
 }
 
 export { AudienceUtils };
-export default AudienceUtils;

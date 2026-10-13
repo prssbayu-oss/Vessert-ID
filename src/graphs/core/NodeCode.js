@@ -12,4 +12,3 @@ class NodeCode {
 }
 
 export { NodeCode };
-export default NodeCode;

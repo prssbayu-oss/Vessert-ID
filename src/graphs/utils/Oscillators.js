@@ -12,4 +12,3 @@ class Oscillators {
 }
 
 export { Oscillators };
-export default Oscillators;

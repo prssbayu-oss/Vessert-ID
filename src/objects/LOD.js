@@ -12,4 +12,3 @@ class LOD {
 }
 
 export { LOD };
-export default LOD;

@@ -12,4 +12,3 @@ class ContextPlaneHelper {
 }
 
 export { ContextPlaneHelper };
-export default ContextPlaneHelper;

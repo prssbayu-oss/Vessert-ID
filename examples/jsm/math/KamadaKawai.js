@@ -12,4 +12,3 @@ class KamadaKawai {
 }
 
 export { KamadaKawai };
-export default KamadaKawai;

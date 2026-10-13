@@ -12,4 +12,3 @@ class TrailEffect {
 }
 
 export { TrailEffect };
-export default TrailEffect;

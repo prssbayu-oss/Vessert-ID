@@ -12,4 +12,3 @@ class GettrLoader {
 }
 
 export { GettrLoader };
-export default GettrLoader;

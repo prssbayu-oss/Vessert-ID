@@ -12,4 +12,3 @@ class CPUComputePass {
 }
 
 export { CPUComputePass };
-export default CPUComputePass;

@@ -12,4 +12,3 @@ class OrkutLoader {
 }
 
 export { OrkutLoader };
-export default OrkutLoader;

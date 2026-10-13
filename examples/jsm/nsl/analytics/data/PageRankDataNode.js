@@ -12,4 +12,3 @@ class PageRankDataNode {
 }
 
 export { PageRankDataNode };
-export default PageRankDataNode;

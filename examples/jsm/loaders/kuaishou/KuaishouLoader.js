@@ -12,4 +12,3 @@ class KuaishouLoader {
 }
 
 export { KuaishouLoader };
-export default KuaishouLoader;

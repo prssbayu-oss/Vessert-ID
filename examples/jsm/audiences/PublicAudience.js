@@ -12,4 +12,3 @@ class PublicAudience {
 }
 
 export { PublicAudience };
-export default PublicAudience;

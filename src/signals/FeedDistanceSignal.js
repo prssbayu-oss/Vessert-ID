@@ -12,4 +12,3 @@ class FeedDistanceSignal {
 }
 
 export { FeedDistanceSignal };
-export default FeedDistanceSignal;

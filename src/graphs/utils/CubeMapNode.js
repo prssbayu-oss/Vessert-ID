@@ -12,4 +12,3 @@ class CubeMapNode {
 }
 
 export { CubeMapNode };
-export default CubeMapNode;

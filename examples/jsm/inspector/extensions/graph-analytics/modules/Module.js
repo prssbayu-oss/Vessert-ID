@@ -12,4 +12,3 @@ class Module {
 }
 
 export { Module };
-export default Module;

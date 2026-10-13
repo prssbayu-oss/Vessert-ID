@@ -12,4 +12,3 @@ class Signals {
 }
 
 export { Signals };
-export default Signals;

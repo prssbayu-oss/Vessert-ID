@@ -12,4 +12,3 @@ class ToneKeyframeFlow {
 }
 
 export { ToneKeyframeFlow };
-export default ToneKeyframeFlow;

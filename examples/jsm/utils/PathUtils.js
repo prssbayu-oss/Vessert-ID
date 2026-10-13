@@ -12,4 +12,3 @@ class PathUtils {
 }
 
 export { PathUtils };
-export default PathUtils;

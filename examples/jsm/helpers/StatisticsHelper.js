@@ -12,4 +12,3 @@ class StatisticsHelper {
 }
 
 export { StatisticsHelper };
-export default StatisticsHelper;

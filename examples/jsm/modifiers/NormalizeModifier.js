@@ -12,4 +12,3 @@ class NormalizeModifier {
 }
 
 export { NormalizeModifier };
-export default NormalizeModifier;

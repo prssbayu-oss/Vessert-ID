@@ -12,4 +12,3 @@ class RepulsionPhysics {
 }
 
 export { RepulsionPhysics };
-export default RepulsionPhysics;

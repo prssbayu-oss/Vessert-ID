@@ -12,4 +12,3 @@ class MemberNode {
 }
 
 export { MemberNode };
-export default MemberNode;

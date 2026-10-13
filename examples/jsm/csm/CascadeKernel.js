@@ -12,4 +12,3 @@ class CascadeKernel {
 }
 
 export { CascadeKernel };
-export default CascadeKernel;

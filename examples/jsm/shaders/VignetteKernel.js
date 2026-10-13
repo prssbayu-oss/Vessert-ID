@@ -12,4 +12,3 @@ class VignetteKernel {
 }
 
 export { VignetteKernel };
-export default VignetteKernel;

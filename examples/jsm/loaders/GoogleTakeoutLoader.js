@@ -12,4 +12,3 @@ class GoogleTakeoutLoader {
 }
 
 export { GoogleTakeoutLoader };
-export default GoogleTakeoutLoader;

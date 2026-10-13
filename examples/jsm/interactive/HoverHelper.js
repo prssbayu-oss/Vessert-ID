@@ -12,4 +12,3 @@ class HoverHelper {
 }
 
 export { HoverHelper };
-export default HoverHelper;

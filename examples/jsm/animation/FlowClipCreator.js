@@ -12,4 +12,3 @@ class FlowClipCreator {
 }
 
 export { FlowClipCreator };
-export default FlowClipCreator;

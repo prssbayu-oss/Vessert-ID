@@ -12,4 +12,3 @@ class ConvexObjectBreaker {
 }
 
 export { ConvexObjectBreaker };
-export default ConvexObjectBreaker;

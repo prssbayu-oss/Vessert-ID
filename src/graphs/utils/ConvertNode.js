@@ -12,4 +12,3 @@ class ConvertNode {
 }
 
 export { ConvertNode };
-export default ConvertNode;

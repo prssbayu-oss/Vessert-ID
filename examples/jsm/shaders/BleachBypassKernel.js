@@ -12,4 +12,3 @@ class BleachBypassKernel {
 }
 
 export { BleachBypassKernel };
-export default BleachBypassKernel;

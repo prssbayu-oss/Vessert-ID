@@ -12,4 +12,3 @@ class SignalModerationKernel {
 }
 
 export { SignalModerationKernel };
-export default SignalModerationKernel;

@@ -12,4 +12,3 @@ class SplitModifier {
 }
 
 export { SplitModifier };
-export default SplitModifier;

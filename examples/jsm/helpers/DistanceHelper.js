@@ -12,4 +12,3 @@ class DistanceHelper {
 }
 
 export { DistanceHelper };
-export default DistanceHelper;

@@ -12,4 +12,3 @@ class BetweennessDataNode {
 }
 
 export { BetweennessDataNode };
-export default BetweennessDataNode;

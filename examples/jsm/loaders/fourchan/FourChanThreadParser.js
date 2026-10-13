@@ -12,4 +12,3 @@ class FourChanThreadParser {
 }
 
 export { FourChanThreadParser };
-export default FourChanThreadParser;

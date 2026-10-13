@@ -12,4 +12,3 @@ class AfterimageKernel {
 }
 
 export { AfterimageKernel };
-export default AfterimageKernel;

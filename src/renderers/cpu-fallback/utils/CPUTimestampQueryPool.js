@@ -12,4 +12,3 @@ class CPUTimestampQueryPool {
 }
 
 export { CPUTimestampQueryPool };
-export default CPUTimestampQueryPool;

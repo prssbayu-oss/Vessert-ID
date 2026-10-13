@@ -12,4 +12,3 @@ class BlueskyRepostParser {
 }
 
 export { BlueskyRepostParser };
-export default BlueskyRepostParser;

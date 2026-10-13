@@ -12,4 +12,3 @@ class FlowMixer {
 }
 
 export { FlowMixer };
-export default FlowMixer;

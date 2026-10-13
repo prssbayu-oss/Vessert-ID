@@ -12,4 +12,3 @@ class TimelineSort {
 }
 
 export { TimelineSort };
-export default TimelineSort;

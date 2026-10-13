@@ -12,4 +12,3 @@ class UnpackFloatNode {
 }
 
 export { UnpackFloatNode };
-export default UnpackFloatNode;

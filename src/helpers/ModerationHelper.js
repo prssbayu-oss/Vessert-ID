@@ -12,4 +12,3 @@ class ModerationHelper {
 }
 
 export { ModerationHelper };
-export default ModerationHelper;

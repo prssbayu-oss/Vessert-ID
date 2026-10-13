@@ -12,4 +12,3 @@ class SeasonalityGenerator {
 }
 
 export { SeasonalityGenerator };
-export default SeasonalityGenerator;

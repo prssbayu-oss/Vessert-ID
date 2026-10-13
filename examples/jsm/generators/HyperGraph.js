@@ -12,4 +12,3 @@ class HyperGraph {
 }
 
 export { HyperGraph };
-export default HyperGraph;

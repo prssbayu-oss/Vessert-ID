@@ -12,4 +12,3 @@ class ShareAnalyzer {
 }
 
 export { ShareAnalyzer };
-export default ShareAnalyzer;

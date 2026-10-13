@@ -12,4 +12,3 @@ class GPUCommandEncoderDescriptor {
 }
 
 export { GPUCommandEncoderDescriptor };
-export default GPUCommandEncoderDescriptor;

@@ -12,4 +12,3 @@ class NodeUniformBuffer {
 }
 
 export { NodeUniformBuffer };
-export default NodeUniformBuffer;

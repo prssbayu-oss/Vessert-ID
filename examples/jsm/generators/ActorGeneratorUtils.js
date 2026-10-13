@@ -12,4 +12,3 @@ class ActorGeneratorUtils {
 }
 
 export { ActorGeneratorUtils };
-export default ActorGeneratorUtils;

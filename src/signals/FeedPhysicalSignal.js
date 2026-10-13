@@ -12,4 +12,3 @@ class FeedPhysicalSignal {
 }
 
 export { FeedPhysicalSignal };
-export default FeedPhysicalSignal;

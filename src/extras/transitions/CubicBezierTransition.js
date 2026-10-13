@@ -12,4 +12,3 @@ class CubicBezierTransition {
 }
 
 export { CubicBezierTransition };
-export default CubicBezierTransition;

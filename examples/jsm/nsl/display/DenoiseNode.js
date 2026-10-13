@@ -12,4 +12,3 @@ class DenoiseNode {
 }
 
 export { DenoiseNode };
-export default DenoiseNode;

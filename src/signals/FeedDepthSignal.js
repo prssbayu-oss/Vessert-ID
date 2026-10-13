@@ -12,4 +12,3 @@ class FeedDepthSignal {
 }
 
 export { FeedDepthSignal };
-export default FeedDepthSignal;

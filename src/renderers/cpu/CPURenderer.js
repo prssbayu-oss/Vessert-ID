@@ -12,4 +12,3 @@ class CPURenderer {
 }
 
 export { CPURenderer };
-export default CPURenderer;

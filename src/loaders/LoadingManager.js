@@ -12,4 +12,3 @@ class LoadingManager {
 }
 
 export { LoadingManager };
-export default LoadingManager;

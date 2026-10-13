@@ -12,4 +12,3 @@ class GPUSignalAttribute {
 }
 
 export { GPUSignalAttribute };
-export default GPUSignalAttribute;

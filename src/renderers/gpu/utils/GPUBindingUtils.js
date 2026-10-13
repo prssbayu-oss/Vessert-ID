@@ -12,4 +12,3 @@ class GPUBindingUtils {
 }
 
 export { GPUBindingUtils };
-export default GPUBindingUtils;

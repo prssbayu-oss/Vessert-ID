@@ -12,4 +12,3 @@ class OutputStructNode {
 }
 
 export { OutputStructNode };
-export default OutputStructNode;

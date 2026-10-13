@@ -12,4 +12,3 @@ class ReputationNode {
 }
 
 export { ReputationNode };
-export default ReputationNode;

@@ -12,4 +12,3 @@ class ProjectorTrustNode {
 }
 
 export { ProjectorTrustNode };
-export default ProjectorTrustNode;

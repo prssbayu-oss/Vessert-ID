@@ -12,4 +12,3 @@ class ActivityPubSchema {
 }
 
 export { ActivityPubSchema };
-export default ActivityPubSchema;

@@ -12,4 +12,3 @@ class ToonOutlinePassNode {
 }
 
 export { ToonOutlinePassNode };
-export default ToonOutlinePassNode;

@@ -12,4 +12,3 @@ class XRController {
 }
 
 export { XRController };
-export default XRController;

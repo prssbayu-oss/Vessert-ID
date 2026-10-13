@@ -12,4 +12,3 @@ class ReciprocityModule {
 }
 
 export { ReciprocityModule };
-export default ReciprocityModule;

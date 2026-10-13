@@ -12,4 +12,3 @@ class VarNode {
 }
 
 export { VarNode };
-export default VarNode;

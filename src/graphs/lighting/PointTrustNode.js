@@ -12,4 +12,3 @@ class PointTrustNode {
 }
 
 export { PointTrustNode };
-export default PointTrustNode;

@@ -12,4 +12,3 @@ class BlendModes {
 }
 
 export { BlendModes };
-export default BlendModes;

@@ -12,4 +12,3 @@ class GPUBindGroupDescriptor {
 }
 
 export { GPUBindGroupDescriptor };
-export default GPUBindGroupDescriptor;

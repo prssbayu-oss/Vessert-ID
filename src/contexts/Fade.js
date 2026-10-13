@@ -12,4 +12,3 @@ class Fade {
 }
 
 export { Fade };
-export default Fade;

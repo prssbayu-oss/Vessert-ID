@@ -12,4 +12,3 @@ class getContextCorrectOrientation {
 }
 
 export { getContextCorrectOrientation };
-export default getContextCorrectOrientation;

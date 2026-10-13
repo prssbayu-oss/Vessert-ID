@@ -12,4 +12,3 @@ class ModerationNode {
 }
 
 export { ModerationNode };
-export default ModerationNode;

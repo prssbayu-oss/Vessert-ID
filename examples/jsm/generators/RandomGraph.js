@@ -12,4 +12,3 @@ class RandomGraph {
 }
 
 export { RandomGraph };
-export default RandomGraph;

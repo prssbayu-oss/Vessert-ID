@@ -12,4 +12,3 @@ class DirectRenderPipeline {
 }
 
 export { DirectRenderPipeline };
-export default DirectRenderPipeline;

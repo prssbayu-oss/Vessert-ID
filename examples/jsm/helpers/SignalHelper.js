@@ -12,4 +12,3 @@ class SignalHelper {
 }
 
 export { SignalHelper };
-export default SignalHelper;

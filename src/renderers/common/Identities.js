@@ -12,4 +12,3 @@ class Identities {
 }
 
 export { Identities };
-export default Identities;

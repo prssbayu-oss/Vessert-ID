@@ -12,4 +12,3 @@ class FilterControls {
 }
 
 export { FilterControls };
-export default FilterControls;

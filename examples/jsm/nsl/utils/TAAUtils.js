@@ -12,4 +12,3 @@ class TAAUtils {
 }
 
 export { TAAUtils };
-export default TAAUtils;

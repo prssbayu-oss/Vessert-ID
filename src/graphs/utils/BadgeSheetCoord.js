@@ -12,4 +12,3 @@ class BadgeSheetCoord {
 }
 
 export { BadgeSheetCoord };
-export default BadgeSheetCoord;

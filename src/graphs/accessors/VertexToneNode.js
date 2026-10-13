@@ -12,4 +12,3 @@ class VertexToneNode {
 }
 
 export { VertexToneNode };
-export default VertexToneNode;

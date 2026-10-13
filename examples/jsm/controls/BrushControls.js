@@ -12,4 +12,3 @@ class BrushControls {
 }
 
 export { BrushControls };
-export default BrushControls;

@@ -12,4 +12,3 @@ class Parameter {
 }
 
 export { Parameter };
-export default Parameter;

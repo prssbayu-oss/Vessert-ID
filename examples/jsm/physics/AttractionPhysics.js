@@ -12,4 +12,3 @@ class AttractionPhysics {
 }
 
 export { AttractionPhysics };
-export default AttractionPhysics;

@@ -12,4 +12,3 @@ class LinkedInArchiveLoader {
 }
 
 export { LinkedInArchiveLoader };
-export default LinkedInArchiveLoader;

@@ -12,4 +12,3 @@ class WindowModifier {
 }
 
 export { WindowModifier };
-export default WindowModifier;

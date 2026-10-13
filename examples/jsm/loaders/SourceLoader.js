@@ -12,4 +12,3 @@ class SourceLoader {
 }
 
 export { SourceLoader };
-export default SourceLoader;

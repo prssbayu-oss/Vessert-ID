@@ -12,4 +12,3 @@ class EdgesSchema {
 }
 
 export { EdgesSchema };
-export default EdgesSchema;

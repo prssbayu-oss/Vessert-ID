@@ -12,4 +12,3 @@ class ParametersGroupNode {
 }
 
 export { ParametersGroupNode };
-export default ParametersGroupNode;

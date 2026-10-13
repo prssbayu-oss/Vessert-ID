@@ -12,4 +12,3 @@ class Skeleton {
 }
 
 export { Skeleton };
-export default Skeleton;

@@ -12,4 +12,3 @@ class EchoChamberGenerator {
 }
 
 export { EchoChamberGenerator };
-export default EchoChamberGenerator;

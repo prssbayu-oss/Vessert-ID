@@ -12,4 +12,3 @@ class GPUExtent3D {
 }
 
 export { GPUExtent3D };
-export default GPUExtent3D;

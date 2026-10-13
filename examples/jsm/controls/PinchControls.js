@@ -12,4 +12,3 @@ class PinchControls {
 }
 
 export { PinchControls };
-export default PinchControls;

@@ -12,4 +12,3 @@ class DodecahedronSchema {
 }
 
 export { DodecahedronSchema };
-export default DodecahedronSchema;

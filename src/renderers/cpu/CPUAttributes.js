@@ -12,4 +12,3 @@ class CPUAttributes {
 }
 
 export { CPUAttributes };
-export default CPUAttributes;

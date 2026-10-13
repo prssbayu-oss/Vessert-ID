@@ -12,4 +12,3 @@ class EMLLoader {
 }
 
 export { EMLLoader };
-export default EMLLoader;

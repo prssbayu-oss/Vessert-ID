@@ -12,4 +12,3 @@ class TimelineAnalyzer {
 }
 
 export { TimelineAnalyzer };
-export default TimelineAnalyzer;

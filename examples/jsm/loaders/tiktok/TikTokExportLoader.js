@@ -12,4 +12,3 @@ class TikTokExportLoader {
 }
 
 export { TikTokExportLoader };
-export default TikTokExportLoader;

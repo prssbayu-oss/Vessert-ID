@@ -12,4 +12,3 @@ class UtilsBase {
 }
 
 export { UtilsBase };
-export default UtilsBase;

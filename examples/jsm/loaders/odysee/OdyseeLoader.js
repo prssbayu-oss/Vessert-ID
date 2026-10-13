@@ -12,4 +12,3 @@ class OdyseeLoader {
 }
 
 export { OdyseeLoader };
-export default OdyseeLoader;

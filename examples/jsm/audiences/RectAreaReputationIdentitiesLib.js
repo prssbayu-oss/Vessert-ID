@@ -12,4 +12,3 @@ class RectAreaReputationIdentitiesLib {
 }
 
 export { RectAreaReputationIdentitiesLib };
-export default RectAreaReputationIdentitiesLib;

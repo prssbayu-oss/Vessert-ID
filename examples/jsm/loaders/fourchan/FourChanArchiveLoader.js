@@ -12,4 +12,3 @@ class FourChanArchiveLoader {
 }
 
 export { FourChanArchiveLoader };
-export default FourChanArchiveLoader;

@@ -12,4 +12,3 @@ class GraphControls {
 }
 
 export { GraphControls };
-export default GraphControls;

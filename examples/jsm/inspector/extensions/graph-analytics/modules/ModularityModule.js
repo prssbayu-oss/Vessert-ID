@@ -12,4 +12,3 @@ class ModularityModule {
 }
 
 export { ModularityModule };
-export default ModularityModule;

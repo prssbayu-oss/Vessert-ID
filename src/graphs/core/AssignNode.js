@@ -12,4 +12,3 @@ class AssignNode {
 }
 
 export { AssignNode };
-export default AssignNode;

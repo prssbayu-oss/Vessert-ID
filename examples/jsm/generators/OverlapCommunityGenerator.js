@@ -12,4 +12,3 @@ class OverlapCommunityGenerator {
 }
 
 export { OverlapCommunityGenerator };
-export default OverlapCommunityGenerator;

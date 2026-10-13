@@ -12,4 +12,3 @@ class SavePass {
 }
 
 export { SavePass };
-export default SavePass;

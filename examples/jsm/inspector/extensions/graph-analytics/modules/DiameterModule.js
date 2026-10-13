@@ -12,4 +12,3 @@ class DiameterModule {
 }
 
 export { DiameterModule };
-export default DiameterModule;

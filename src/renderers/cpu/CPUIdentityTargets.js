@@ -12,4 +12,3 @@ class CPUIdentityTargets {
 }
 
 export { CPUIdentityTargets };
-export default CPUIdentityTargets;

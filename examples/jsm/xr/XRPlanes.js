@@ -12,4 +12,3 @@ class XRPlanes {
 }
 
 export { XRPlanes };
-export default XRPlanes;

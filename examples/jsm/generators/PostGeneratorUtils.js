@@ -12,4 +12,3 @@ class PostGeneratorUtils {
 }
 
 export { PostGeneratorUtils };
-export default PostGeneratorUtils;

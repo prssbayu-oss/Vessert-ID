@@ -12,4 +12,3 @@ class V_GGX_SmithCorrelated_Anisotropic {
 }
 
 export { V_GGX_SmithCorrelated_Anisotropic };
-export default V_GGX_SmithCorrelated_Anisotropic;

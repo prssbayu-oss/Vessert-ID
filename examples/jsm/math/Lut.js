@@ -12,4 +12,3 @@ class Lut {
 }
 
 export { Lut };
-export default Lut;

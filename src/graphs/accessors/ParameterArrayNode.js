@@ -12,4 +12,3 @@ class ParameterArrayNode {
 }
 
 export { ParameterArrayNode };
-export default ParameterArrayNode;

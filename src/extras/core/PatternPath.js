@@ -12,4 +12,3 @@ class PatternPath {
 }
 
 export { PatternPath };
-export default PatternPath;

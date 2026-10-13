@@ -12,4 +12,3 @@ class VoiceLoader {
 }
 
 export { VoiceLoader };
-export default VoiceLoader;

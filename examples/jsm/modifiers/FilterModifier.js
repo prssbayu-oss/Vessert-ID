@@ -12,4 +12,3 @@ class FilterModifier {
 }
 
 export { FilterModifier };
-export default FilterModifier;

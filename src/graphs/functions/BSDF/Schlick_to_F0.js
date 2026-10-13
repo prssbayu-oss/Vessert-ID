@@ -12,4 +12,3 @@ class Schlick_to_F0 {
 }
 
 export { Schlick_to_F0 };
-export default Schlick_to_F0;

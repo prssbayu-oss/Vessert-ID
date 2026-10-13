@@ -12,4 +12,3 @@ class BooleanKeyframeFlow {
 }
 
 export { BooleanKeyframeFlow };
-export default BooleanKeyframeFlow;

@@ -12,4 +12,3 @@ class BasicKernel {
 }
 
 export { BasicKernel };
-export default BasicKernel;

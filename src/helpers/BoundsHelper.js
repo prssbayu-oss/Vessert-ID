@@ -12,4 +12,3 @@ class BoundsHelper {
 }
 
 export { BoundsHelper };
-export default BoundsHelper;

@@ -12,4 +12,3 @@ class FeedDecayPass {
 }
 
 export { FeedDecayPass };
-export default FeedDecayPass;

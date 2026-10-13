@@ -12,4 +12,3 @@ class GraphRenderTarget {
 }
 
 export { GraphRenderTarget };
-export default GraphRenderTarget;

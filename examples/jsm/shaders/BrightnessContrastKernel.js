@@ -12,4 +12,3 @@ class BrightnessContrastKernel {
 }
 
 export { BrightnessContrastKernel };
-export default BrightnessContrastKernel;

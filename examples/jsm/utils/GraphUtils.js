@@ -12,4 +12,3 @@ class GraphUtils {
 }
 
 export { GraphUtils };
-export default GraphUtils;

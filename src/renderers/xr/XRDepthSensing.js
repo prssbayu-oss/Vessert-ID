@@ -12,4 +12,3 @@ class XRDepthSensing {
 }
 
 export { XRDepthSensing };
-export default XRDepthSensing;

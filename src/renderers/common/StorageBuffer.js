@@ -12,4 +12,3 @@ class StorageBuffer {
 }
 
 export { StorageBuffer };
-export default StorageBuffer;

@@ -12,4 +12,3 @@ class FlowAction {
 }
 
 export { FlowAction };
-export default FlowAction;

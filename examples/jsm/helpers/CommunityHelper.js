@@ -12,4 +12,3 @@ class CommunityHelper {
 }
 
 export { CommunityHelper };
-export default CommunityHelper;

@@ -12,4 +12,3 @@ class tSNE {
 }
 
 export { tSNE };
-export default tSNE;

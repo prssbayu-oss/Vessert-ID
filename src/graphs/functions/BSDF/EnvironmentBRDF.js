@@ -12,4 +12,3 @@ class EnvironmentBRDF {
 }
 
 export { EnvironmentBRDF };
-export default EnvironmentBRDF;

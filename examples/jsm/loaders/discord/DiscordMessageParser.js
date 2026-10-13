@@ -12,4 +12,3 @@ class DiscordMessageParser {
 }
 
 export { DiscordMessageParser };
-export default DiscordMessageParser;

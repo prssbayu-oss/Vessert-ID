@@ -12,4 +12,3 @@ class WGSLNodeBuilder {
 }
 
 export { WGSLNodeBuilder };
-export default WGSLNodeBuilder;

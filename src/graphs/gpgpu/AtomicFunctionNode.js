@@ -12,4 +12,3 @@ class AtomicFunctionNode {
 }
 
 export { AtomicFunctionNode };
-export default AtomicFunctionNode;

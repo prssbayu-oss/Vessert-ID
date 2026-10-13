@@ -12,4 +12,3 @@ class GPUUtils {
 }
 
 export { GPUUtils };
-export default GPUUtils;

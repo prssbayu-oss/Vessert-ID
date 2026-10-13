@@ -12,4 +12,3 @@ class FluxBBLoader {
 }
 
 export { FluxBBLoader };
-export default FluxBBLoader;

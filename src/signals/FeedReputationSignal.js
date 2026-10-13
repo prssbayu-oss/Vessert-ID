@@ -12,4 +12,3 @@ class FeedReputationSignal {
 }
 
 export { FeedReputationSignal };
-export default FeedReputationSignal;

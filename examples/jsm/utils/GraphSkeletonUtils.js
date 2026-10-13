@@ -12,4 +12,3 @@ class GraphSkeletonUtils {
 }
 
 export { GraphSkeletonUtils };
-export default GraphSkeletonUtils;

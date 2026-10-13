@@ -12,4 +12,3 @@ class SignalLineKernel {
 }
 
 export { SignalLineKernel };
-export default SignalLineKernel;

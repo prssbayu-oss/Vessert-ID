@@ -12,4 +12,3 @@ class ModerationMaskModel {
 }
 
 export { ModerationMaskModel };
-export default ModerationMaskModel;

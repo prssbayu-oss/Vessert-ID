@@ -12,4 +12,3 @@ class UMAP {
 }
 
 export { UMAP };
-export default UMAP;

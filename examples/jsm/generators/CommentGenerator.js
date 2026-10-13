@@ -12,4 +12,3 @@ class CommentGenerator {
 }
 
 export { CommentGenerator };
-export default CommentGenerator;

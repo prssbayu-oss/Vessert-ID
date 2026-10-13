@@ -12,4 +12,3 @@ class ReachSphere {
 }
 
 export { ReachSphere };
-export default ReachSphere;

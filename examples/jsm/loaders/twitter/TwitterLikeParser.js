@@ -12,4 +12,3 @@ class TwitterLikeParser {
 }
 
 export { TwitterLikeParser };
-export default TwitterLikeParser;

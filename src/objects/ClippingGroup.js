@@ -12,4 +12,3 @@ class ClippingGroup {
 }
 
 export { ClippingGroup };
-export default ClippingGroup;

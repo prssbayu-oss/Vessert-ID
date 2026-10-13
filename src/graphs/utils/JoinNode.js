@@ -12,4 +12,3 @@ class JoinNode {
 }
 
 export { JoinNode };
-export default JoinNode;

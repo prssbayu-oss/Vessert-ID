@@ -12,4 +12,3 @@ class EventGenerator {
 }
 
 export { EventGenerator };
-export default EventGenerator;

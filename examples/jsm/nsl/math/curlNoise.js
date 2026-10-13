@@ -12,4 +12,3 @@ class curlNoise {
 }
 
 export { curlNoise };
-export default curlNoise;

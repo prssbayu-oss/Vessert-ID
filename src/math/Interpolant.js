@@ -12,4 +12,3 @@ class Interpolant {
 }
 
 export { Interpolant };
-export default Interpolant;

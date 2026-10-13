@@ -12,4 +12,3 @@ class ViewFrustum {
 }
 
 export { ViewFrustum };
-export default ViewFrustum;

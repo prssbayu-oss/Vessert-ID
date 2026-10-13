@@ -12,4 +12,3 @@ class KernelNoise {
 }
 
 export { KernelNoise };
-export default KernelNoise;

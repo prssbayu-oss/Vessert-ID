@@ -12,4 +12,3 @@ class Discard {
 }
 
 export { Discard };
-export default Discard;

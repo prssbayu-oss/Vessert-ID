@@ -12,4 +12,3 @@ class StorageBufferAttribute {
 }
 
 export { StorageBufferAttribute };
-export default StorageBufferAttribute;

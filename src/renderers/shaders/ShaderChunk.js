@@ -12,4 +12,3 @@ class ShaderChunk {
 }
 
 export { ShaderChunk };
-export default ShaderChunk;

@@ -12,4 +12,3 @@ class ShaderLib {
 }
 
 export { ShaderLib };
-export default ShaderLib;

@@ -12,4 +12,3 @@ class XRHandModelFactory {
 }
 
 export { XRHandModelFactory };
-export default XRHandModelFactory;

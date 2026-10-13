@@ -12,4 +12,3 @@ class MaildirLoader {
 }
 
 export { MaildirLoader };
-export default MaildirLoader;

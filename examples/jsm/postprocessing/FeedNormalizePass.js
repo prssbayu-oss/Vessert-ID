@@ -12,4 +12,3 @@ class FeedNormalizePass {
 }
 
 export { FeedNormalizePass };
-export default FeedNormalizePass;

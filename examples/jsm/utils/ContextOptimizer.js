@@ -12,4 +12,3 @@ class ContextOptimizer {
 }
 
 export { ContextOptimizer };
-export default ContextOptimizer;

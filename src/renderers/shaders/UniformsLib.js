@@ -12,4 +12,3 @@ class UniformsLib {
 }
 
 export { UniformsLib };
-export default UniformsLib;

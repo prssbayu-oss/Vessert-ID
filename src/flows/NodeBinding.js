@@ -12,4 +12,3 @@ class NodeBinding {
 }
 
 export { NodeBinding };
-export default NodeBinding;

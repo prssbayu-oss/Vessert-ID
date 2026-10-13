@@ -12,4 +12,3 @@ class ViewportUtils {
 }
 
 export { ViewportUtils };
-export default ViewportUtils;

@@ -12,4 +12,3 @@ class GraphGenerator {
 }
 
 export { GraphGenerator };
-export default GraphGenerator;

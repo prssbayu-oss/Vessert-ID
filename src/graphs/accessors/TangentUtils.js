@@ -12,4 +12,3 @@ class TangentUtils {
 }
 
 export { TangentUtils };
-export default TangentUtils;

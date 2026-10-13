@@ -12,4 +12,3 @@ class AST {
 }
 
 export { AST };
-export default AST;

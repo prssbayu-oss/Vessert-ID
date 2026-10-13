@@ -12,4 +12,3 @@ class FeedModerationPass {
 }
 
 export { FeedModerationPass };
-export default FeedModerationPass;

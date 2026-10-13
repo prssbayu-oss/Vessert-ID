@@ -12,4 +12,3 @@ class GPURenderer {
 }
 
 export { GPURenderer };
-export default GPURenderer;

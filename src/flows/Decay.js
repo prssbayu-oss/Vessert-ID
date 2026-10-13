@@ -12,4 +12,3 @@ class Decay {
 }
 
 export { Decay };
-export default Decay;

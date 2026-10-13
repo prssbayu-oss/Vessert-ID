@@ -12,4 +12,3 @@ class BotGenerator {
 }
 
 export { BotGenerator };
-export default BotGenerator;

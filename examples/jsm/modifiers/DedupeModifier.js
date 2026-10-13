@@ -12,4 +12,3 @@ class DedupeModifier {
 }
 
 export { DedupeModifier };
-export default DedupeModifier;

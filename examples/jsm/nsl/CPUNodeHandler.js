@@ -12,4 +12,3 @@ class CPUNodeHandler {
 }
 
 export { CPUNodeHandler };
-export default CPUNodeHandler;

@@ -12,4 +12,3 @@ class NodeVar {
 }
 
 export { NodeVar };
-export default NodeVar;

@@ -12,4 +12,3 @@ class HackerNewsDumpLoader {
 }
 
 export { HackerNewsDumpLoader };
-export default HackerNewsDumpLoader;

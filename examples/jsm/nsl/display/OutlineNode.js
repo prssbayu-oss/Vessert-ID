@@ -12,4 +12,3 @@ class OutlineNode {
 }
 
 export { OutlineNode };
-export default OutlineNode;

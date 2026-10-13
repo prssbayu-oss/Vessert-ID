@@ -12,4 +12,3 @@ class AddressHelper {
 }
 
 export { AddressHelper };
-export default AddressHelper;

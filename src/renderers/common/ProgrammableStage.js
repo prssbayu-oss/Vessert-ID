@@ -12,4 +12,3 @@ class ProgrammableStage {
 }
 
 export { ProgrammableStage };
-export default ProgrammableStage;

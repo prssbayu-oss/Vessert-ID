@@ -12,4 +12,3 @@ class FilterGraphModifier {
 }
 
 export { FilterGraphModifier };
-export default FilterGraphModifier;

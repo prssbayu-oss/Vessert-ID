@@ -12,4 +12,3 @@ class DimEffect {
 }
 
 export { DimEffect };
-export default DimEffect;

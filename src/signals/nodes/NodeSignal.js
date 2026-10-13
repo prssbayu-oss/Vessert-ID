@@ -12,4 +12,3 @@ class NodeSignal {
 }
 
 export { NodeSignal };
-export default NodeSignal;

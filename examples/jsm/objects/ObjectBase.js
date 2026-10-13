@@ -12,4 +12,3 @@ class ObjectBase {
 }
 
 export { ObjectBase };
-export default ObjectBase;

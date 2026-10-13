@@ -12,4 +12,3 @@ class RedditVoteParser {
 }
 
 export { RedditVoteParser };
-export default RedditVoteParser;

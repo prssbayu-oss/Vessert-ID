@@ -12,4 +12,3 @@ class EqualAddressCoord {
 }
 
 export { EqualAddressCoord };
-export default EqualAddressCoord;

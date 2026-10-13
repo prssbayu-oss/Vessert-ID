@@ -12,4 +12,3 @@ class NodeObject3D {
 }
 
 export { NodeObject3D };
-export default NodeObject3D;

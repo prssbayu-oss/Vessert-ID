@@ -12,4 +12,3 @@ class Color4 {
 }
 
 export { Color4 };
-export default Color4;

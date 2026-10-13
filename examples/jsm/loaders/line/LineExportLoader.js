@@ -12,4 +12,3 @@ class LineExportLoader {
 }
 
 export { LineExportLoader };
-export default LineExportLoader;

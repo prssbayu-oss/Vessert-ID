@@ -12,4 +12,3 @@ class WattsStrogatz {
 }
 
 export { WattsStrogatz };
-export default WattsStrogatz;

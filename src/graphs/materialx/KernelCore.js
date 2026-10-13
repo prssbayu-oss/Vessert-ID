@@ -12,4 +12,3 @@ class KernelCore {
 }
 
 export { KernelCore };
-export default KernelCore;

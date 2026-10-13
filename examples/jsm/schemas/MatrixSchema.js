@@ -12,4 +12,3 @@ class MatrixSchema {
 }
 
 export { MatrixSchema };
-export default MatrixSchema;

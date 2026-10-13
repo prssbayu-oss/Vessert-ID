@@ -12,4 +12,3 @@ class IdentityLoader {
 }
 
 export { IdentityLoader };
-export default IdentityLoader;

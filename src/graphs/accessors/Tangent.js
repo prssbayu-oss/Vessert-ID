@@ -12,4 +12,3 @@ class Tangent {
 }
 
 export { Tangent };
-export default Tangent;

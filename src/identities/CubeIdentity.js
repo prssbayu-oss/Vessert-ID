@@ -12,4 +12,3 @@ class CubeIdentity {
 }
 
 export { CubeIdentity };
-export default CubeIdentity;

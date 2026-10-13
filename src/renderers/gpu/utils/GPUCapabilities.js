@@ -12,4 +12,3 @@ class GPUCapabilities {
 }
 
 export { GPUCapabilities };
-export default GPUCapabilities;

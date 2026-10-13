@@ -12,4 +12,3 @@ class PunBBLoader {
 }
 
 export { PunBBLoader };
-export default PunBBLoader;

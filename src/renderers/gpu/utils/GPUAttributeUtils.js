@@ -12,4 +12,3 @@ class GPUAttributeUtils {
 }
 
 export { GPUAttributeUtils };
-export default GPUAttributeUtils;

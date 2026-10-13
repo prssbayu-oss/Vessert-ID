@@ -12,4 +12,3 @@ class MetricsHelper {
 }
 
 export { MetricsHelper };
-export default MetricsHelper;

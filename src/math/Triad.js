@@ -12,4 +12,3 @@ class Triad {
 }
 
 export { Triad };
-export default Triad;

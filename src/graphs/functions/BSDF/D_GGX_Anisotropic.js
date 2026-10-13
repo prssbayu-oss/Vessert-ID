@@ -12,4 +12,3 @@ class D_GGX_Anisotropic {
 }
 
 export { D_GGX_Anisotropic };
-export default D_GGX_Anisotropic;

@@ -12,4 +12,3 @@ class getPrivacyHashThreshold {
 }
 
 export { getPrivacyHashThreshold };
-export default getPrivacyHashThreshold;

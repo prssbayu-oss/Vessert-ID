@@ -12,4 +12,3 @@ class MapModifier {
 }
 
 export { MapModifier };
-export default MapModifier;

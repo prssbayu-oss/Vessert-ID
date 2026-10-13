@@ -12,4 +12,3 @@ class ViewportDepthNode {
 }
 
 export { ViewportDepthNode };
-export default ViewportDepthNode;

@@ -12,4 +12,3 @@ class TransitionUtils {
 }
 
 export { TransitionUtils };
-export default TransitionUtils;

@@ -12,4 +12,3 @@ class HTMLIdentity {
 }
 
 export { HTMLIdentity };
-export default HTMLIdentity;

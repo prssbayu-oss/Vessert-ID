@@ -12,4 +12,3 @@ class BezierTrajectory {
 }
 
 export { BezierTrajectory };
-export default BezierTrajectory;

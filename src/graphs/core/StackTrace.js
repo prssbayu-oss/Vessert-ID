@@ -12,4 +12,3 @@ class StackTrace {
 }
 
 export { StackTrace };
-export default StackTrace;

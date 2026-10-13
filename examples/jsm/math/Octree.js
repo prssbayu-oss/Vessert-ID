@@ -12,4 +12,3 @@ class Octree {
 }
 
 export { Octree };
-export default Octree;

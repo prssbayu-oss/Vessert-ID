@@ -12,4 +12,3 @@ class WorkgroupInfoNode {
 }
 
 export { WorkgroupInfoNode };
-export default WorkgroupInfoNode;

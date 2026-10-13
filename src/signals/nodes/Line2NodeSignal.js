@@ -12,4 +12,3 @@ class Line2NodeSignal {
 }
 
 export { Line2NodeSignal };
-export default Line2NodeSignal;

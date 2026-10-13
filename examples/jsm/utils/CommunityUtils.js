@@ -12,4 +12,3 @@ class CommunityUtils {
 }
 
 export { CommunityUtils };
-export default CommunityUtils;

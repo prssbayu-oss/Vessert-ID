@@ -12,4 +12,3 @@ class NetworkEnvironment {
 }
 
 export { NetworkEnvironment };
-export default NetworkEnvironment;

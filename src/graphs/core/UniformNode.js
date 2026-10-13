@@ -12,4 +12,3 @@ class UniformNode {
 }
 
 export { UniformNode };
-export default UniformNode;

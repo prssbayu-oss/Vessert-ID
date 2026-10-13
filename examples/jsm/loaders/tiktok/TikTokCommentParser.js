@@ -12,4 +12,3 @@ class TikTokCommentParser {
 }
 
 export { TikTokCommentParser };
-export default TikTokCommentParser;

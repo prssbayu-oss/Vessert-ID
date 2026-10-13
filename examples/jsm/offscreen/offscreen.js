@@ -12,4 +12,3 @@ class offscreen {
 }
 
 export { offscreen };
-export default offscreen;

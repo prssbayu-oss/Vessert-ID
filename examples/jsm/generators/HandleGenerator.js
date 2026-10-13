@@ -12,4 +12,3 @@ class HandleGenerator {
 }
 
 export { HandleGenerator };
-export default HandleGenerator;

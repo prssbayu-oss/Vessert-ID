@@ -12,4 +12,3 @@ class FunctionNode {
 }
 
 export { FunctionNode };
-export default FunctionNode;

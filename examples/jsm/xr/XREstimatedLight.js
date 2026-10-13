@@ -12,4 +12,3 @@ class XREstimatedLight {
 }
 
 export { XREstimatedLight };
-export default XREstimatedLight;

@@ -12,4 +12,3 @@ class SSAONode {
 }
 
 export { SSAONode };
-export default SSAONode;

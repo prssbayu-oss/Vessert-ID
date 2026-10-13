@@ -12,4 +12,3 @@ class ReputationHelper {
 }
 
 export { ReputationHelper };
-export default ReputationHelper;

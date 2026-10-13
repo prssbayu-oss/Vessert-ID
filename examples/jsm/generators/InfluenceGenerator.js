@@ -12,4 +12,3 @@ class InfluenceGenerator {
 }
 
 export { InfluenceGenerator };
-export default InfluenceGenerator;

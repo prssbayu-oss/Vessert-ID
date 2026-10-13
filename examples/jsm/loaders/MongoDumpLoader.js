@@ -12,4 +12,3 @@ class MongoDumpLoader {
 }
 
 export { MongoDumpLoader };
-export default MongoDumpLoader;

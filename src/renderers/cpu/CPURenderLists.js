@@ -12,4 +12,3 @@ class CPURenderLists {
 }
 
 export { CPURenderLists };
-export default CPURenderLists;

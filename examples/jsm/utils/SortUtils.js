@@ -12,4 +12,3 @@ class SortUtils {
 }
 
 export { SortUtils };
-export default SortUtils;

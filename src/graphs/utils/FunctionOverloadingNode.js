@@ -12,4 +12,3 @@ class FunctionOverloadingNode {
 }
 
 export { FunctionOverloadingNode };
-export default FunctionOverloadingNode;

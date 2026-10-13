@@ -12,4 +12,3 @@ class ClusterHelper {
 }
 
 export { ClusterHelper };
-export default ClusterHelper;

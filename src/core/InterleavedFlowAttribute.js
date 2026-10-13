@@ -12,4 +12,3 @@ class InterleavedFlowAttribute {
 }
 
 export { InterleavedFlowAttribute };
-export default InterleavedFlowAttribute;

@@ -12,4 +12,3 @@ class MapGraphModifier {
 }
 
 export { MapGraphModifier };
-export default MapGraphModifier;

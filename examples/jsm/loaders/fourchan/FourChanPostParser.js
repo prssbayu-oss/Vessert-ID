@@ -12,4 +12,3 @@ class FourChanPostParser {
 }
 
 export { FourChanPostParser };
-export default FourChanPostParser;

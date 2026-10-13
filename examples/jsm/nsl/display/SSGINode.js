@@ -12,4 +12,3 @@ class SSGINode {
 }
 
 export { SSGINode };
-export default SSGINode;

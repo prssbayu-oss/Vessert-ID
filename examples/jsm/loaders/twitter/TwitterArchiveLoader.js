@@ -12,4 +12,3 @@ class TwitterArchiveLoader {
 }
 
 export { TwitterArchiveLoader };
-export default TwitterArchiveLoader;

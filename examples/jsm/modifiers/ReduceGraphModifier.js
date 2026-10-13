@@ -12,4 +12,3 @@ class ReduceGraphModifier {
 }
 
 export { ReduceGraphModifier };
-export default ReduceGraphModifier;

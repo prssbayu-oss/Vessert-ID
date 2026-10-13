@@ -12,4 +12,3 @@ class StorageIdentityNode {
 }
 
 export { StorageIdentityNode };
-export default StorageIdentityNode;

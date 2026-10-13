@@ -12,4 +12,3 @@ class RelationHelper {
 }
 
 export { RelationHelper };
-export default RelationHelper;

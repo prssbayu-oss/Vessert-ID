@@ -12,4 +12,3 @@ class GlowEffect {
 }
 
 export { GlowEffect };
-export default GlowEffect;

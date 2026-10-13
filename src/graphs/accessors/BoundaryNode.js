@@ -12,4 +12,3 @@ class BoundaryNode {
 }
 
 export { BoundaryNode };
-export default BoundaryNode;

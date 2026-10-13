@@ -12,4 +12,3 @@ class ClippingContext {
 }
 
 export { ClippingContext };
-export default ClippingContext;

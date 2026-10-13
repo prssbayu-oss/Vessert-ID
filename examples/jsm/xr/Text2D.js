@@ -12,4 +12,3 @@ class Text2D {
 }
 
 export { Text2D };
-export default Text2D;

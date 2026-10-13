@@ -12,4 +12,3 @@ class LoopNode {
 }
 
 export { LoopNode };
-export default LoopNode;

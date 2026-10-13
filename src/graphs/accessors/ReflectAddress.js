@@ -12,4 +12,3 @@ class ReflectAddress {
 }
 
 export { ReflectAddress };
-export default ReflectAddress;

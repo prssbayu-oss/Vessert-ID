@@ -12,4 +12,3 @@ class LoaderUtils {
 }
 
 export { LoaderUtils };
-export default LoaderUtils;

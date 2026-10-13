@@ -12,4 +12,3 @@ class PointSignal {
 }
 
 export { PointSignal };
-export default PointSignal;

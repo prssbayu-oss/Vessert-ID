@@ -12,4 +12,3 @@ class ATProtoSchema {
 }
 
 export { ATProtoSchema };
-export default ATProtoSchema;

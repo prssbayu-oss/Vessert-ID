@@ -12,4 +12,3 @@ class TempNode {
 }
 
 export { TempNode };
-export default TempNode;

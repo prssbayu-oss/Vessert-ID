@@ -12,4 +12,3 @@ class Halo {
 }
 
 export { Halo };
-export default Halo;

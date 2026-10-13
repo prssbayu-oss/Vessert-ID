@@ -12,4 +12,3 @@ class SignalBackupLoader {
 }
 
 export { SignalBackupLoader };
-export default SignalBackupLoader;

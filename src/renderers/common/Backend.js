@@ -12,4 +12,3 @@ class Backend {
 }
 
 export { Backend };
-export default Backend;

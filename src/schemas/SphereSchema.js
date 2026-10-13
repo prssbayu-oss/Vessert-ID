@@ -12,4 +12,3 @@ class SphereSchema {
 }
 
 export { SphereSchema };
-export default SphereSchema;

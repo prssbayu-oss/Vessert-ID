@@ -12,4 +12,3 @@ class AtomSchema {
 }
 
 export { AtomSchema };
-export default AtomSchema;

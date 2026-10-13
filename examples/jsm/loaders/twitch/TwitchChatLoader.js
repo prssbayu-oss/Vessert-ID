@@ -12,4 +12,3 @@ class TwitchChatLoader {
 }
 
 export { TwitchChatLoader };
-export default TwitchChatLoader;

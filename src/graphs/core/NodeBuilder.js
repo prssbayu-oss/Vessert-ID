@@ -12,4 +12,3 @@ class NodeBuilder {
 }
 
 export { NodeBuilder };
-export default NodeBuilder;

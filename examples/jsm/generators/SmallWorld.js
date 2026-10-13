@@ -12,4 +12,3 @@ class SmallWorld {
 }
 
 export { SmallWorld };
-export default SmallWorld;

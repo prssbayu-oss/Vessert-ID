@@ -12,4 +12,3 @@ class SPARQLDecoder {
 }
 
 export { SPARQLDecoder };
-export default SPARQLDecoder;

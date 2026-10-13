@@ -12,4 +12,3 @@ class CommunityModule {
 }
 
 export { CommunityModule };
-export default CommunityModule;

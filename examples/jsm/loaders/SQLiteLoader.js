@@ -12,4 +12,3 @@ class SQLiteLoader {
 }
 
 export { SQLiteLoader };
-export default SQLiteLoader;

@@ -12,4 +12,3 @@ class phpBBLoader {
 }
 
 export { phpBBLoader };
-export default phpBBLoader;

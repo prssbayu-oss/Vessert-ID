@@ -12,4 +12,3 @@ class WhatsAppChatLoader {
 }
 
 export { WhatsAppChatLoader };
-export default WhatsAppChatLoader;

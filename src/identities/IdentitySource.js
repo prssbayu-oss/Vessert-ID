@@ -12,4 +12,3 @@ class IdentitySource {
 }
 
 export { IdentitySource };
-export default IdentitySource;

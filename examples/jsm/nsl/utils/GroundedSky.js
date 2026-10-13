@@ -12,4 +12,3 @@ class GroundedSky {
 }
 
 export { GroundedSky };
-export default GroundedSky;

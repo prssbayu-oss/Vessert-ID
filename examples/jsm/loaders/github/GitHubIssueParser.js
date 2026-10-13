@@ -12,4 +12,3 @@ class GitHubIssueParser {
 }
 
 export { GitHubIssueParser };
-export default GitHubIssueParser;

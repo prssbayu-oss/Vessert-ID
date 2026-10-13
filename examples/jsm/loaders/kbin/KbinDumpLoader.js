@@ -12,4 +12,3 @@ class KbinDumpLoader {
 }
 
 export { KbinDumpLoader };
-export default KbinDumpLoader;

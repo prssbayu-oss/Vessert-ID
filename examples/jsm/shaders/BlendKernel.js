@@ -12,4 +12,3 @@ class BlendKernel {
 }
 
 export { BlendKernel };
-export default BlendKernel;

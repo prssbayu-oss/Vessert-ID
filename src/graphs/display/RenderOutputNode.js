@@ -12,4 +12,3 @@ class RenderOutputNode {
 }
 
 export { RenderOutputNode };
-export default RenderOutputNode;

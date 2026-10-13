@@ -12,4 +12,3 @@ class MathBase {
 }
 
 export { MathBase };
-export default MathBase;

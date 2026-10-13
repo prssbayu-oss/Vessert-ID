@@ -12,4 +12,3 @@ class CPU {
 }
 
 export { CPU };
-export default CPU;

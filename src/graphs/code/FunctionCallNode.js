@@ -12,4 +12,3 @@ class FunctionCallNode {
 }
 
 export { FunctionCallNode };
-export default FunctionCallNode;

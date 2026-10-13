@@ -12,4 +12,3 @@ class RotateNode {
 }
 
 export { RotateNode };
-export default RotateNode;

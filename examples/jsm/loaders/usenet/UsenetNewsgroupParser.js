@@ -12,4 +12,3 @@ class UsenetNewsgroupParser {
 }
 
 export { UsenetNewsgroupParser };
-export default UsenetNewsgroupParser;

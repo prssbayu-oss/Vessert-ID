@@ -12,4 +12,3 @@ class GraphMlExporter {
 }
 
 export { GraphMlExporter };
-export default GraphMlExporter;

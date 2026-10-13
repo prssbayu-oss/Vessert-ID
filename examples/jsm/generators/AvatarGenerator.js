@@ -12,4 +12,3 @@ class AvatarGenerator {
 }
 
 export { AvatarGenerator };
-export default AvatarGenerator;

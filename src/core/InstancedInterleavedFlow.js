@@ -12,4 +12,3 @@ class InstancedInterleavedFlow {
 }
 
 export { InstancedInterleavedFlow };
-export default InstancedInterleavedFlow;

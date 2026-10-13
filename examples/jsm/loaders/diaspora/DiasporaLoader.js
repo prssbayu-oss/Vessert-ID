@@ -12,4 +12,3 @@ class DiasporaLoader {
 }
 
 export { DiasporaLoader };
-export default DiasporaLoader;

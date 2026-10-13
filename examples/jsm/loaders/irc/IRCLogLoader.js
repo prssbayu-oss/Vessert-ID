@@ -12,4 +12,3 @@ class IRCLogLoader {
 }
 
 export { IRCLogLoader };
-export default IRCLogLoader;

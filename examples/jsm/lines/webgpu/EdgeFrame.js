@@ -12,4 +12,3 @@ class EdgeFrame {
 }
 
 export { EdgeFrame };
-export default EdgeFrame;

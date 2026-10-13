@@ -12,4 +12,3 @@ class HomophilyGenerator {
 }
 
 export { HomophilyGenerator };
-export default HomophilyGenerator;

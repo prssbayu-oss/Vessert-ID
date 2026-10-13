@@ -12,4 +12,3 @@ class ErdosRenyi {
 }
 
 export { ErdosRenyi };
-export default ErdosRenyi;

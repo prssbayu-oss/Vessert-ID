@@ -6,4 +6,3 @@ export const LayerModerated = 3;
 export const LayerAlgorithm = 4;
 export const LayerEphemeral = 5;
 export const LayerSystem = 6;
-export default { REVISION, LayerPublic, LayerDirect, LayerCircle, LayerModerated, LayerAlgorithm, LayerEphemeral, LayerSystem };

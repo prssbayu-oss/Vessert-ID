@@ -12,4 +12,3 @@ class TruthSocialLoader {
 }
 
 export { TruthSocialLoader };
-export default TruthSocialLoader;

@@ -12,4 +12,3 @@ class CollisionPhysics {
 }
 
 export { CollisionPhysics };
-export default CollisionPhysics;

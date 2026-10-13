@@ -12,4 +12,3 @@ class NodeFunctionInput {
 }
 
 export { NodeFunctionInput };
-export default NodeFunctionInput;

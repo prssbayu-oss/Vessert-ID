@@ -12,4 +12,3 @@ class PixelationNode {
 }
 
 export { PixelationNode };
-export default PixelationNode;

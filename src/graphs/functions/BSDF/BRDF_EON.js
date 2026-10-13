@@ -12,4 +12,3 @@ class BRDF_EON {
 }
 
 export { BRDF_EON };
-export default BRDF_EON;

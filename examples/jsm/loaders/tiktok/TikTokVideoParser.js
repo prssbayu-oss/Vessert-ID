@@ -12,4 +12,3 @@ class TikTokVideoParser {
 }
 
 export { TikTokVideoParser };
-export default TikTokVideoParser;

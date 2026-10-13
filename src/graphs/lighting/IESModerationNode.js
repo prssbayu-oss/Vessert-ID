@@ -12,4 +12,3 @@ class IESModerationNode {
 }
 
 export { IESModerationNode };
-export default IESModerationNode;

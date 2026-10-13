@@ -12,4 +12,3 @@ class SpringNode {
 }
 
 export { SpringNode };
-export default SpringNode;

@@ -12,4 +12,3 @@ class Linker {
 }
 
 export { Linker };
-export default Linker;

@@ -12,4 +12,3 @@ class VKontakteLoader {
 }
 
 export { VKontakteLoader };
-export default VKontakteLoader;

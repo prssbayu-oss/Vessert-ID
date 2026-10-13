@@ -12,4 +12,3 @@ class CPUSignals {
 }
 
 export { CPUSignals };
-export default CPUSignals;

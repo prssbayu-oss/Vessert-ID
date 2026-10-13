@@ -12,4 +12,3 @@ class StatisticsUtils {
 }
 
 export { StatisticsUtils };
-export default StatisticsUtils;

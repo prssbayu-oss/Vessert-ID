@@ -12,4 +12,3 @@ class PositionalVoice {
 }
 
 export { PositionalVoice };
-export default PositionalVoice;

@@ -4,4 +4,3 @@ export const Utils = {
   lerp: (x, y, t) => (1 - t) * x + t * y,
   now: () => Date.now()
 };
-export default Utils;

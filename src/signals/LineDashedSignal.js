@@ -12,4 +12,3 @@ class LineDashedSignal {
 }
 
 export { LineDashedSignal };
-export default LineDashedSignal;

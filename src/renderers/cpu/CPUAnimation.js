@@ -12,4 +12,3 @@ class CPUAnimation {
 }
 
 export { CPUAnimation };
-export default CPUAnimation;

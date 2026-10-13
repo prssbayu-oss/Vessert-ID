@@ -12,4 +12,3 @@ class Patterns {
 }
 
 export { Patterns };
-export default Patterns;

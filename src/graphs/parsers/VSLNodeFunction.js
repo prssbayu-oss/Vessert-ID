@@ -12,4 +12,3 @@ class VSLNodeFunction {
 }
 
 export { VSLNodeFunction };
-export default VSLNodeFunction;

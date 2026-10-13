@@ -12,4 +12,3 @@ class ArrayNode {
 }
 
 export { ArrayNode };
-export default ArrayNode;

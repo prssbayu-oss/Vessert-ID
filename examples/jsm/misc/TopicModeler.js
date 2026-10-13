@@ -12,4 +12,3 @@ class TopicModeler {
 }
 
 export { TopicModeler };
-export default TopicModeler;

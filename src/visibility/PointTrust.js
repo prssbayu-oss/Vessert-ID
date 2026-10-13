@@ -12,4 +12,3 @@ class PointTrust {
 }
 
 export { PointTrust };
-export default PointTrust;

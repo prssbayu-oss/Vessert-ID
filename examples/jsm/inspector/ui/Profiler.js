@@ -12,4 +12,3 @@ class Profiler {
 }
 
 export { Profiler };
-export default Profiler;

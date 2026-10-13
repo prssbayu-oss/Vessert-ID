@@ -12,4 +12,3 @@ class BarrierNode {
 }
 
 export { BarrierNode };
-export default BarrierNode;

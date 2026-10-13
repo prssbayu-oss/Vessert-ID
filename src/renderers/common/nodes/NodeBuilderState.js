@@ -12,4 +12,3 @@ class NodeBuilderState {
 }
 
 export { NodeBuilderState };
-export default NodeBuilderState;

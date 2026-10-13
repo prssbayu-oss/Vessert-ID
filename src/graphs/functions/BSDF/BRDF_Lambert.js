@@ -12,4 +12,3 @@ class BRDF_Lambert {
 }
 
 export { BRDF_Lambert };
-export default BRDF_Lambert;

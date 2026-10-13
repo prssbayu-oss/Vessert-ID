@@ -12,4 +12,3 @@ class SoftParticles {
 }
 
 export { SoftParticles };
-export default SoftParticles;

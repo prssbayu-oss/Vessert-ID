@@ -12,4 +12,3 @@ class GraphSONExporter {
 }
 
 export { GraphSONExporter };
-export default GraphSONExporter;

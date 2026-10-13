@@ -12,4 +12,3 @@ class SharpenNode {
 }
 
 export { SharpenNode };
-export default SharpenNode;

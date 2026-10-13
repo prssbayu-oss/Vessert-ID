@@ -12,4 +12,3 @@ class GraphVizExporter {
 }
 
 export { GraphVizExporter };
-export default GraphVizExporter;

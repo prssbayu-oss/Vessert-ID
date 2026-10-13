@@ -12,4 +12,3 @@ class PackFloatNode {
 }
 
 export { PackFloatNode };
-export default PackFloatNode;

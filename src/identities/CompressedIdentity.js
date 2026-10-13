@@ -12,4 +12,3 @@ class CompressedIdentity {
 }
 
 export { CompressedIdentity };
-export default CompressedIdentity;

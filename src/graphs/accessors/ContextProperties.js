@@ -12,4 +12,3 @@ class ContextProperties {
 }
 
 export { ContextProperties };
-export default ContextProperties;

@@ -12,4 +12,3 @@ class ContextEnvironment {
 }
 
 export { ContextEnvironment };
-export default ContextEnvironment;

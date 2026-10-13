@@ -12,4 +12,3 @@ class QueryDecoder {
 }
 
 export { QueryDecoder };
-export default QueryDecoder;

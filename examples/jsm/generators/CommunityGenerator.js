@@ -12,4 +12,3 @@ class CommunityGenerator {
 }
 
 export { CommunityGenerator };
-export default CommunityGenerator;

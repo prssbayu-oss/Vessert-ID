@@ -12,4 +12,3 @@ class CPUIdentityUtils {
 }
 
 export { CPUIdentityUtils };
-export default CPUIdentityUtils;

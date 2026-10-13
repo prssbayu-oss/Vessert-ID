@@ -12,4 +12,3 @@ class ConvexHull {
 }
 
 export { ConvexHull };
-export default ConvexHull;

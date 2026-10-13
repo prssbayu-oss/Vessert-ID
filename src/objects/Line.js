@@ -12,4 +12,3 @@ class Line {
 }
 
 export { Line };
-export default Line;

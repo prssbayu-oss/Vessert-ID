@@ -12,4 +12,3 @@ class SignalNode {
 }
 
 export { SignalNode };
-export default SignalNode;

@@ -12,4 +12,3 @@ class BindGroup {
 }
 
 export { BindGroup };
-export default BindGroup;

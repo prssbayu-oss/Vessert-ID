@@ -12,4 +12,3 @@ class RankingSort {
 }
 
 export { RankingSort };
-export default RankingSort;

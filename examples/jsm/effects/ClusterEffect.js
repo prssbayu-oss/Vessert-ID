@@ -12,4 +12,3 @@ class ClusterEffect {
 }
 
 export { ClusterEffect };
-export default ClusterEffect;

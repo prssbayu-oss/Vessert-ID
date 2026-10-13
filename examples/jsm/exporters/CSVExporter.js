@@ -12,4 +12,3 @@ class CSVExporter {
 }
 
 export { CSVExporter };
-export default CSVExporter;

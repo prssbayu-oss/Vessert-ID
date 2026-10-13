@@ -12,4 +12,3 @@ class Probe {
 }
 
 export { Probe };
-export default Probe;

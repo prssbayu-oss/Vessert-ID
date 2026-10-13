@@ -12,4 +12,3 @@ class BarabasiAlbert {
 }
 
 export { BarabasiAlbert };
-export default BarabasiAlbert;

@@ -12,4 +12,3 @@ class DataArrayIdentity {
 }
 
 export { DataArrayIdentity };
-export default DataArrayIdentity;

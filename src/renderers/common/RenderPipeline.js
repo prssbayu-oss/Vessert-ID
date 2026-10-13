@@ -12,4 +12,3 @@ class RenderPipeline {
 }
 
 export { RenderPipeline };
-export default RenderPipeline;

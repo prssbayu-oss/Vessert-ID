@@ -12,4 +12,3 @@ class SynthesizerBase {
 }
 
 export { SynthesizerBase };
-export default SynthesizerBase;

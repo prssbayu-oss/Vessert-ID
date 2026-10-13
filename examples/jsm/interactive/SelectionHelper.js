@@ -12,4 +12,3 @@ class SelectionHelper {
 }
 
 export { SelectionHelper };
-export default SelectionHelper;

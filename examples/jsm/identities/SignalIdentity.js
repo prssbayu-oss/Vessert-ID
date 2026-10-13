@@ -12,4 +12,3 @@ class SignalIdentity {
 }
 
 export { SignalIdentity };
-export default SignalIdentity;

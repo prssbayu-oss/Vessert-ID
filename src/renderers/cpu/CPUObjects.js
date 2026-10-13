@@ -12,4 +12,3 @@ class CPUObjects {
 }
 
 export { CPUObjects };
-export default CPUObjects;

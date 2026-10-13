@@ -12,4 +12,3 @@ class SampleNode {
 }
 
 export { SampleNode };
-export default SampleNode;

@@ -12,4 +12,3 @@ class RDFExporter {
 }
 
 export { RDFExporter };
-export default RDFExporter;

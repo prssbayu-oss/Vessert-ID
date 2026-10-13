@@ -12,4 +12,3 @@ class Badge {
 }
 
 export { Badge };
-export default Badge;

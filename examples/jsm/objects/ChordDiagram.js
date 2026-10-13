@@ -12,4 +12,3 @@ class ChordDiagram {
 }
 
 export { ChordDiagram };
-export default ChordDiagram;

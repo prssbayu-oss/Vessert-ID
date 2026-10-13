@@ -12,4 +12,3 @@ class GPUPipelineLayoutDescriptor {
 }
 
 export { GPUPipelineLayoutDescriptor };
-export default GPUPipelineLayoutDescriptor;

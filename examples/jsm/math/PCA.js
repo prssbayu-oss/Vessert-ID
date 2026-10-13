@@ -12,4 +12,3 @@ class PCA {
 }
 
 export { PCA };
-export default PCA;

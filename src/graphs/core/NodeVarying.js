@@ -12,4 +12,3 @@ class NodeVarying {
 }
 
 export { NodeVarying };
-export default NodeVarying;

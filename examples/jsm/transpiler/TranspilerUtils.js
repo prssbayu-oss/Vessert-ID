@@ -12,4 +12,3 @@ class TranspilerUtils {
 }
 
 export { TranspilerUtils };
-export default TranspilerUtils;

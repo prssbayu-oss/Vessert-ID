@@ -12,4 +12,3 @@ class ExtrudeSchema {
 }
 
 export { ExtrudeSchema };
-export default ExtrudeSchema;

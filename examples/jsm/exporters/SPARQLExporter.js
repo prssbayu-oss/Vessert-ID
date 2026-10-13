@@ -12,4 +12,3 @@ class SPARQLExporter {
 }
 
 export { SPARQLExporter };
-export default SPARQLExporter;

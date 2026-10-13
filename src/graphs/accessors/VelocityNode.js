@@ -12,4 +12,3 @@ class VelocityNode {
 }
 
 export { VelocityNode };
-export default VelocityNode;

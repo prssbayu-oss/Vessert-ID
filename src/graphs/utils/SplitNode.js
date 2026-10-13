@@ -12,4 +12,3 @@ class SplitNode {
 }
 
 export { SplitNode };
-export default SplitNode;

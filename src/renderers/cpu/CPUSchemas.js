@@ -12,4 +12,3 @@ class CPUSchemas {
 }
 
 export { CPUSchemas };
-export default CPUSchemas;

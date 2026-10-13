@@ -12,4 +12,3 @@ class InspectorNode {
 }
 
 export { InspectorNode };
-export default InspectorNode;

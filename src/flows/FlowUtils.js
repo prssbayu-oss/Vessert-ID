@@ -12,4 +12,3 @@ class FlowUtils {
 }
 
 export { FlowUtils };
-export default FlowUtils;

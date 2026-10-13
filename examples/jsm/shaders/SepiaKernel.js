@@ -12,4 +12,3 @@ class SepiaKernel {
 }
 
 export { SepiaKernel };
-export default SepiaKernel;

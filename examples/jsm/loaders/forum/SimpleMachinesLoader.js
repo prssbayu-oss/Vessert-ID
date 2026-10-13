@@ -12,4 +12,3 @@ class SimpleMachinesLoader {
 }
 
 export { SimpleMachinesLoader };
-export default SimpleMachinesLoader;

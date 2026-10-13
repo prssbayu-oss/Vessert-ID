@@ -12,4 +12,3 @@ class HiveDumpLoader {
 }
 
 export { HiveDumpLoader };
-export default HiveDumpLoader;

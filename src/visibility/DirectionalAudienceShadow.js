@@ -12,4 +12,3 @@ class DirectionalAudienceShadow {
 }
 
 export { DirectionalAudienceShadow };
-export default DirectionalAudienceShadow;

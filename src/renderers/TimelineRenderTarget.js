@@ -12,4 +12,3 @@ class TimelineRenderTarget {
 }
 
 export { TimelineRenderTarget };
-export default TimelineRenderTarget;

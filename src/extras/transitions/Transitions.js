@@ -12,4 +12,3 @@ class Transitions {
 }
 
 export { Transitions };
-export default Transitions;

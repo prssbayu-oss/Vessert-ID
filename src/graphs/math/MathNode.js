@@ -12,4 +12,3 @@ class MathNode {
 }
 
 export { MathNode };
-export default MathNode;

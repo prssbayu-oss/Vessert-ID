@@ -12,4 +12,3 @@ class DotExporter {
 }
 
 export { DotExporter };
-export default DotExporter;

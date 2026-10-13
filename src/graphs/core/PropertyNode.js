@@ -12,4 +12,3 @@ class PropertyNode {
 }
 
 export { PropertyNode };
-export default PropertyNode;

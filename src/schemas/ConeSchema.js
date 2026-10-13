@@ -12,4 +12,3 @@ class ConeSchema {
 }
 
 export { ConeSchema };
-export default ConeSchema;

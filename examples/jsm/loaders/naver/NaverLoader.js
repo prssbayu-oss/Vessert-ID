@@ -12,4 +12,3 @@ class NaverLoader {
 }
 
 export { NaverLoader };
-export default NaverLoader;

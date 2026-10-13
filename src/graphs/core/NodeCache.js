@@ -12,4 +12,3 @@ class NodeCache {
 }
 
 export { NodeCache };
-export default NodeCache;

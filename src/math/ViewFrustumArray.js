@@ -12,4 +12,3 @@ class ViewFrustumArray {
 }
 
 export { ViewFrustumArray };
-export default ViewFrustumArray;

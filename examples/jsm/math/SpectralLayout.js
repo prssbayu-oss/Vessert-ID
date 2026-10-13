@@ -12,4 +12,3 @@ class SpectralLayout {
 }
 
 export { SpectralLayout };
-export default SpectralLayout;

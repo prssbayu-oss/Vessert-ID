@@ -12,4 +12,3 @@ class DirectionHelper {
 }
 
 export { DirectionHelper };
-export default DirectionHelper;

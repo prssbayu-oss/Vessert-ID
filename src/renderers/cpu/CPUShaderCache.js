@@ -12,4 +12,3 @@ class CPUShaderCache {
 }
 
 export { CPUShaderCache };
-export default CPUShaderCache;

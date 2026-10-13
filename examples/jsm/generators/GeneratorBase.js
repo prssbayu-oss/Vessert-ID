@@ -12,4 +12,3 @@ class GeneratorBase {
 }
 
 export { GeneratorBase };
-export default GeneratorBase;

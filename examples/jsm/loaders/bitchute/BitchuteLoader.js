@@ -12,4 +12,3 @@ class BitchuteLoader {
 }
 
 export { BitchuteLoader };
-export default BitchuteLoader;

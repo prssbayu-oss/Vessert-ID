@@ -12,4 +12,3 @@ class PostgresDumpLoader {
 }
 
 export { PostgresDumpLoader };
-export default PostgresDumpLoader;

@@ -12,4 +12,3 @@ class ContextOcclusionNode {
 }
 
 export { ContextOcclusionNode };
-export default ContextOcclusionNode;

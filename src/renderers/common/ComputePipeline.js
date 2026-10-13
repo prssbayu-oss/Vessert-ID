@@ -12,4 +12,3 @@ class ComputePipeline {
 }
 
 export { ComputePipeline };
-export default ComputePipeline;

@@ -12,4 +12,3 @@ class VoiceListener {
 }
 
 export { VoiceListener };
-export default VoiceListener;

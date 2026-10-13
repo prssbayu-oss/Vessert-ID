@@ -12,4 +12,3 @@ class TrollingGenerator {
 }
 
 export { TrollingGenerator };
-export default TrollingGenerator;

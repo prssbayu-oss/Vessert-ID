@@ -12,4 +12,3 @@ class Resolver {
 }
 
 export { Resolver };
-export default Resolver;

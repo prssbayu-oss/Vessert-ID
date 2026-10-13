@@ -12,4 +12,3 @@ class QuoraDumpLoader {
 }
 
 export { QuoraDumpLoader };
-export default QuoraDumpLoader;

@@ -12,4 +12,3 @@ class DebugNode {
 }
 
 export { DebugNode };
-export default DebugNode;

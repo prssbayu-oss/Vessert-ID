@@ -12,4 +12,3 @@ class GPUComputePipelineDescriptor {
 }
 
 export { GPUComputePipelineDescriptor };
-export default GPUComputePipelineDescriptor;

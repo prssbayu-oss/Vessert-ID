@@ -12,4 +12,3 @@ class CentralityModule {
 }
 
 export { CentralityModule };
-export default CentralityModule;

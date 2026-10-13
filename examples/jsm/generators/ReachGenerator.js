@@ -12,4 +12,3 @@ class ReachGenerator {
 }
 
 export { ReachGenerator };
-export default ReachGenerator;

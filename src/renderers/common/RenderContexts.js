@@ -12,4 +12,3 @@ class RenderContexts {
 }
 
 export { RenderContexts };
-export default RenderContexts;

@@ -12,4 +12,3 @@ class getGraphVolatility {
 }
 
 export { getGraphVolatility };
-export default getGraphVolatility;

@@ -12,4 +12,3 @@ class getVolatility {
 }
 
 export { getVolatility };
-export default getVolatility;

@@ -12,4 +12,3 @@ class NodeParameter {
 }
 
 export { NodeParameter };
-export default NodeParameter;

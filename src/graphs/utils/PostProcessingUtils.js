@@ -12,4 +12,3 @@ class PostProcessingUtils {
 }
 
 export { PostProcessingUtils };
-export default PostProcessingUtils;

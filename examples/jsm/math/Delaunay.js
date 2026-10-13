@@ -12,4 +12,3 @@ class Delaunay {
 }
 
 export { Delaunay };
-export default Delaunay;

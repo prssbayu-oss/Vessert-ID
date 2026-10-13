@@ -12,4 +12,3 @@ class ObjectLoader {
 }
 
 export { ObjectLoader };
-export default ObjectLoader;

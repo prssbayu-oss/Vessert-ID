@@ -12,4 +12,3 @@ class WhatsAppMessageParser {
 }
 
 export { WhatsAppMessageParser };
-export default WhatsAppMessageParser;

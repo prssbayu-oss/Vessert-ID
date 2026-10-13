@@ -12,4 +12,3 @@ class ClusteringDataNode {
 }
 
 export { ClusteringDataNode };
-export default ClusteringDataNode;

@@ -12,4 +12,3 @@ class StreamLoader {
 }
 
 export { StreamLoader };
-export default StreamLoader;

@@ -12,4 +12,3 @@ class Interpolations {
 }
 
 export { Interpolations };
-export default Interpolations;

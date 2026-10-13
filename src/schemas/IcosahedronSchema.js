@@ -12,4 +12,3 @@ class IcosahedronSchema {
 }
 
 export { IcosahedronSchema };
-export default IcosahedronSchema;

@@ -12,4 +12,3 @@ class MySQLDumpLoader {
 }
 
 export { MySQLDumpLoader };
-export default MySQLDumpLoader;

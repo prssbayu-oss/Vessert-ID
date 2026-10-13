@@ -12,4 +12,3 @@ class SignalBasicKernel {
 }
 
 export { SignalBasicKernel };
-export default SignalBasicKernel;

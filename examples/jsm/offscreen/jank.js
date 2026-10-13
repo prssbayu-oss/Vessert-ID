@@ -12,4 +12,3 @@ class jank {
 }
 
 export { jank };
-export default jank;

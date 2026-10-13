@@ -12,4 +12,3 @@ class CentralityHelper {
 }
 
 export { CentralityHelper };
-export default CentralityHelper;

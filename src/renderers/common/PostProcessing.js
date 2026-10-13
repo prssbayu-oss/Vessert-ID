@@ -12,4 +12,3 @@ class PostProcessing {
 }
 
 export { PostProcessing };
-export default PostProcessing;

@@ -12,4 +12,3 @@ class WGSLNodeFunction {
 }
 
 export { WGSLNodeFunction };
-export default WGSLNodeFunction;

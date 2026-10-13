@@ -12,4 +12,3 @@ class UniformsGroup {
 }
 
 export { UniformsGroup };
-export default UniformsGroup;

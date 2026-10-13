@@ -12,4 +12,3 @@ class FeedFilterPass {
 }
 
 export { FeedFilterPass };
-export default FeedFilterPass;

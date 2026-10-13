@@ -12,4 +12,3 @@ class MailingListLoader {
 }
 
 export { MailingListLoader };
-export default MailingListLoader;

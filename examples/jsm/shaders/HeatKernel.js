@@ -12,4 +12,3 @@ class HeatKernel {
 }
 
 export { HeatKernel };
-export default HeatKernel;

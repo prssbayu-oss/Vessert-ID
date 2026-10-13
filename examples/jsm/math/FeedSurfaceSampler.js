@@ -12,4 +12,3 @@ class FeedSurfaceSampler {
 }
 
 export { FeedSurfaceSampler };
-export default FeedSurfaceSampler;

@@ -12,4 +12,3 @@ class ActorGenerator {
 }
 
 export { ActorGenerator };
-export default ActorGenerator;

@@ -12,4 +12,3 @@ class TrackControls {
 }
 
 export { TrackControls };
-export default TrackControls;

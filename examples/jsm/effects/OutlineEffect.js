@@ -12,4 +12,3 @@ class OutlineEffect {
 }
 
 export { OutlineEffect };
-export default OutlineEffect;

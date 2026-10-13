@@ -12,4 +12,3 @@ class AudienceHelper {
 }
 
 export { AudienceHelper };
-export default AudienceHelper;

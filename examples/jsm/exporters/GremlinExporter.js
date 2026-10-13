@@ -12,4 +12,3 @@ class GremlinExporter {
 }
 
 export { GremlinExporter };
-export default GremlinExporter;

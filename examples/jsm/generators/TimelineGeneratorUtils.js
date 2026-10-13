@@ -12,4 +12,3 @@ class TimelineGeneratorUtils {
 }
 
 export { TimelineGeneratorUtils };
-export default TimelineGeneratorUtils;

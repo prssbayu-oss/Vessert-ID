@@ -12,4 +12,3 @@ class StackNode {
 }
 
 export { StackNode };
-export default StackNode;

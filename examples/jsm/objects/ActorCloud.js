@@ -12,4 +12,3 @@ class ActorCloud {
 }
 
 export { ActorCloud };
-export default ActorCloud;

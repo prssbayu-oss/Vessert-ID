@@ -12,4 +12,3 @@ class LinkedInConnectionParser {
 }
 
 export { LinkedInConnectionParser };
-export default LinkedInConnectionParser;

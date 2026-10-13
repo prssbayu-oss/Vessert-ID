@@ -12,4 +12,3 @@ class InspectorBase {
 }
 
 export { InspectorBase };
-export default InspectorBase;

@@ -12,4 +12,3 @@ class BundleGroup {
 }
 
 export { BundleGroup };
-export default BundleGroup;

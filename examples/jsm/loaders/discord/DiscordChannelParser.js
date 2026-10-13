@@ -12,4 +12,3 @@ class DiscordChannelParser {
 }
 
 export { DiscordChannelParser };
-export default DiscordChannelParser;

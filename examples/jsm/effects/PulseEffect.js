@@ -12,4 +12,3 @@ class PulseEffect {
 }
 
 export { PulseEffect };
-export default PulseEffect;

@@ -12,4 +12,3 @@ class Nodes {
 }
 
 export { Nodes };
-export default Nodes;

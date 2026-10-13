@@ -12,4 +12,3 @@ class EventDetector {
 }
 
 export { EventDetector };
-export default EventDetector;

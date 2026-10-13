@@ -12,4 +12,3 @@ class Batch {
 }
 
 export { Batch };
-export default Batch;

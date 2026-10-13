@@ -12,4 +12,3 @@ class StressTestGenerator {
 }
 
 export { StressTestGenerator };
-export default StressTestGenerator;

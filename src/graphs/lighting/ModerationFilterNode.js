@@ -12,4 +12,3 @@ class ModerationFilterNode {
 }
 
 export { ModerationFilterNode };
-export default ModerationFilterNode;

@@ -12,4 +12,3 @@ class RendererUtils {
 }
 
 export { RendererUtils };
-export default RendererUtils;

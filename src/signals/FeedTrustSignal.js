@@ -12,4 +12,3 @@ class FeedTrustSignal {
 }
 
 export { FeedTrustSignal };
-export default FeedTrustSignal;

@@ -12,4 +12,3 @@ class EnrichModifier {
 }
 
 export { EnrichModifier };
-export default EnrichModifier;

@@ -12,4 +12,3 @@ class OperatorNode {
 }
 
 export { OperatorNode };
-export default OperatorNode;

@@ -12,4 +12,3 @@ class CanvasTarget {
 }
 
 export { CanvasTarget };
-export default CanvasTarget;

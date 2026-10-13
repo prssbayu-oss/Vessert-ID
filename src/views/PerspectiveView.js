@@ -12,4 +12,3 @@ class PerspectiveView {
 }
 
 export { PerspectiveView };
-export default PerspectiveView;

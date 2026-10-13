@@ -12,4 +12,3 @@ class RelationLinearInterpolant {
 }
 
 export { RelationLinearInterpolant };
-export default RelationLinearInterpolant;

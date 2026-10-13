@@ -12,4 +12,3 @@ class Remap {
 }
 
 export { Remap };
-export default Remap;

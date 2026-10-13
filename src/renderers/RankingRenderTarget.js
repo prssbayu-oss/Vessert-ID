@@ -12,4 +12,3 @@ class RankingRenderTarget {
 }
 
 export { RankingRenderTarget };
-export default RankingRenderTarget;

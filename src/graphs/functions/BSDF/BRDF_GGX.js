@@ -12,4 +12,3 @@ class BRDF_GGX {
 }
 
 export { BRDF_GGX };
-export default BRDF_GGX;

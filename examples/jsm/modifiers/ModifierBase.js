@@ -12,4 +12,3 @@ class ModifierBase {
 }
 
 export { ModifierBase };
-export default ModifierBase;

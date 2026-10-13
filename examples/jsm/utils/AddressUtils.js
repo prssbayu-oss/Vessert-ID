@@ -12,4 +12,3 @@ class AddressUtils {
 }
 
 export { AddressUtils };
-export default AddressUtils;

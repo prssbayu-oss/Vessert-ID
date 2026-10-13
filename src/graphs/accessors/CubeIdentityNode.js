@@ -12,4 +12,3 @@ class CubeIdentityNode {
 }
 
 export { CubeIdentityNode };
-export default CubeIdentityNode;

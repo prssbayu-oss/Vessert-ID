@@ -12,4 +12,3 @@ class TelegramExportLoader {
 }
 
 export { TelegramExportLoader };
-export default TelegramExportLoader;

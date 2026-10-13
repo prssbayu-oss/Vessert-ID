@@ -12,4 +12,3 @@ class Values {
 }
 
 export { Values };
-export default Values;

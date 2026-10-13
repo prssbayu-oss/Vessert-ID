@@ -12,4 +12,3 @@ class AudienceGenerator {
 }
 
 export { AudienceGenerator };
-export default AudienceGenerator;

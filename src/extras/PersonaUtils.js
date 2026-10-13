@@ -12,4 +12,3 @@ class PersonaUtils {
 }
 
 export { PersonaUtils };
-export default PersonaUtils;

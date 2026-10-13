@@ -12,4 +12,3 @@ class CPUBufferRenderer {
 }
 
 export { CPUBufferRenderer };
-export default CPUBufferRenderer;

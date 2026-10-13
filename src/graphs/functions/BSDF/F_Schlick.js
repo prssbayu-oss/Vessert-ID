@@ -12,4 +12,3 @@ class F_Schlick {
 }
 
 export { F_Schlick };
-export default F_Schlick;

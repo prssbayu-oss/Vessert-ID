@@ -12,4 +12,3 @@ class NodeManager {
 }
 
 export { NodeManager };
-export default NodeManager;

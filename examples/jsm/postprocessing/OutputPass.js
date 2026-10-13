@@ -12,4 +12,3 @@ class OutputPass {
 }
 
 export { OutputPass };
-export default OutputPass;

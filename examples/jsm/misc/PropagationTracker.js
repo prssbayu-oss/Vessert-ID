@@ -12,4 +12,3 @@ class PropagationTracker {
 }
 
 export { PropagationTracker };
-export default PropagationTracker;

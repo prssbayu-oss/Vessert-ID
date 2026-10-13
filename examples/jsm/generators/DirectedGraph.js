@@ -12,4 +12,3 @@ class DirectedGraph {
 }
 
 export { DirectedGraph };
-export default DirectedGraph;

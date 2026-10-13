@@ -12,4 +12,3 @@ class CPUBindingStates {
 }
 
 export { CPUBindingStates };
-export default CPUBindingStates;

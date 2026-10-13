@@ -12,4 +12,3 @@ class ConditionalNode {
 }
 
 export { ConditionalNode };
-export default ConditionalNode;

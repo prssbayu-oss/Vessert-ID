@@ -12,4 +12,3 @@ class CapsuleSchema {
 }
 
 export { CapsuleSchema };
-export default CapsuleSchema;

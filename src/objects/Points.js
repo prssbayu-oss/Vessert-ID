@@ -12,4 +12,3 @@ class Points {
 }
 
 export { Points };
-export default Points;

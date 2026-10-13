@@ -12,4 +12,3 @@ class StorageArrayTexture {
 }
 
 export { StorageArrayTexture };
-export default StorageArrayTexture;

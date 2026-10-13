@@ -12,4 +12,3 @@ class IdentityPrecompute {
 }
 
 export { IdentityPrecompute };
-export default IdentityPrecompute;

@@ -12,4 +12,3 @@ class GraphPartition {
 }
 
 export { GraphPartition };
-export default GraphPartition;

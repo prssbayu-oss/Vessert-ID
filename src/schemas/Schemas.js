@@ -12,4 +12,3 @@ class Schemas {
 }
 
 export { Schemas };
-export default Schemas;

@@ -12,4 +12,3 @@ class Instance {
 }
 
 export { Instance };
-export default Instance;

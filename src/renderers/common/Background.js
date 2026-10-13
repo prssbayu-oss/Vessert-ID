@@ -12,4 +12,3 @@ class Background {
 }
 
 export { Background };
-export default Background;

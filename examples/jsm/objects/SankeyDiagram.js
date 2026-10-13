@@ -12,4 +12,3 @@ class SankeyDiagram {
 }
 
 export { SankeyDiagram };
-export default SankeyDiagram;

@@ -12,4 +12,3 @@ class Graph {
 }
 
 export { Graph };
-export default Graph;

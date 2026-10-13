@@ -12,4 +12,3 @@ class MiscBase {
 }
 
 export { MiscBase };
-export default MiscBase;

@@ -12,4 +12,3 @@ class RingSchema {
 }
 
 export { RingSchema };
-export default RingSchema;

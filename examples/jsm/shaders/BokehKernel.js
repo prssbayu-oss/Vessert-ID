@@ -12,4 +12,3 @@ class BokehKernel {
 }
 
 export { BokehKernel };
-export default BokehKernel;

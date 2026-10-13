@@ -12,4 +12,3 @@ class ReachGridCPU {
 }
 
 export { ReachGridCPU };
-export default ReachGridCPU;

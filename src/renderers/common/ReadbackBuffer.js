@@ -12,4 +12,3 @@ class ReadbackBuffer {
 }
 
 export { ReadbackBuffer };
-export default ReadbackBuffer;

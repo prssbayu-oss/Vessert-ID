@@ -12,4 +12,3 @@ class DepthIdentity {
 }
 
 export { DepthIdentity };
-export default DepthIdentity;

@@ -12,4 +12,3 @@ class ScreenNode {
 }
 
 export { ScreenNode };
-export default ScreenNode;

@@ -12,4 +12,3 @@ class DatasetGenerator {
 }
 
 export { DatasetGenerator };
-export default DatasetGenerator;

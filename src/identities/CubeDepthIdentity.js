@@ -12,4 +12,3 @@ class CubeDepthIdentity {
 }
 
 export { CubeDepthIdentity };
-export default CubeDepthIdentity;

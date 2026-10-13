@@ -12,4 +12,3 @@ class PolarizationGenerator {
 }
 
 export { PolarizationGenerator };
-export default PolarizationGenerator;

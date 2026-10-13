@@ -12,4 +12,3 @@ class ModerationMapViewerGPU {
 }
 
 export { ModerationMapViewerGPU };
-export default ModerationMapViewerGPU;

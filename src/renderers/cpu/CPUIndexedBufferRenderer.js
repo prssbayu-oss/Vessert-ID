@@ -12,4 +12,3 @@ class CPUIndexedBufferRenderer {
 }
 
 export { CPUIndexedBufferRenderer };
-export default CPUIndexedBufferRenderer;

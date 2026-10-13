@@ -12,4 +12,3 @@ class PixelateKernel {
 }
 
 export { PixelateKernel };
-export default PixelateKernel;

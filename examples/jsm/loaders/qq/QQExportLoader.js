@@ -12,4 +12,3 @@ class QQExportLoader {
 }
 
 export { QQExportLoader };
-export default QQExportLoader;

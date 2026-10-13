@@ -12,4 +12,3 @@ class DiscreteInterpolant {
 }
 
 export { DiscreteInterpolant };
-export default DiscreteInterpolant;

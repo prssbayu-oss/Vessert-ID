@@ -12,4 +12,3 @@ class SpringPhysics {
 }
 
 export { SpringPhysics };
-export default SpringPhysics;

@@ -12,4 +12,3 @@ class MergeModifier {
 }
 
 export { MergeModifier };
-export default MergeModifier;

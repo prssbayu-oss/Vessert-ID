@@ -12,4 +12,3 @@ class VaryingNode {
 }
 
 export { VaryingNode };
-export default VaryingNode;

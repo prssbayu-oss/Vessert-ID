@@ -12,4 +12,3 @@ class Viewer {
 }
 
 export { Viewer };
-export default Viewer;

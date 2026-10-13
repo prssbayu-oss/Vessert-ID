@@ -12,4 +12,3 @@ class NNTPLoader {
 }
 
 export { NNTPLoader };
-export default NNTPLoader;

@@ -12,4 +12,3 @@ class XRRenderTarget {
 }
 
 export { XRRenderTarget };
-export default XRRenderTarget;

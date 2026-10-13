@@ -12,4 +12,3 @@ class GPUBackend {
 }
 
 export { GPUBackend };
-export default GPUBackend;

@@ -12,4 +12,3 @@ class GPUIdentityUtils {
 }
 
 export { GPUIdentityUtils };
-export default GPUIdentityUtils;

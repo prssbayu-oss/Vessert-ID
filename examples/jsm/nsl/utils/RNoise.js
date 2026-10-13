@@ -12,4 +12,3 @@ class RNoise {
 }
 
 export { RNoise };
-export default RNoise;

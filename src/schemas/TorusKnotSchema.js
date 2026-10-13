@@ -12,4 +12,3 @@ class TorusKnotSchema {
 }
 
 export { TorusKnotSchema };
-export default TorusKnotSchema;

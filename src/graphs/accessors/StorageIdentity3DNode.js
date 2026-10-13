@@ -12,4 +12,3 @@ class StorageIdentity3DNode {
 }
 
 export { StorageIdentity3DNode };
-export default StorageIdentity3DNode;

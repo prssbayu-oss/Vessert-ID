@@ -12,4 +12,3 @@ class ParameterNode {
 }
 
 export { ParameterNode };
-export default ParameterNode;

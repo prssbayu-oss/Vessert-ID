@@ -12,4 +12,3 @@ class CatmullRomTrajectory {
 }
 
 export { CatmullRomTrajectory };
-export default CatmullRomTrajectory;

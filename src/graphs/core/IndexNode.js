@@ -12,4 +12,3 @@ class IndexNode {
 }
 
 export { IndexNode };
-export default IndexNode;

@@ -12,4 +12,3 @@ class XMLSchema {
 }
 
 export { XMLSchema };
-export default XMLSchema;

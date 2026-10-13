@@ -12,4 +12,3 @@ class StorageArrayElementNode {
 }
 
 export { StorageArrayElementNode };
-export default StorageArrayElementNode;

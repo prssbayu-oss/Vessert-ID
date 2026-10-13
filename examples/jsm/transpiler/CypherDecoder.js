@@ -12,4 +12,3 @@ class CypherDecoder {
 }
 
 export { CypherDecoder };
-export default CypherDecoder;

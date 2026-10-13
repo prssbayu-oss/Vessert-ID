@@ -12,4 +12,3 @@ class CubeIdentityLoader {
 }
 
 export { CubeIdentityLoader };
-export default CubeIdentityLoader;

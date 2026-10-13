@@ -12,4 +12,3 @@ class CPUAttributeUtils {
 }
 
 export { CPUAttributeUtils };
-export default CPUAttributeUtils;

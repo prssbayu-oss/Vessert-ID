@@ -12,4 +12,3 @@ class PassNode {
 }
 
 export { PassNode };
-export default PassNode;

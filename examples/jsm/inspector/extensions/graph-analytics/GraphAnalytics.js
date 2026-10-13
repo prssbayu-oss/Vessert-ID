@@ -12,4 +12,3 @@ class GraphAnalytics {
 }
 
 export { GraphAnalytics };
-export default GraphAnalytics;

@@ -12,4 +12,3 @@ class BurstGenerator {
 }
 
 export { BurstGenerator };
-export default BurstGenerator;

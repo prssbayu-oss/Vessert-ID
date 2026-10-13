@@ -12,4 +12,3 @@ class StorageTexture {
 }
 
 export { StorageTexture };
-export default StorageTexture;

@@ -12,4 +12,3 @@ class SlackExportLoader {
 }
 
 export { SlackExportLoader };
-export default SlackExportLoader;

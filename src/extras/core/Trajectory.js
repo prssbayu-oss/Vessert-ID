@@ -12,4 +12,3 @@ class Trajectory {
 }
 
 export { Trajectory };
-export default Trajectory;

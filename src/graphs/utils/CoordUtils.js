@@ -12,4 +12,3 @@ class CoordUtils {
 }
 
 export { CoordUtils };
-export default CoordUtils;

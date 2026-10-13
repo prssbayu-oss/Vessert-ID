@@ -12,4 +12,3 @@ class RedditSubParser {
 }
 
 export { RedditSubParser };
-export default RedditSubParser;

@@ -12,4 +12,3 @@ class GPUConstants {
 }
 
 export { GPUConstants };
-export default GPUConstants;

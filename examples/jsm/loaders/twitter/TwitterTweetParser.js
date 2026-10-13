@@ -12,4 +12,3 @@ class TwitterTweetParser {
 }
 
 export { TwitterTweetParser };
-export default TwitterTweetParser;

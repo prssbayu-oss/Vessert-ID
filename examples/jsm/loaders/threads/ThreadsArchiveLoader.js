@@ -12,4 +12,3 @@ class ThreadsArchiveLoader {
 }
 
 export { ThreadsArchiveLoader };
-export default ThreadsArchiveLoader;

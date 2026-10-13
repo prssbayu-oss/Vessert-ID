@@ -12,4 +12,3 @@ class XRButton {
 }
 
 export { XRButton };
-export default XRButton;

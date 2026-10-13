@@ -12,4 +12,3 @@ class PleromaLoader {
 }
 
 export { PleromaLoader };
-export default PleromaLoader;

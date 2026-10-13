@@ -12,4 +12,3 @@ class BlueskyCarLoader {
 }
 
 export { BlueskyCarLoader };
-export default BlueskyCarLoader;

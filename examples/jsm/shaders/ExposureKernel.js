@@ -12,4 +12,3 @@ class ExposureKernel {
 }
 
 export { ExposureKernel };
-export default ExposureKernel;

@@ -12,4 +12,3 @@ class Louvain {
 }
 
 export { Louvain };
-export default Louvain;

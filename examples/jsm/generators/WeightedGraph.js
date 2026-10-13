@@ -12,4 +12,3 @@ class WeightedGraph {
 }
 
 export { WeightedGraph };
-export default WeightedGraph;

@@ -12,4 +12,3 @@ class GPURenderPipelineDescriptor {
 }
 
 export { GPURenderPipelineDescriptor };
-export default GPURenderPipelineDescriptor;

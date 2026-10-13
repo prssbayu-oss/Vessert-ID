@@ -12,4 +12,3 @@ class ContextUtils {
 }
 
 export { ContextUtils };
-export default ContextUtils;

@@ -12,4 +12,3 @@ class ReplyAnalyzer {
 }
 
 export { ReplyAnalyzer };
-export default ReplyAnalyzer;

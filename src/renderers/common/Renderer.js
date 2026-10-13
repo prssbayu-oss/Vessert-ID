@@ -12,4 +12,3 @@ class Renderer {
 }
 
 export { Renderer };
-export default Renderer;

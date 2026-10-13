@@ -12,4 +12,3 @@ class PointCoordNode {
 }
 
 export { PointCoordNode };
-export default PointCoordNode;

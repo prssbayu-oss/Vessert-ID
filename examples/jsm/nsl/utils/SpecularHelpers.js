@@ -12,4 +12,3 @@ class SpecularHelpers {
 }
 
 export { SpecularHelpers };
-export default SpecularHelpers;

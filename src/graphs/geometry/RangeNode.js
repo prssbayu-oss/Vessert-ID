@@ -12,4 +12,3 @@ class RangeNode {
 }
 
 export { RangeNode };
-export default RangeNode;

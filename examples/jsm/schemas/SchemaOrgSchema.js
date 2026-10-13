@@ -12,4 +12,3 @@ class SchemaOrgSchema {
 }
 
 export { SchemaOrgSchema };
-export default SchemaOrgSchema;

@@ -12,4 +12,3 @@ class AssortativityModule {
 }
 
 export { AssortativityModule };
-export default AssortativityModule;

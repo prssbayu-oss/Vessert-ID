@@ -12,4 +12,3 @@ class CPUBackground {
 }
 
 export { CPUBackground };
-export default CPUBackground;

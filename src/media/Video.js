@@ -12,4 +12,3 @@ class Video {
 }
 
 export { Video };
-export default Video;

@@ -12,4 +12,3 @@ class Harmonic {
 }
 
 export { Harmonic };
-export default Harmonic;

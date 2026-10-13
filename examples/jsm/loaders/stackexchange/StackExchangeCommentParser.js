@@ -12,4 +12,3 @@ class StackExchangeCommentParser {
 }
 
 export { StackExchangeCommentParser };
-export default StackExchangeCommentParser;

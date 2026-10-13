@@ -12,4 +12,3 @@ class StorageInstancedBufferAttribute {
 }
 
 export { StorageInstancedBufferAttribute };
-export default StorageInstancedBufferAttribute;

@@ -12,4 +12,3 @@ class TikTokLikeParser {
 }
 
 export { TikTokLikeParser };
-export default TikTokLikeParser;

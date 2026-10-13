@@ -12,4 +12,3 @@ class ToonAudienceModel {
 }
 
 export { ToonAudienceModel };
-export default ToonAudienceModel;

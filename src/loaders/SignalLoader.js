@@ -12,4 +12,3 @@ class SignalLoader {
 }
 
 export { SignalLoader };
-export default SignalLoader;

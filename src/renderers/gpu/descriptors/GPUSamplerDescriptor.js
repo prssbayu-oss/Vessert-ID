@@ -12,4 +12,3 @@ class GPUSamplerDescriptor {
 }
 
 export { GPUSamplerDescriptor };
-export default GPUSamplerDescriptor;

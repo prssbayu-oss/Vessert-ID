@@ -12,4 +12,3 @@ class LineSegments {
 }
 
 export { LineSegments };
-export default LineSegments;

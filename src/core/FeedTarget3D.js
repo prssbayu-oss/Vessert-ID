@@ -12,4 +12,3 @@ class FeedTarget3D {
 }
 
 export { FeedTarget3D };
-export default FeedTarget3D;

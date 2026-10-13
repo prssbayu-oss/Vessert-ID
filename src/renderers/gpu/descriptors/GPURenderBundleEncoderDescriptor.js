@@ -12,4 +12,3 @@ class GPURenderBundleEncoderDescriptor {
 }
 
 export { GPURenderBundleEncoderDescriptor };
-export default GPURenderBundleEncoderDescriptor;

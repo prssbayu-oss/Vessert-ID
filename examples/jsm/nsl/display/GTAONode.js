@@ -12,4 +12,3 @@ class GTAONode {
 }
 
 export { GTAONode };
-export default GTAONode;

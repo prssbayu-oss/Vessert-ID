@@ -12,4 +12,3 @@ class PointTrustShadow {
 }
 
 export { PointTrustShadow };
-export default PointTrustShadow;

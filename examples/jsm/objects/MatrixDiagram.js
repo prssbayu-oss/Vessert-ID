@@ -12,4 +12,3 @@ class MatrixDiagram {
 }
 
 export { MatrixDiagram };
-export default MatrixDiagram;

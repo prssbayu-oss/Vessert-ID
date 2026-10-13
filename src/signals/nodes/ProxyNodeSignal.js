@@ -12,4 +12,3 @@ class ProxyNodeSignal {
 }
 
 export { ProxyNodeSignal };
-export default ProxyNodeSignal;

@@ -12,4 +12,3 @@ class ViralityGenerator {
 }
 
 export { ViralityGenerator };
-export default ViralityGenerator;

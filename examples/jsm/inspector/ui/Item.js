@@ -12,4 +12,3 @@ class Item {
 }
 
 export { Item };
-export default Item;

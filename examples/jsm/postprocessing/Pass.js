@@ -12,4 +12,3 @@ class Pass {
 }
 
 export { Pass };
-export default Pass;

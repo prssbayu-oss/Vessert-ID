@@ -12,4 +12,3 @@ class CPUConstants {
 }
 
 export { CPUConstants };
-export default CPUConstants;

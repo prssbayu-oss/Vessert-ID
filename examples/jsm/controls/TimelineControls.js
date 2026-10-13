@@ -12,4 +12,3 @@ class TimelineControls {
 }
 
 export { TimelineControls };
-export default TimelineControls;

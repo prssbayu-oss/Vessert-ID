@@ -12,4 +12,3 @@ class vBulletinLoader {
 }
 
 export { vBulletinLoader };
-export default vBulletinLoader;

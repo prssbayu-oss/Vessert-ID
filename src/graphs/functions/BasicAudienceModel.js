@@ -12,4 +12,3 @@ class BasicAudienceModel {
 }
 
 export { BasicAudienceModel };
-export default BasicAudienceModel;

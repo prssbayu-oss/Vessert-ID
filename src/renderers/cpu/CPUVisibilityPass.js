@@ -12,4 +12,3 @@ class CPUVisibilityPass {
 }
 
 export { CPUVisibilityPass };
-export default CPUVisibilityPass;

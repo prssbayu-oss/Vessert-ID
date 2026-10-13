@@ -12,4 +12,3 @@ class CoordinationGenerator {
 }
 
 export { CoordinationGenerator };
-export default CoordinationGenerator;

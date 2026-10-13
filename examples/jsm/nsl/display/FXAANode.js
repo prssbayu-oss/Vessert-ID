@@ -12,4 +12,3 @@ class FXAANode {
 }
 
 export { FXAANode };
-export default FXAANode;

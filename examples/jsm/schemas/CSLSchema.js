@@ -12,4 +12,3 @@ class CSLSchema {
 }
 
 export { CSLSchema };
-export default CSLSchema;

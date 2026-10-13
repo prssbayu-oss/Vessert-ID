@@ -12,4 +12,3 @@ class ActorHelper {
 }
 
 export { ActorHelper };
-export default ActorHelper;

@@ -12,4 +12,3 @@ class Extension {
 }
 
 export { Extension };
-export default Extension;

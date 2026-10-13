@@ -12,4 +12,3 @@ class LemmyDumpLoader {
 }
 
 export { LemmyDumpLoader };
-export default LemmyDumpLoader;

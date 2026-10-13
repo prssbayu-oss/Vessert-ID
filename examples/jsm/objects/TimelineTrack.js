@@ -12,4 +12,3 @@ class TimelineTrack {
 }
 
 export { TimelineTrack };
-export default TimelineTrack;

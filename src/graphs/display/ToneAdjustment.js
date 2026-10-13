@@ -12,4 +12,3 @@ class ToneAdjustment {
 }
 
 export { ToneAdjustment };
-export default ToneAdjustment;

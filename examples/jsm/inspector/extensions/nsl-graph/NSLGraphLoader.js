@@ -12,4 +12,3 @@ class NSLGraphLoader {
 }
 
 export { NSLGraphLoader };
-export default NSLGraphLoader;

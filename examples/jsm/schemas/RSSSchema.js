@@ -12,4 +12,3 @@ class RSSSchema {
 }
 
 export { RSSSchema };
-export default RSSSchema;

@@ -12,4 +12,3 @@ class LinearInterpolant {
 }
 
 export { LinearInterpolant };
-export default LinearInterpolant;

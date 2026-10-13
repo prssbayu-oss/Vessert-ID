@@ -12,4 +12,3 @@ class SampleModifier {
 }
 
 export { SampleModifier };
-export default SampleModifier;

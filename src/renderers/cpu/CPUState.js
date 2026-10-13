@@ -12,4 +12,3 @@ class CPUState {
 }
 
 export { CPUState };
-export default CPUState;

@@ -12,4 +12,3 @@ class RTTNode {
 }
 
 export { RTTNode };
-export default RTTNode;

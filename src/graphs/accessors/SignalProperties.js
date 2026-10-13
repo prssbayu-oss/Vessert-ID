@@ -12,4 +12,3 @@ class SignalProperties {
 }
 
 export { SignalProperties };
-export default SignalProperties;

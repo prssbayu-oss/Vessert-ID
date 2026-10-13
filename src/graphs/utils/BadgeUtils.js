@@ -12,4 +12,3 @@ class BadgeUtils {
 }
 
 export { BadgeUtils };
-export default BadgeUtils;

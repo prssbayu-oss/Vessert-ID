@@ -12,4 +12,3 @@ class ClearPass {
 }
 
 export { ClearPass };
-export default ClearPass;

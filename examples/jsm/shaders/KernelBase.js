@@ -12,4 +12,3 @@ class KernelBase {
 }
 
 export { KernelBase };
-export default KernelBase;

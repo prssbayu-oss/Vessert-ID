@@ -12,4 +12,3 @@ class EdgeSegmentsGeometry {
 }
 
 export { EdgeSegmentsGeometry };
-export default EdgeSegmentsGeometry;

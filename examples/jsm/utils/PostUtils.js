@@ -12,4 +12,3 @@ class PostUtils {
 }
 
 export { PostUtils };
-export default PostUtils;

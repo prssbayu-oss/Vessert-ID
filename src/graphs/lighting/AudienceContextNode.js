@@ -12,4 +12,3 @@ class AudienceContextNode {
 }
 
 export { AudienceContextNode };
-export default AudienceContextNode;

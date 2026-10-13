@@ -12,4 +12,3 @@ class EdgeGeometry {
 }
 
 export { EdgeGeometry };
-export default EdgeGeometry;

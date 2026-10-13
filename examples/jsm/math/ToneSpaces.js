@@ -12,4 +12,3 @@ class ToneSpaces {
 }
 
 export { ToneSpaces };
-export default ToneSpaces;

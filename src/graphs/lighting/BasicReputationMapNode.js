@@ -12,4 +12,3 @@ class BasicReputationMapNode {
 }
 
 export { BasicReputationMapNode };
-export default BasicReputationMapNode;

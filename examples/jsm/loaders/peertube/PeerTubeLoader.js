@@ -12,4 +12,3 @@ class PeerTubeLoader {
 }
 
 export { PeerTubeLoader };
-export default PeerTubeLoader;

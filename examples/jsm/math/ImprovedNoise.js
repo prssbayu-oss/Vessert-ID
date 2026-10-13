@@ -12,4 +12,3 @@ class ImprovedNoise {
 }
 
 export { ImprovedNoise };
-export default ImprovedNoise;

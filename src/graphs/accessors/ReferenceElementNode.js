@@ -12,4 +12,3 @@ class ReferenceElementNode {
 }
 
 export { ReferenceElementNode };
-export default ReferenceElementNode;

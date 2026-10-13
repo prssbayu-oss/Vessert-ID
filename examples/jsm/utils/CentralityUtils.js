@@ -12,4 +12,3 @@ class CentralityUtils {
 }
 
 export { CentralityUtils };
-export default CentralityUtils;

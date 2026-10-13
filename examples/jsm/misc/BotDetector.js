@@ -12,4 +12,3 @@ class BotDetector {
 }
 
 export { BotDetector };
-export default BotDetector;

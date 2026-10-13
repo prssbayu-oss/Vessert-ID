@@ -12,4 +12,3 @@ class ThreadGenerator {
 }
 
 export { ThreadGenerator };
-export default ThreadGenerator;

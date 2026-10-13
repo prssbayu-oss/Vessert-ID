@@ -12,4 +12,3 @@ class BoxSchema {
 }
 
 export { BoxSchema };
-export default BoxSchema;

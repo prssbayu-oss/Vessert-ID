@@ -12,4 +12,3 @@ class CommunityTracker {
 }
 
 export { CommunityTracker };
-export default CommunityTracker;

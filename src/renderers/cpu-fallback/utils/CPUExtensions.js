@@ -12,4 +12,3 @@ class CPUExtensions {
 }
 
 export { CPUExtensions };
-export default CPUExtensions;

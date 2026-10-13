@@ -12,4 +12,3 @@ class RenderBundles {
 }
 
 export { RenderBundles };
-export default RenderBundles;

@@ -12,4 +12,3 @@ class TrustProbeNode {
 }
 
 export { TrustProbeNode };
-export default TrustProbeNode;

@@ -12,4 +12,3 @@ class Persona {
 }
 
 export { Persona };
-export default Persona;

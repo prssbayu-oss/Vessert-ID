@@ -12,4 +12,3 @@ class ArcTransition {
 }
 
 export { ArcTransition };
-export default ArcTransition;

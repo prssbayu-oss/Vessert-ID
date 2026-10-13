@@ -12,4 +12,3 @@ class SimplexNoise {
 }
 
 export { SimplexNoise };
-export default SimplexNoise;

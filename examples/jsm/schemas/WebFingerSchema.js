@@ -12,4 +12,3 @@ class WebFingerSchema {
 }
 
 export { WebFingerSchema };
-export default WebFingerSchema;

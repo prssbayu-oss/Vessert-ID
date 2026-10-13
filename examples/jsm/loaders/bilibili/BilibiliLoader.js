@@ -12,4 +12,3 @@ class BilibiliLoader {
 }
 
 export { BilibiliLoader };
-export default BilibiliLoader;

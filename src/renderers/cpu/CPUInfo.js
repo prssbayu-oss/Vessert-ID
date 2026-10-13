@@ -12,4 +12,3 @@ class CPUInfo {
 }
 
 export { CPUInfo };
-export default CPUInfo;

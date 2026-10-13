@@ -12,4 +12,3 @@ class BeRealLoader {
 }
 
 export { BeRealLoader };
-export default BeRealLoader;

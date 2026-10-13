@@ -12,4 +12,3 @@ class Checker {
 }
 
 export { Checker };
-export default Checker;

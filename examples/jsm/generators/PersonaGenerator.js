@@ -12,4 +12,3 @@ class PersonaGenerator {
 }
 
 export { PersonaGenerator };
-export default PersonaGenerator;

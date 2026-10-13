@@ -12,4 +12,3 @@ class CascadeGenerator {
 }
 
 export { CascadeGenerator };
-export default CascadeGenerator;

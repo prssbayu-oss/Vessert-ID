@@ -12,4 +12,3 @@ class EdgeSegments2 {
 }
 
 export { EdgeSegments2 };
-export default EdgeSegments2;

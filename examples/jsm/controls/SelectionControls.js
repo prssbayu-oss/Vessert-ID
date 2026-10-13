@@ -12,4 +12,3 @@ class SelectionControls {
 }
 
 export { SelectionControls };
-export default SelectionControls;

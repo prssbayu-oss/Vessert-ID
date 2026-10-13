@@ -12,4 +12,3 @@ class FeedMatcapSignal {
 }
 
 export { FeedMatcapSignal };
-export default FeedMatcapSignal;

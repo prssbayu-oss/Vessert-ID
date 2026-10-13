@@ -12,4 +12,3 @@ class DisqusDumpLoader {
 }
 
 export { DisqusDumpLoader };
-export default DisqusDumpLoader;

@@ -12,4 +12,3 @@ class DensityModule {
 }
 
 export { DensityModule };
-export default DensityModule;

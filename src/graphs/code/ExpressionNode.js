@@ -12,4 +12,3 @@ class ExpressionNode {
 }
 
 export { ExpressionNode };
-export default ExpressionNode;

@@ -12,4 +12,3 @@ class VSLBase {
 }
 
 export { VSLBase };
-export default VSLBase;

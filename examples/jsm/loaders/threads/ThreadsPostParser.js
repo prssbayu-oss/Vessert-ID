@@ -12,4 +12,3 @@ class ThreadsPostParser {
 }
 
 export { ThreadsPostParser };
-export default ThreadsPostParser;

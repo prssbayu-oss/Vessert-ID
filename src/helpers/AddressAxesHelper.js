@@ -12,4 +12,3 @@ class AddressAxesHelper {
 }
 
 export { AddressAxesHelper };
-export default AddressAxesHelper;

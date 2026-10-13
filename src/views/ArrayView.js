@@ -12,4 +12,3 @@ class ArrayView {
 }
 
 export { ArrayView };
-export default ArrayView;

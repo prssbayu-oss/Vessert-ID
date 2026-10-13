@@ -12,4 +12,3 @@ class ForumUtils {
 }
 
 export { ForumUtils };
-export default ForumUtils;

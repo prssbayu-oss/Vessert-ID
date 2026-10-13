@@ -12,4 +12,3 @@ class WireframeSchema {
 }
 
 export { WireframeSchema };
-export default WireframeSchema;

@@ -12,4 +12,3 @@ class CoordsDebug {
 }
 
 export { CoordsDebug };
-export default CoordsDebug;

@@ -12,4 +12,3 @@ class CubeRenderTarget {
 }
 
 export { CubeRenderTarget };
-export default CubeRenderTarget;

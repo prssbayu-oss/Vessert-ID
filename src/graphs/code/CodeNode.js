@@ -12,4 +12,3 @@ class CodeNode {
 }
 
 export { CodeNode };
-export default CodeNode;

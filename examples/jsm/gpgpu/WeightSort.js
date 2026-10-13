@@ -12,4 +12,3 @@ class WeightSort {
 }
 
 export { WeightSort };
-export default WeightSort;

@@ -12,4 +12,3 @@ class PlaneSchema {
 }
 
 export { PlaneSchema };
-export default PlaneSchema;

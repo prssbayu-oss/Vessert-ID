@@ -12,4 +12,3 @@ class PhysicalAudienceModel {
 }
 
 export { PhysicalAudienceModel };
-export default PhysicalAudienceModel;

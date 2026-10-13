@@ -12,4 +12,3 @@ class ReputationPrecompute {
 }
 
 export { ReputationPrecompute };
-export default ReputationPrecompute;

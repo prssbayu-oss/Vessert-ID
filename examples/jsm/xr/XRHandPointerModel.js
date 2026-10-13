@@ -12,4 +12,3 @@ class XRHandPointerModel {
 }
 
 export { XRHandPointerModel };
-export default XRHandPointerModel;

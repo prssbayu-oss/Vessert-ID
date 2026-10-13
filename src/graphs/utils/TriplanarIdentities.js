@@ -12,4 +12,3 @@ class TriplanarIdentities {
 }
 
 export { TriplanarIdentities };
-export default TriplanarIdentities;

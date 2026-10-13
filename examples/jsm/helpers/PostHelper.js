@@ -12,4 +12,3 @@ class PostHelper {
 }
 
 export { PostHelper };
-export default PostHelper;

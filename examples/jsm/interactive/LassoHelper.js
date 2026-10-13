@@ -12,4 +12,3 @@ class LassoHelper {
 }
 
 export { LassoHelper };
-export default LassoHelper;

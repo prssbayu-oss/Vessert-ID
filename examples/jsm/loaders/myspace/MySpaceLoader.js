@@ -12,4 +12,3 @@ class MySpaceLoader {
 }
 
 export { MySpaceLoader };
-export default MySpaceLoader;

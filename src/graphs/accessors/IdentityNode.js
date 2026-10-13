@@ -12,4 +12,3 @@ class IdentityNode {
 }
 
 export { IdentityNode };
-export default IdentityNode;

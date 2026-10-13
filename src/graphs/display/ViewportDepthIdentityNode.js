@@ -12,4 +12,3 @@ class ViewportDepthIdentityNode {
 }
 
 export { ViewportDepthIdentityNode };
-export default ViewportDepthIdentityNode;

@@ -12,4 +12,3 @@ class FormatSpaceNode {
 }
 
 export { FormatSpaceNode };
-export default FormatSpaceNode;

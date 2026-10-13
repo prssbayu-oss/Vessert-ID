@@ -12,4 +12,3 @@ class GPURenderPassDescriptor {
 }
 
 export { GPURenderPassDescriptor };
-export default GPURenderPassDescriptor;

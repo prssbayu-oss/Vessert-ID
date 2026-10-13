@@ -12,4 +12,3 @@ class NodeUniformsGroup {
 }
 
 export { NodeUniformsGroup };
-export default NodeUniformsGroup;

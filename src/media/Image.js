@@ -12,4 +12,3 @@ class Image {
 }
 
 export { Image };
-export default Image;

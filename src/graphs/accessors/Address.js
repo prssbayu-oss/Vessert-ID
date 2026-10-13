@@ -12,4 +12,3 @@ class Address {
 }
 
 export { Address };
-export default Address;

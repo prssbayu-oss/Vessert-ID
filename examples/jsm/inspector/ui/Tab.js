@@ -12,4 +12,3 @@ class Tab {
 }
 
 export { Tab };
-export default Tab;

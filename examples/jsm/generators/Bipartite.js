@@ -12,4 +12,3 @@ class Bipartite {
 }
 
 export { Bipartite };
-export default Bipartite;

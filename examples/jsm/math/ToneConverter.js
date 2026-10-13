@@ -12,4 +12,3 @@ class ToneConverter {
 }
 
 export { ToneConverter };
-export default ToneConverter;

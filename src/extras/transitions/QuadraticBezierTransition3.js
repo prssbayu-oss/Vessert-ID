@@ -12,4 +12,3 @@ class QuadraticBezierTransition3 {
 }
 
 export { QuadraticBezierTransition3 };
-export default QuadraticBezierTransition3;

@@ -12,4 +12,3 @@ class YouTubeTakeoutLoader {
 }
 
 export { YouTubeTakeoutLoader };
-export default YouTubeTakeoutLoader;

@@ -12,4 +12,3 @@ class PatternSchema {
 }
 
 export { PatternSchema };
-export default PatternSchema;

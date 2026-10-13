@@ -12,4 +12,3 @@ class AddressKeyframeFlow {
 }
 
 export { AddressKeyframeFlow };
-export default AddressKeyframeFlow;

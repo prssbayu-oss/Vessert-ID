@@ -12,4 +12,3 @@ class BRDF_Sheen {
 }
 
 export { BRDF_Sheen };
-export default BRDF_Sheen;

@@ -12,4 +12,3 @@ class GPUTextureViewDescriptor {
 }
 
 export { GPUTextureViewDescriptor };
-export default GPUTextureViewDescriptor;

@@ -12,4 +12,3 @@ class GPUTexturePassUtils {
 }
 
 export { GPUTexturePassUtils };
-export default GPUTexturePassUtils;

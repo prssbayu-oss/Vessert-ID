@@ -12,4 +12,3 @@ class CompressedIdentityLoader {
 }
 
 export { CompressedIdentityLoader };
-export default CompressedIdentityLoader;

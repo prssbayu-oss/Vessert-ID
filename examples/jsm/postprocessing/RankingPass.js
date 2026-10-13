@@ -12,4 +12,3 @@ class RankingPass {
 }
 
 export { RankingPass };
-export default RankingPass;

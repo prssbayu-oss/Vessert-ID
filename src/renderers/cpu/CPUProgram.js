@@ -12,4 +12,3 @@ class CPUProgram {
 }
 
 export { CPUProgram };
-export default CPUProgram;

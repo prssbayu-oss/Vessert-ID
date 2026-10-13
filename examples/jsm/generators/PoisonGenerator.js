@@ -12,4 +12,3 @@ class PoisonGenerator {
 }
 
 export { PoisonGenerator };
-export default PoisonGenerator;

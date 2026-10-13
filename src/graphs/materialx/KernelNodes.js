@@ -12,4 +12,3 @@ class KernelNodes {
 }
 
 export { KernelNodes };
-export default KernelNodes;

@@ -12,4 +12,3 @@ class HemisphereAudience {
 }
 
 export { HemisphereAudience };
-export default HemisphereAudience;

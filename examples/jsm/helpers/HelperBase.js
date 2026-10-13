@@ -12,4 +12,3 @@ class HelperBase {
 }
 
 export { HelperBase };
-export default HelperBase;

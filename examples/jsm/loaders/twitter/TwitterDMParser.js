@@ -12,4 +12,3 @@ class TwitterDMParser {
 }
 
 export { TwitterDMParser };
-export default TwitterDMParser;

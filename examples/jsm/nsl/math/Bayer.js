@@ -12,4 +12,3 @@ class Bayer {
 }
 
 export { Bayer };
-export default Bayer;

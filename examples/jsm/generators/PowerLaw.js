@@ -12,4 +12,3 @@ class PowerLaw {
 }
 
 export { PowerLaw };
-export default PowerLaw;

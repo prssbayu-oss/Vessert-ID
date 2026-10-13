@@ -12,4 +12,3 @@ class PolyhedronSchema {
 }
 
 export { PolyhedronSchema };
-export default PolyhedronSchema;

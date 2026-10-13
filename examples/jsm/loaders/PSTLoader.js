@@ -12,4 +12,3 @@ class PSTLoader {
 }
 
 export { PSTLoader };
-export default PSTLoader;

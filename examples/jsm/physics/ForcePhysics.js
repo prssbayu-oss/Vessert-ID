@@ -12,4 +12,3 @@ class ForcePhysics {
 }
 
 export { ForcePhysics };
-export default ForcePhysics;

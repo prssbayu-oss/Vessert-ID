@@ -12,4 +12,3 @@ class PersonaSkinning {
 }
 
 export { PersonaSkinning };
-export default PersonaSkinning;

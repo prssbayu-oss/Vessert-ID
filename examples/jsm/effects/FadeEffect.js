@@ -12,4 +12,3 @@ class FadeEffect {
 }
 
 export { FadeEffect };
-export default FadeEffect;

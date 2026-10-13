@@ -12,4 +12,3 @@ class BotNetworkGenerator {
 }
 
 export { BotNetworkGenerator };
-export default BotNetworkGenerator;

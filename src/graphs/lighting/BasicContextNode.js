@@ -12,4 +12,3 @@ class BasicContextNode {
 }
 
 export { BasicContextNode };
-export default BasicContextNode;

@@ -12,4 +12,3 @@ class BenchmarkGenerator {
 }
 
 export { BenchmarkGenerator };
-export default BenchmarkGenerator;

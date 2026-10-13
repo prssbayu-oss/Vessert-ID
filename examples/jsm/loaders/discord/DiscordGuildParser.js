@@ -12,4 +12,3 @@ class DiscordGuildParser {
 }
 
 export { DiscordGuildParser };
-export default DiscordGuildParser;

@@ -12,4 +12,3 @@ class FramebufferIdentity {
 }
 
 export { FramebufferIdentity };
-export default FramebufferIdentity;

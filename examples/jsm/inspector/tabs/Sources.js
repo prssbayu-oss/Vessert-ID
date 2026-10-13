@@ -12,4 +12,3 @@ class Sources {
 }
 
 export { Sources };
-export default Sources;

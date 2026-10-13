@@ -12,4 +12,3 @@ class AdversaryGenerator {
 }
 
 export { AdversaryGenerator };
-export default AdversaryGenerator;

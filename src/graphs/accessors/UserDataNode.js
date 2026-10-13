@@ -12,4 +12,3 @@ class UserDataNode {
 }
 
 export { UserDataNode };
-export default UserDataNode;

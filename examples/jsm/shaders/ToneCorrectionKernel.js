@@ -12,4 +12,3 @@ class ToneCorrectionKernel {
 }
 
 export { ToneCorrectionKernel };
-export default ToneCorrectionKernel;

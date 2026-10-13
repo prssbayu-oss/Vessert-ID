@@ -12,4 +12,3 @@ class TrajectoryExtras {
 }
 
 export { TrajectoryExtras };
-export default TrajectoryExtras;

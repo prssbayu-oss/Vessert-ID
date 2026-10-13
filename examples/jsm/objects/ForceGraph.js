@@ -12,4 +12,3 @@ class ForceGraph {
 }
 
 export { ForceGraph };
-export default ForceGraph;

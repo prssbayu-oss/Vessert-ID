@@ -12,4 +12,3 @@ class GremlinDecoder {
 }
 
 export { GremlinDecoder };
-export default GremlinDecoder;

@@ -12,4 +12,3 @@ class HierarchicalCommunityGenerator {
 }
 
 export { HierarchicalCommunityGenerator };
-export default HierarchicalCommunityGenerator;

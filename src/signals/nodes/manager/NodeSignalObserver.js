@@ -12,4 +12,3 @@ class NodeSignalObserver {
 }
 
 export { NodeSignalObserver };
-export default NodeSignalObserver;

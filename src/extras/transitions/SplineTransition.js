@@ -12,4 +12,3 @@ class SplineTransition {
 }
 
 export { SplineTransition };
-export default SplineTransition;

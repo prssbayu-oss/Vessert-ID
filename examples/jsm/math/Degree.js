@@ -12,4 +12,3 @@ class Degree {
 }
 
 export { Degree };
-export default Degree;

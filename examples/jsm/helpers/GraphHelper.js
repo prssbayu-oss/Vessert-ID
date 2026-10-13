@@ -12,4 +12,3 @@ class GraphHelper {
 }
 
 export { GraphHelper };
-export default GraphHelper;

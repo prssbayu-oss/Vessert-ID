@@ -12,4 +12,3 @@ class V_GGX_SmithCorrelated {
 }
 
 export { V_GGX_SmithCorrelated };
-export default V_GGX_SmithCorrelated;

@@ -12,4 +12,3 @@ class FlowLoader {
 }
 
 export { FlowLoader };
-export default FlowLoader;

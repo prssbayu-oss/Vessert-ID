@@ -12,4 +12,3 @@ class FeedAggregatePass {
 }
 
 export { FeedAggregatePass };
-export default FeedAggregatePass;

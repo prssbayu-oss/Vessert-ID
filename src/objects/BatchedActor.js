@@ -12,4 +12,3 @@ class BatchedActor {
 }
 
 export { BatchedActor };
-export default BatchedActor;

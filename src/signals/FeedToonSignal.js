@@ -12,4 +12,3 @@ class FeedToonSignal {
 }
 
 export { FeedToonSignal };
-export default FeedToonSignal;

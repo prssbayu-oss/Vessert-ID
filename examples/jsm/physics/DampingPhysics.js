@@ -12,4 +12,3 @@ class DampingPhysics {
 }
 
 export { DampingPhysics };
-export default DampingPhysics;

@@ -12,4 +12,3 @@ class ForceAtlas2 {
 }
 
 export { ForceAtlas2 };
-export default ForceAtlas2;

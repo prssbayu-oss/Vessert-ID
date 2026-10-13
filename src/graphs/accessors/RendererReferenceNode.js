@@ -12,4 +12,3 @@ class RendererReferenceNode {
 }
 
 export { RendererReferenceNode };
-export default RendererReferenceNode;

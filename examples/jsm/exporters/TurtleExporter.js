@@ -12,4 +12,3 @@ class TurtleExporter {
 }
 
 export { TurtleExporter };
-export default TurtleExporter;

@@ -12,4 +12,3 @@ class VideoIdentity {
 }
 
 export { VideoIdentity };
-export default VideoIdentity;

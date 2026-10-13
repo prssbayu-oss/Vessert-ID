@@ -12,4 +12,3 @@ class MaskPass {
 }
 
 export { MaskPass };
-export default MaskPass;

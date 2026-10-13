@@ -12,4 +12,3 @@ class OBB {
 }
 
 export { OBB };
-export default OBB;

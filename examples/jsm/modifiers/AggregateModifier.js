@@ -12,4 +12,3 @@ class AggregateModifier {
 }
 
 export { AggregateModifier };
-export default AggregateModifier;

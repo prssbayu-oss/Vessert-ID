@@ -12,4 +12,3 @@ class PostGenerator {
 }
 
 export { PostGenerator };
-export default PostGenerator;

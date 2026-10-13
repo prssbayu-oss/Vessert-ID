@@ -12,4 +12,3 @@ class GraphGridHelper {
 }
 
 export { GraphGridHelper };
-export default GraphGridHelper;

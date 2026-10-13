@@ -12,4 +12,3 @@ class RenderList {
 }
 
 export { RenderList };
-export default RenderList;

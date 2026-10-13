@@ -12,4 +12,3 @@ class ModerationNodeSignal {
 }
 
 export { ModerationNodeSignal };
-export default ModerationNodeSignal;

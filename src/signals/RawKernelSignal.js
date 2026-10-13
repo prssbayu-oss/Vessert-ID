@@ -12,4 +12,3 @@ class RawKernelSignal {
 }
 
 export { RawKernelSignal };
-export default RawKernelSignal;

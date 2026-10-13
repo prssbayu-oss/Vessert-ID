@@ -12,4 +12,3 @@ class InstancedSignalGeometry {
 }
 
 export { InstancedSignalGeometry };
-export default InstancedSignalGeometry;

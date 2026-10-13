@@ -12,4 +12,3 @@ class CPUBackend {
 }
 
 export { CPUBackend };
-export default CPUBackend;

@@ -12,4 +12,3 @@ class OverrideContextNode {
 }
 
 export { OverrideContextNode };
-export default OverrideContextNode;

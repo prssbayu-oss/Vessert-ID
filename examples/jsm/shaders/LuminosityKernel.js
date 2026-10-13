@@ -12,4 +12,3 @@ class LuminosityKernel {
 }
 
 export { LuminosityKernel };
-export default LuminosityKernel;

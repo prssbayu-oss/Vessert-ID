@@ -12,4 +12,3 @@ class Cluster {
 }
 
 export { Cluster };
-export default Cluster;

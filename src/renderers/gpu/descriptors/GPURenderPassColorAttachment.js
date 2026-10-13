@@ -12,4 +12,3 @@ class GPURenderPassColorAttachment {
 }
 
 export { GPURenderPassColorAttachment };
-export default GPURenderPassColorAttachment;

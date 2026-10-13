@@ -12,4 +12,3 @@ class PostCloud {
 }
 
 export { PostCloud };
-export default PostCloud;

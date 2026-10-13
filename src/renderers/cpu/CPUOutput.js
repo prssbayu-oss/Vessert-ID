@@ -12,4 +12,3 @@ class CPUOutput {
 }
 
 export { CPUOutput };
-export default CPUOutput;

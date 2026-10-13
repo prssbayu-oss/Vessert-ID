@@ -12,4 +12,3 @@ class VolumetricAudienceModel {
 }
 
 export { VolumetricAudienceModel };
-export default VolumetricAudienceModel;

@@ -12,4 +12,3 @@ class ClusterGenerator {
 }
 
 export { ClusterGenerator };
-export default ClusterGenerator;

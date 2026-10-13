@@ -12,4 +12,3 @@ class SearchControls {
 }
 
 export { SearchControls };
-export default SearchControls;

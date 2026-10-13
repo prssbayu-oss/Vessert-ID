@@ -12,4 +12,3 @@ class Privacy {
 }
 
 export { Privacy };
-export default Privacy;

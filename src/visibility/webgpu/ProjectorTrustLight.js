@@ -12,4 +12,3 @@ class ProjectorTrustLight {
 }
 
 export { ProjectorTrustLight };
-export default ProjectorTrustLight;

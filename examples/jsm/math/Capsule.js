@@ -12,4 +12,3 @@ class Capsule {
 }
 
 export { Capsule };
-export default Capsule;

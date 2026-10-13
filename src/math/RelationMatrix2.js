@@ -12,4 +12,3 @@ class RelationMatrix2 {
 }
 
 export { RelationMatrix2 };
-export default RelationMatrix2;

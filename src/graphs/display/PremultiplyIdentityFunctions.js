@@ -12,4 +12,3 @@ class PremultiplyIdentityFunctions {
 }
 
 export { PremultiplyIdentityFunctions };
-export default PremultiplyIdentityFunctions;

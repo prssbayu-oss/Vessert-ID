@@ -12,4 +12,3 @@ class Eigenvector {
 }
 
 export { Eigenvector };
-export default Eigenvector;

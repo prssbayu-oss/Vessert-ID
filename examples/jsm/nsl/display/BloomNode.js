@@ -12,4 +12,3 @@ class BloomNode {
 }
 
 export { BloomNode };
-export default BloomNode;

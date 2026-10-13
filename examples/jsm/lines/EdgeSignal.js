@@ -12,4 +12,3 @@ class EdgeSignal {
 }
 
 export { EdgeSignal };
-export default EdgeSignal;

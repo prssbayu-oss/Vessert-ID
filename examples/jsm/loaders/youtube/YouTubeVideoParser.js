@@ -12,4 +12,3 @@ class YouTubeVideoParser {
 }
 
 export { YouTubeVideoParser };
-export default YouTubeVideoParser;

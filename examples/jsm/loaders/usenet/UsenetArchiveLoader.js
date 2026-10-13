@@ -12,4 +12,3 @@ class UsenetArchiveLoader {
 }
 
 export { UsenetArchiveLoader };
-export default UsenetArchiveLoader;

@@ -12,4 +12,3 @@ class ConvolutionKernel {
 }
 
 export { ConvolutionKernel };
-export default ConvolutionKernel;

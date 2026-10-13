@@ -12,4 +12,3 @@ class BufferUtils {
 }
 
 export { BufferUtils };
-export default BufferUtils;

@@ -12,4 +12,3 @@ class InspectorHelper {
 }
 
 export { InspectorHelper };
-export default InspectorHelper;

@@ -12,4 +12,3 @@ class RepulsionNode {
 }
 
 export { RepulsionNode };
-export default RepulsionNode;

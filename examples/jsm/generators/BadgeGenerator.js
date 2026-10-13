@@ -12,4 +12,3 @@ class BadgeGenerator {
 }
 
 export { BadgeGenerator };
-export default BadgeGenerator;

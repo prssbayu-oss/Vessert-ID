@@ -12,4 +12,3 @@ class DiscordExportLoader {
 }
 
 export { DiscordExportLoader };
-export default DiscordExportLoader;

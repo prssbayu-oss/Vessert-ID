@@ -12,4 +12,3 @@ class PathNode {
 }
 
 export { PathNode };
-export default PathNode;

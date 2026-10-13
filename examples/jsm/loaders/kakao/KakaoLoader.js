@@ -12,4 +12,3 @@ class KakaoLoader {
 }
 
 export { KakaoLoader };
-export default KakaoLoader;

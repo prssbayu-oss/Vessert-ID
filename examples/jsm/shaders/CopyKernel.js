@@ -12,4 +12,3 @@ class CopyKernel {
 }
 
 export { CopyKernel };
-export default CopyKernel;

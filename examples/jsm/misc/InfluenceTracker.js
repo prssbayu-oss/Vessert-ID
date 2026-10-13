@@ -12,4 +12,3 @@ class InfluenceTracker {
 }
 
 export { InfluenceTracker };
-export default InfluenceTracker;

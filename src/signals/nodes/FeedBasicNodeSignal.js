@@ -12,4 +12,3 @@ class FeedBasicNodeSignal {
 }
 
 export { FeedBasicNodeSignal };
-export default FeedBasicNodeSignal;

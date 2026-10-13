@@ -12,4 +12,3 @@ class FacebookCommentParser {
 }
 
 export { FacebookCommentParser };
-export default FacebookCommentParser;

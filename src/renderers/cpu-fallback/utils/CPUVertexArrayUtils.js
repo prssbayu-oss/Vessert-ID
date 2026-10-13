@@ -12,4 +12,3 @@ class CPUVertexArrayUtils {
 }
 
 export { CPUVertexArrayUtils };
-export default CPUVertexArrayUtils;

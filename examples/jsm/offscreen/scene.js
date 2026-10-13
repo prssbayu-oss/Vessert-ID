@@ -12,4 +12,3 @@ class scene {
 }
 
 export { scene };
-export default scene;

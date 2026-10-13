@@ -12,4 +12,3 @@ class Uniform {
 }
 
 export { Uniform };
-export default Uniform;

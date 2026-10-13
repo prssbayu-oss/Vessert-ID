@@ -12,4 +12,3 @@ class FlowEffect {
 }
 
 export { FlowEffect };
-export default FlowEffect;

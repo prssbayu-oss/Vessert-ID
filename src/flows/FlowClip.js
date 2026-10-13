@@ -12,4 +12,3 @@ class FlowClip {
 }
 
 export { FlowClip };
-export default FlowClip;

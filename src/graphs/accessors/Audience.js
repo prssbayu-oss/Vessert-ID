@@ -12,4 +12,3 @@ class Audience {
 }
 
 export { Audience };
-export default Audience;

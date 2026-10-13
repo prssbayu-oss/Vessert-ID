@@ -12,4 +12,3 @@ class CPUCapabilities {
 }
 
 export { CPUCapabilities };
-export default CPUCapabilities;

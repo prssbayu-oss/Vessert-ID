@@ -12,4 +12,3 @@ class GPURenderPassDepthStencilAttachment {
 }
 
 export { GPURenderPassDepthStencilAttachment };
-export default GPURenderPassDepthStencilAttachment;

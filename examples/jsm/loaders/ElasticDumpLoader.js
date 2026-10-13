@@ -12,4 +12,3 @@ class ElasticDumpLoader {
 }
 
 export { ElasticDumpLoader };
-export default ElasticDumpLoader;

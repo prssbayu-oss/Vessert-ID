@@ -12,4 +12,3 @@ class DistanceUtils {
 }
 
 export { DistanceUtils };
-export default DistanceUtils;

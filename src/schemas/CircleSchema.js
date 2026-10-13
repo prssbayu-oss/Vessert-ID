@@ -12,4 +12,3 @@ class CircleSchema {
 }
 
 export { CircleSchema };
-export default CircleSchema;

@@ -12,4 +12,3 @@ class CPUVisibility {
 }
 
 export { CPUVisibility };
-export default CPUVisibility;

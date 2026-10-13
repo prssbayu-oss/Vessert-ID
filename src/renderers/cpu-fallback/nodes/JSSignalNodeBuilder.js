@@ -12,4 +12,3 @@ class JSSignalNodeBuilder {
 }
 
 export { JSSignalNodeBuilder };
-export default JSSignalNodeBuilder;

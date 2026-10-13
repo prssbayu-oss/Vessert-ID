@@ -12,4 +12,3 @@ class InteractiveGroup {
 }
 
 export { InteractiveGroup };
-export default InteractiveGroup;

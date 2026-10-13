@@ -12,4 +12,3 @@ class CPUUtils {
 }
 
 export { CPUUtils };
-export default CPUUtils;

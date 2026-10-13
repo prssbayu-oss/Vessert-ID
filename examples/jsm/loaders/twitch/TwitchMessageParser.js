@@ -12,4 +12,3 @@ class TwitchMessageParser {
 }
 
 export { TwitchMessageParser };
-export default TwitchMessageParser;

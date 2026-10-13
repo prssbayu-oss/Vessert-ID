@@ -12,4 +12,3 @@ class SelectionBounds {
 }
 
 export { SelectionBounds };
-export default SelectionBounds;

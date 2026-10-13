@@ -12,4 +12,3 @@ class TemporalGraph {
 }
 
 export { TemporalGraph };
-export default TemporalGraph;

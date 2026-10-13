@@ -12,4 +12,3 @@ class ImageLoader {
 }
 
 export { ImageLoader };
-export default ImageLoader;

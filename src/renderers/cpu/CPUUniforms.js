@@ -12,4 +12,3 @@ class CPUUniforms {
 }
 
 export { CPUUniforms };
-export default CPUUniforms;

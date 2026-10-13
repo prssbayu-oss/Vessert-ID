@@ -12,4 +12,3 @@ class BloggerArchiveLoader {
 }
 
 export { BloggerArchiveLoader };
-export default BloggerArchiveLoader;

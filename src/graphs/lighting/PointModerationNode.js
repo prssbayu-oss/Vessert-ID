@@ -12,4 +12,3 @@ class PointModerationNode {
 }
 
 export { PointModerationNode };
-export default PointModerationNode;

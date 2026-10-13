@@ -12,4 +12,3 @@ class ScaleFree {
 }
 
 export { ScaleFree };
-export default ScaleFree;

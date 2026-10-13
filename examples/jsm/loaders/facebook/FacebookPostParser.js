@@ -12,4 +12,3 @@ class FacebookPostParser {
 }
 
 export { FacebookPostParser };
-export default FacebookPostParser;

@@ -12,4 +12,3 @@ class SkinnedActor {
 }
 
 export { SkinnedActor };
-export default SkinnedActor;

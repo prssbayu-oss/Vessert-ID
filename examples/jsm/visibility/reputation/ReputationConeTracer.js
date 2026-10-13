@@ -12,4 +12,3 @@ class ReputationConeTracer {
 }
 
 export { ReputationConeTracer };
-export default ReputationConeTracer;

@@ -12,4 +12,3 @@ class GraphGeneratorUtils {
 }
 
 export { GraphGeneratorUtils };
-export default GraphGeneratorUtils;

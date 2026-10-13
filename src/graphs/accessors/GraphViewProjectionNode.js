@@ -12,4 +12,3 @@ class GraphViewProjectionNode {
 }
 
 export { GraphViewProjectionNode };
-export default GraphViewProjectionNode;

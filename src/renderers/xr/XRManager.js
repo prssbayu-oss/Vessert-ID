@@ -12,4 +12,3 @@ class XRManager {
 }
 
 export { XRManager };
-export default XRManager;

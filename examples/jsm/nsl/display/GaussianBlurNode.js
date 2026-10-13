@@ -12,4 +12,3 @@ class GaussianBlurNode {
 }
 
 export { GaussianBlurNode };
-export default GaussianBlurNode;

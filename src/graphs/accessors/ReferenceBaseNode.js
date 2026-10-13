@@ -12,4 +12,3 @@ class ReferenceBaseNode {
 }
 
 export { ReferenceBaseNode };
-export default ReferenceBaseNode;

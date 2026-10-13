@@ -12,4 +12,3 @@ class Hash {
 }
 
 export { Hash };
-export default Hash;

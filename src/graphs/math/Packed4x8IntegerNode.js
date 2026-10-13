@@ -12,4 +12,3 @@ class Packed4x8IntegerNode {
 }
 
 export { Packed4x8IntegerNode };
-export default Packed4x8IntegerNode;

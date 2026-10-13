@@ -12,4 +12,3 @@ class WARCLoader {
 }
 
 export { WARCLoader };
-export default WARCLoader;

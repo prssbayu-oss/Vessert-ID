@@ -12,4 +12,3 @@ class DFGLUTData {
 }
 
 export { DFGLUTData };
-export default DFGLUTData;

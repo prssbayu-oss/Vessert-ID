@@ -12,4 +12,3 @@ class TrendDetector {
 }
 
 export { TrendDetector };
-export default TrendDetector;

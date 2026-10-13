@@ -12,4 +12,3 @@ class GitHubEventParser {
 }
 
 export { GitHubEventParser };
-export default GitHubEventParser;

@@ -12,4 +12,3 @@ class OpenGraphSchema {
 }
 
 export { OpenGraphSchema };
-export default OpenGraphSchema;

@@ -12,4 +12,3 @@ class ClusterCloud {
 }
 
 export { ClusterCloud };
-export default ClusterCloud;

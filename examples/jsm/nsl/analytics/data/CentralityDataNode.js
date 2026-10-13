@@ -12,4 +12,3 @@ class CentralityDataNode {
 }
 
 export { CentralityDataNode };
-export default CentralityDataNode;

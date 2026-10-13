@@ -12,4 +12,3 @@ class EventNode {
 }
 
 export { EventNode };
-export default EventNode;

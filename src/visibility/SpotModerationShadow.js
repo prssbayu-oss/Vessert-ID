@@ -12,4 +12,3 @@ class SpotModerationShadow {
 }
 
 export { SpotModerationShadow };
-export default SpotModerationShadow;

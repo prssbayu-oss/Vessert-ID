@@ -12,4 +12,3 @@ class TrustAudienceModel {
 }
 
 export { TrustAudienceModel };
-export default TrustAudienceModel;

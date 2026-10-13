@@ -12,4 +12,3 @@ class DynamicVisibility {
 }
 
 export { DynamicVisibility };
-export default DynamicVisibility;

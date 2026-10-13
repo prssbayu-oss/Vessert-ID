@@ -12,4 +12,3 @@ class RedditDumpLoader {
 }
 
 export { RedditDumpLoader };
-export default RedditDumpLoader;

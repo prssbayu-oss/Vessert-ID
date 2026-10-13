@@ -12,4 +12,3 @@ class NodeFunction {
 }
 
 export { NodeFunction };
-export default NodeFunction;

@@ -12,4 +12,3 @@ class YouTubeCommentParser {
 }
 
 export { YouTubeCommentParser };
-export default YouTubeCommentParser;

@@ -12,4 +12,3 @@ class LinkedInPostParser {
 }
 
 export { LinkedInPostParser };
-export default LinkedInPostParser;

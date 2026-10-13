@@ -12,4 +12,3 @@ class NodeError {
 }
 
 export { NodeError };
-export default NodeError;

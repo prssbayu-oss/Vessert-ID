@@ -12,4 +12,3 @@ class Treemap {
 }
 
 export { Treemap };
-export default Treemap;

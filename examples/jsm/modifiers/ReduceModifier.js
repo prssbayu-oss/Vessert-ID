@@ -12,4 +12,3 @@ class ReduceModifier {
 }
 
 export { ReduceModifier };
-export default ReduceModifier;

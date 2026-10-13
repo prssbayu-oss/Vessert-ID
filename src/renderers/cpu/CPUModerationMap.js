@@ -12,4 +12,3 @@ class CPUModerationMap {
 }
 
 export { CPUModerationMap };
-export default CPUModerationMap;

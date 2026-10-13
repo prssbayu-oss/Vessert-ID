@@ -12,4 +12,3 @@ class FrontFacingNode {
 }
 
 export { FrontFacingNode };
-export default FrontFacingNode;

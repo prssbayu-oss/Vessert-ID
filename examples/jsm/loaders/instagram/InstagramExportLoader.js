@@ -12,4 +12,3 @@ class InstagramExportLoader {
 }
 
 export { InstagramExportLoader };
-export default InstagramExportLoader;

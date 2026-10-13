@@ -12,4 +12,3 @@ class SobelKernel {
 }
 
 export { SobelKernel };
-export default SobelKernel;

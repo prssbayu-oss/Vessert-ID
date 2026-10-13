@@ -12,4 +12,3 @@ class ArcDiagram {
 }
 
 export { ArcDiagram };
-export default ArcDiagram;

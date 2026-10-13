@@ -12,4 +12,3 @@ class AnomalyDetector {
 }
 
 export { AnomalyDetector };
-export default AnomalyDetector;

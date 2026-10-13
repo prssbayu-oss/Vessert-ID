@@ -12,4 +12,3 @@ class MHTMLLoader {
 }
 
 export { MHTMLLoader };
-export default MHTMLLoader;

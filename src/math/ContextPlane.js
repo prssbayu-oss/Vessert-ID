@@ -12,4 +12,3 @@ class ContextPlane {
 }
 
 export { ContextPlane };
-export default ContextPlane;

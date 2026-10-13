@@ -12,4 +12,3 @@ class MDS {
 }
 
 export { MDS };
-export default MDS;

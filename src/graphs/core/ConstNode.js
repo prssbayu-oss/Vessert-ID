@@ -12,4 +12,3 @@ class ConstNode {
 }
 
 export { ConstNode };
-export default ConstNode;

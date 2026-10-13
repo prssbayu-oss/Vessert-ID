@@ -12,4 +12,3 @@ class Timeline {
 }
 
 export { Timeline };
-export default Timeline;

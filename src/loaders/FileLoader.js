@@ -12,4 +12,3 @@ class FileLoader {
 }
 
 export { FileLoader };
-export default FileLoader;

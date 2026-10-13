@@ -12,4 +12,3 @@ class GraphNode {
 }
 
 export { GraphNode };
-export default GraphNode;

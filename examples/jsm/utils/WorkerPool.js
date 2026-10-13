@@ -12,4 +12,3 @@ class WorkerPool {
 }
 
 export { WorkerPool };
-export default WorkerPool;

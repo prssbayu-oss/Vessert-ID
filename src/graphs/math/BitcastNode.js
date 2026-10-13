@@ -12,4 +12,3 @@ class BitcastNode {
 }
 
 export { BitcastNode };
-export default BitcastNode;

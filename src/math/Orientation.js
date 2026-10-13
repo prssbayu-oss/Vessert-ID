@@ -12,4 +12,3 @@ class Orientation {
 }
 
 export { Orientation };
-export default Orientation;

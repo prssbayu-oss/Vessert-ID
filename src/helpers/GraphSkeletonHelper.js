@@ -12,4 +12,3 @@ class GraphSkeletonHelper {
 }
 
 export { GraphSkeletonHelper };
-export default GraphSkeletonHelper;

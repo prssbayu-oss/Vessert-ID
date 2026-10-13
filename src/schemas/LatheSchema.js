@@ -12,4 +12,3 @@ class LatheSchema {
 }
 
 export { LatheSchema };
-export default LatheSchema;

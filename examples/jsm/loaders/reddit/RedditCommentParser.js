@@ -12,4 +12,3 @@ class RedditCommentParser {
 }
 
 export { RedditCommentParser };
-export default RedditCommentParser;

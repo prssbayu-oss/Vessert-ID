@@ -12,4 +12,3 @@ class TimestampQueryPool {
 }
 
 export { TimestampQueryPool };
-export default TimestampQueryPool;

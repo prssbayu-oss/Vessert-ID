@@ -12,4 +12,3 @@ class HackerNewsPostParser {
 }
 
 export { HackerNewsPostParser };
-export default HackerNewsPostParser;

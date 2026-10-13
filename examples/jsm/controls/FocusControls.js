@@ -12,4 +12,3 @@ class FocusControls {
 }
 
 export { FocusControls };
-export default FocusControls;

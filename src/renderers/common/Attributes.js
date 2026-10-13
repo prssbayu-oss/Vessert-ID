@@ -12,4 +12,3 @@ class Attributes {
 }
 
 export { Attributes };
-export default Attributes;

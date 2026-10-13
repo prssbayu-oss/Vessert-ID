@@ -12,4 +12,3 @@ class PageRank {
 }
 
 export { PageRank };
-export default PageRank;

@@ -12,4 +12,3 @@ class GPUBufferDescriptor {
 }
 
 export { GPUBufferDescriptor };
-export default GPUBufferDescriptor;

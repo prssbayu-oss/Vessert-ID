@@ -12,4 +12,3 @@ class BlurNode {
 }
 
 export { BlurNode };
-export default BlurNode;

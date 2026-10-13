@@ -12,4 +12,3 @@ class CPUProperties {
 }
 
 export { CPUProperties };
-export default CPUProperties;

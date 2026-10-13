@@ -12,4 +12,3 @@ class NodeParser {
 }
 
 export { NodeParser };
-export default NodeParser;

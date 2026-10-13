@@ -12,4 +12,3 @@ class NodeStorageBuffer {
 }
 
 export { NodeStorageBuffer };
-export default NodeStorageBuffer;

@@ -12,4 +12,3 @@ class ReflectorNode {
 }
 
 export { ReflectorNode };
-export default ReflectorNode;

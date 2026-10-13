@@ -12,4 +12,3 @@ class StorageBufferNode {
 }
 
 export { StorageBufferNode };
-export default StorageBufferNode;

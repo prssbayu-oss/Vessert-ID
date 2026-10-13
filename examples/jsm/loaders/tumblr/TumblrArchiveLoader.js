@@ -12,4 +12,3 @@ class TumblrArchiveLoader {
 }
 
 export { TumblrArchiveLoader };
-export default TumblrArchiveLoader;

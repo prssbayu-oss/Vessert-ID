@@ -12,4 +12,3 @@ class BezierInterpolant {
 }
 
 export { BezierInterpolant };
-export default BezierInterpolant;

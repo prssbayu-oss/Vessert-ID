@@ -12,4 +12,3 @@ class ComputeBuiltinNode {
 }
 
 export { ComputeBuiltinNode };
-export default ComputeBuiltinNode;

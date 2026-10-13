@@ -12,4 +12,3 @@ class CascadeTracker {
 }
 
 export { CascadeTracker };
-export default CascadeTracker;

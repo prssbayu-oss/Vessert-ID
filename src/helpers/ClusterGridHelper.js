@@ -12,4 +12,3 @@ class ClusterGridHelper {
 }
 
 export { ClusterGridHelper };
-export default ClusterGridHelper;

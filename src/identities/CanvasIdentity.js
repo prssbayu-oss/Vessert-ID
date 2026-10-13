@@ -12,4 +12,3 @@ class CanvasIdentity {
 }
 
 export { CanvasIdentity };
-export default CanvasIdentity;

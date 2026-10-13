@@ -12,4 +12,3 @@ class RelationUtils {
 }
 
 export { RelationUtils };
-export default RelationUtils;

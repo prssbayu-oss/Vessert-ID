@@ -12,4 +12,3 @@ class RollerCoaster {
 }
 
 export { RollerCoaster };
-export default RollerCoaster;

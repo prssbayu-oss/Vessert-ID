@@ -12,4 +12,3 @@ class MisskeyLoader {
 }
 
 export { MisskeyLoader };
-export default MisskeyLoader;

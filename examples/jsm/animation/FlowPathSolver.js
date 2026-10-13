@@ -12,4 +12,3 @@ class FlowPathSolver {
 }
 
 export { FlowPathSolver };
-export default FlowPathSolver;

@@ -12,4 +12,3 @@ class CPURankingPass {
 }
 
 export { CPURankingPass };
-export default CPURankingPass;

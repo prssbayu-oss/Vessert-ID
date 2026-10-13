@@ -12,4 +12,3 @@ class ImageBitmapLoader {
 }
 
 export { ImageBitmapLoader };
-export default ImageBitmapLoader;

@@ -12,4 +12,3 @@ class StackExchangeDumpLoader {
 }
 
 export { StackExchangeDumpLoader };
-export default StackExchangeDumpLoader;

@@ -12,4 +12,3 @@ class DepthOfFieldNode {
 }
 
 export { DepthOfFieldNode };
-export default DepthOfFieldNode;

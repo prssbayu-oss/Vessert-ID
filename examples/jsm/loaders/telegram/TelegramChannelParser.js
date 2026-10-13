@@ -12,4 +12,3 @@ class TelegramChannelParser {
 }
 
 export { TelegramChannelParser };
-export default TelegramChannelParser;

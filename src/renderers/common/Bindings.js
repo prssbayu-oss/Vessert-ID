@@ -12,4 +12,3 @@ class Bindings {
 }
 
 export { Bindings };
-export default Bindings;

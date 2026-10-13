@@ -12,4 +12,3 @@ class Format {
 }
 
 export { Format };
-export default Format;

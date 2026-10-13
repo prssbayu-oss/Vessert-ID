@@ -12,4 +12,3 @@ class BrushHelper {
 }
 
 export { BrushHelper };
-export default BrushHelper;

@@ -12,4 +12,3 @@ class MatcapCoord {
 }
 
 export { MatcapCoord };
-export default MatcapCoord;

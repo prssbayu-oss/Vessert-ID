@@ -12,4 +12,3 @@ class UniformsUtils {
 }
 
 export { UniformsUtils };
-export default UniformsUtils;

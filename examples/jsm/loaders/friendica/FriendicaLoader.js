@@ -12,4 +12,3 @@ class FriendicaLoader {
 }
 
 export { FriendicaLoader };
-export default FriendicaLoader;

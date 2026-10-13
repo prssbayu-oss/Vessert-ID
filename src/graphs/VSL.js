@@ -12,4 +12,3 @@ class VSL {
 }
 
 export { VSL };
-export default VSL;

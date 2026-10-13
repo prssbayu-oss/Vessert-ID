@@ -12,4 +12,3 @@ class WordPressDumpLoader {
 }
 
 export { WordPressDumpLoader };
-export default WordPressDumpLoader;

@@ -12,4 +12,3 @@ class CPUClipping {
 }
 
 export { CPUClipping };
-export default CPUClipping;

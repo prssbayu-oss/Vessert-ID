@@ -12,4 +12,3 @@ class VSLCore {
 }
 
 export { VSLCore };
-export default VSLCore;

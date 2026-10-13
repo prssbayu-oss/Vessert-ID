@@ -12,4 +12,3 @@ class ArchiveOrgLoader {
 }
 
 export { ArchiveOrgLoader };
-export default ArchiveOrgLoader;

@@ -12,4 +12,3 @@ class Memory {
 }
 
 export { Memory };
-export default Memory;

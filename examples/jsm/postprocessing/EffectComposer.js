@@ -12,4 +12,3 @@ class EffectComposer {
 }
 
 export { EffectComposer };
-export default EffectComposer;

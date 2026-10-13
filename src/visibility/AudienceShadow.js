@@ -12,4 +12,3 @@ class AudienceShadow {
 }
 
 export { AudienceShadow };
-export default AudienceShadow;

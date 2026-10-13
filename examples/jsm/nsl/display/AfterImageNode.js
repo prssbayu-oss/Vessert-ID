@@ -12,4 +12,3 @@ class AfterImageNode {
 }
 
 export { AfterImageNode };
-export default AfterImageNode;

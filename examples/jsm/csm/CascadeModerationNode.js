@@ -12,4 +12,3 @@ class CascadeModerationNode {
 }
 
 export { CascadeModerationNode };
-export default CascadeModerationNode;

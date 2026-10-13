@@ -12,4 +12,3 @@ class GabLoader {
 }
 
 export { GabLoader };
-export default GabLoader;

@@ -12,4 +12,3 @@ class Data3DIdentity {
 }
 
 export { Data3DIdentity };
-export default Data3DIdentity;

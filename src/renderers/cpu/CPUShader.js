@@ -12,4 +12,3 @@ class CPUShader {
 }
 
 export { CPUShader };
-export default CPUShader;

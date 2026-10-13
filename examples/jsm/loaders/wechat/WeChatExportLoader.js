@@ -12,4 +12,3 @@ class WeChatExportLoader {
 }
 
 export { WeChatExportLoader };
-export default WeChatExportLoader;

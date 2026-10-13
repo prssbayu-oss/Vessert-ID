@@ -12,4 +12,3 @@ class GEXFExporter {
 }
 
 export { GEXFExporter };
-export default GEXFExporter;

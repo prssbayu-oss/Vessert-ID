@@ -12,4 +12,3 @@ class LiveJournalLoader {
 }
 
 export { LiveJournalLoader };
-export default LiveJournalLoader;

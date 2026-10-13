@@ -12,4 +12,3 @@ class TimelineHelper {
 }
 
 export { TimelineHelper };
-export default TimelineHelper;

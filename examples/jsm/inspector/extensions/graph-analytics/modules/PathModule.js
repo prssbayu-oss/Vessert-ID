@@ -12,4 +12,3 @@ class PathModule {
 }
 
 export { PathModule };
-export default PathModule;

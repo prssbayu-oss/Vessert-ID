@@ -12,4 +12,3 @@ class CascadeFrontier {
 }
 
 export { CascadeFrontier };
-export default CascadeFrontier;

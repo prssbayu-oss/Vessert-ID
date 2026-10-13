@@ -12,4 +12,3 @@ class WordPressXMLRPC {
 }
 
 export { WordPressXMLRPC };
-export default WordPressXMLRPC;

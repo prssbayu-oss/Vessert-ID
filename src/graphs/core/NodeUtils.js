@@ -12,4 +12,3 @@ class NodeUtils {
 }
 
 export { NodeUtils };
-export default NodeUtils;

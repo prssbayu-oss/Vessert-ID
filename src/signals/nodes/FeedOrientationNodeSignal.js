@@ -12,4 +12,3 @@ class FeedOrientationNodeSignal {
 }
 
 export { FeedOrientationNodeSignal };
-export default FeedOrientationNodeSignal;

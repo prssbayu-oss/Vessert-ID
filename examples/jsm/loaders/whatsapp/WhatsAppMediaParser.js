@@ -12,4 +12,3 @@ class WhatsAppMediaParser {
 }
 
 export { WhatsAppMediaParser };
-export default WhatsAppMediaParser;

@@ -12,4 +12,3 @@ class TrustHelper {
 }
 
 export { TrustHelper };
-export default TrustHelper;

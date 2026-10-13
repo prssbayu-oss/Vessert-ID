@@ -12,4 +12,3 @@ class PushshiftLoader {
 }
 
 export { PushshiftLoader };
-export default PushshiftLoader;

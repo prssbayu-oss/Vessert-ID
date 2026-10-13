@@ -12,4 +12,3 @@ class GPUTextureUtils {
 }
 
 export { GPUTextureUtils };
-export default GPUTextureUtils;

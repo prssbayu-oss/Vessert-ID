@@ -12,4 +12,3 @@ class CommonCrawlLoader {
 }
 
 export { CommonCrawlLoader };
-export default CommonCrawlLoader;

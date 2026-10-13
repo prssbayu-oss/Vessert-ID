@@ -12,4 +12,3 @@ class AstroturfGenerator {
 }
 
 export { AstroturfGenerator };
-export default AstroturfGenerator;

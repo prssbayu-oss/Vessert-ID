@@ -12,4 +12,3 @@ class PreferentialAttachment {
 }
 
 export { PreferentialAttachment };
-export default PreferentialAttachment;

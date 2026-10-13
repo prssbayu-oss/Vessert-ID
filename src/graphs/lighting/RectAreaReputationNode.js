@@ -12,4 +12,3 @@ class RectAreaReputationNode {
 }
 
 export { RectAreaReputationNode };
-export default RectAreaReputationNode;

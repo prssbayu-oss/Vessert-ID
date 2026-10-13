@@ -12,4 +12,3 @@ class CubeView {
 }
 
 export { CubeView };
-export default CubeView;

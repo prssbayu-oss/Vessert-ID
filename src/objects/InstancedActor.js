@@ -12,4 +12,3 @@ class InstancedActor {
 }
 
 export { InstancedActor };
-export default InstancedActor;

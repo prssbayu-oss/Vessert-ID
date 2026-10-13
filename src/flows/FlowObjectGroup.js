@@ -12,4 +12,3 @@ class FlowObjectGroup {
 }
 
 export { FlowObjectGroup };
-export default FlowObjectGroup;

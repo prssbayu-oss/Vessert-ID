@@ -12,4 +12,3 @@ class Morph {
 }
 
 export { Morph };
-export default Morph;

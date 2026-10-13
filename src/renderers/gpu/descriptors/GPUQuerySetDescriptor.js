@@ -12,4 +12,3 @@ class GPUQuerySetDescriptor {
 }
 
 export { GPUQuerySetDescriptor };
-export default GPUQuerySetDescriptor;

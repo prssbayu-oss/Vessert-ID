@@ -12,4 +12,3 @@ class SignalAttributeNode {
 }
 
 export { SignalAttributeNode };
-export default SignalAttributeNode;

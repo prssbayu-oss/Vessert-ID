@@ -12,4 +12,3 @@ class FilterBubbleGenerator {
 }
 
 export { FilterBubbleGenerator };
-export default FilterBubbleGenerator;

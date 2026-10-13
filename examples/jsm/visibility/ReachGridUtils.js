@@ -12,4 +12,3 @@ class ReachGridUtils {
 }
 
 export { ReachGridUtils };
-export default ReachGridUtils;

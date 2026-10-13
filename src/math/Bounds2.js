@@ -12,4 +12,3 @@ class Bounds2 {
 }
 
 export { Bounds2 };
-export default Bounds2;

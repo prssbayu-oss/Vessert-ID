@@ -12,4 +12,3 @@ class Bitangent {
 }
 
 export { Bitangent };
-export default Bitangent;

@@ -12,4 +12,3 @@ class DiscourseLoader {
 }
 
 export { DiscourseLoader };
-export default DiscourseLoader;

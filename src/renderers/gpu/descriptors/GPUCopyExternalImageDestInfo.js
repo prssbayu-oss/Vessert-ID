@@ -12,4 +12,3 @@ class GPUCopyExternalImageDestInfo {
 }
 
 export { GPUCopyExternalImageDestInfo };
-export default GPUCopyExternalImageDestInfo;
