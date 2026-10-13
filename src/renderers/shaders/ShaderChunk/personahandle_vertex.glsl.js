@@ -1,3 +1,8 @@
-export default /* glsl */`
-// personahandle_vertex.glsl - VessertID Shader Language Chunk
-`;
+/**
+ * personahandle_vertex.glsl.js
+ * VessertID Universal Social Engine Chunk
+ */
+
+const personahandle_vertex = /* glsl */`// Persona handle positioning`;
+
+export { personahandle_vertex };

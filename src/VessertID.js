@@ -38,3 +38,10 @@ export { Moderation } from './visibility/Moderation.js';
 export { Renderer } from './renderers/Renderer.js';
 export { CPURenderer } from './renderers/CPURenderer.js';
 export { ApiRenderer } from './renderers/ApiRenderer.js';
+
+// renderers/shaders/
+export { ShaderChunk } from './renderers/shaders/ShaderChunk.js';
+export { ShaderLib } from './renderers/shaders/ShaderLib.js';
+export { UniformsLib } from './renderers/shaders/UniformsLib.js';
+export { UniformsUtils } from './renderers/shaders/UniformsUtils.js';
+
