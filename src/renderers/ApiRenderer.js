@@ -2,130 +2,115 @@
  * ApiRenderer.js
  * VessertID Universal Social Engine
  *
- * Platform Adapter: Projects VessertID Address coordinates and Nodes
- * into concrete platform envelopes:
- * 1. Forum 1990: (penulis, board, thread, waktu posting)
- * 2. Twitter: (akun, follower/publik, timeline, waktu tweet)
- * 3. TikTok: (kreator, audiens/algoritma, fyp, waktu upload)
- * 4. Like: (akun, objek, interaksi, waktu like)
- * 5. Follow: (akun, akun, relasi, waktu follow)
+ * Wire & Protocol Stream Renderer for VessertID Social Graphs.
+ * Projects social nodes and addresses into native VessertID transmission envelopes:
+ * - canonical: Universal 4D Address coordinate projection (from, to, context, time)
+ * - feed: Structured feed frame with cursor and ranking weights
+ * - stream: Real-time event packet with signal attributes and tone vectors
+ * - graph: Relational graph representation with nodes and directional edges
  */
 
 import { Renderer } from './Renderer.js';
+import { FeedTarget } from '../core/FeedTarget.js';
 
 class ApiRenderer extends Renderer {
-  constructor(targetPlatform = 'canonical') {
+  constructor(format = 'canonical') {
     super();
     this.isApiRenderer = true;
-    this.targetPlatform = targetPlatform;
+    this.format = format;
   }
 
   /**
-   * Projects a Node's Address4 into the selected platform wire-format.
+   * Projects a Node's Address4 and Signal into a VessertID transmission wire frame.
+   * @param {Node} node
+   * @returns {Object}
    */
   project(node) {
     const addr = node.address;
     const text = node.signal ? (node.signal.text || '') : '';
+    const tone = node.signal && node.signal.tone ? node.signal.tone : null;
 
-    switch (this.targetPlatform.toLowerCase()) {
-      case 'forum1990':
-      case 'usenet':
-      case 'bbs':
+    switch (this.format.toLowerCase()) {
+      case 'stream':
         return {
-          protocol: 'NNTP/BBS-1990',
-          From: addr.from,
-          Newsgroups: addr.to,
-          Subject: addr.context,
-          Date: new Date(addr.time).toUTCString(),
-          MessageID: `<${node.uuid}@${addr.context}>`,
-          Body: text,
-          reduction: {
-            dari: addr.from,
-            ke: addr.to,
-            konteks: addr.context,
-            waktu: addr.time
-          }
-        };
-
-      case 'twitter':
-      case 'x':
-        return {
-          protocol: 'Twitter API v2 / Tweet Object',
-          author_id: addr.from,
-          recipient_scope: addr.to,
-          conversation_id: addr.context,
-          created_at: new Date(addr.time).toISOString(),
-          text: text,
-          reduction: {
-            dari: addr.from,
-            ke: addr.to,
-            konteks: addr.context,
-            waktu: addr.time
-          }
-        };
-
-      case 'tiktok':
-        return {
-          protocol: 'TikTok FYP Stream Node',
-          creator_id: addr.from,
-          audience_target: addr.to,
-          feed_partition: addr.context,
-          published_timestamp: addr.time,
-          video_caption: text,
-          reduction: {
-            dari: addr.from,
-            ke: addr.to,
-            konteks: addr.context,
-            waktu: addr.time
-          }
-        };
-
-      case 'like':
-        return {
-          protocol: 'ActivityPub / Like Activity',
-          actor: addr.from,
-          object: addr.to,
-          context: addr.context,
-          published: new Date(addr.time).toISOString(),
-          reduction: {
-            dari: addr.from,
-            ke: addr.to,
-            konteks: addr.context,
-            waktu: addr.time
-          }
-        };
-
-      case 'follow':
-        return {
-          protocol: 'Social Graph Follow Edge',
-          follower: addr.from,
-          following: addr.to,
-          scope: addr.context,
+          protocol: 'VessertID/Stream/1.0',
+          id: node.uuid,
+          type: node.type || 'Node',
           timestamp: addr.time,
-          reduction: {
-            dari: addr.from,
-            ke: addr.to,
-            konteks: addr.context,
-            waktu: addr.time
-          }
+          address: {
+            from: addr.from,
+            to: addr.to,
+            context: addr.context,
+            time: addr.time,
+            uri: addr.toURI ? addr.toURI() : `${addr.from}->${addr.to}#${addr.context}`
+          },
+          signal: {
+            text: text,
+            tone: tone
+          },
+          layers: node.layers ? node.layers.mask : 1
         };
 
+      case 'feed':
+        return {
+          protocol: 'VessertID/FeedEnvelope/1.0',
+          nodeId: node.uuid,
+          actor: addr.from,
+          target: addr.to,
+          scope: addr.context,
+          publishedAt: addr.time,
+          payload: text,
+          weight: node.weightMatrix ? node.weightMatrix.elements : [1, 0, 0, 0],
+          reach: node.reachSphere ? node.reachSphere.radius : 1.0
+        };
+
+      case 'graph':
+        return {
+          protocol: 'VessertID/GraphEdge/1.0',
+          source: addr.from,
+          target: addr.to,
+          context: addr.context,
+          timestamp: addr.time,
+          nodeType: node.type || 'Node',
+          relation: node.relationMatrix ? node.relationMatrix.elements : null
+        };
+
+      case 'canonical':
       default:
         return {
-          protocol: 'VessertID Canonical',
+          protocol: 'VessertID/Canonical/1.0',
           from: addr.from,
           to: addr.to,
           context: addr.context,
           time: addr.time,
-          uri: addr.toURI(),
-          reduction: {
-            dari: addr.from,
-            ke: addr.to,
-            konteks: addr.context,
-            waktu: addr.time
-          }
+          uri: addr.toURI ? addr.toURI() : `${addr.from}->${addr.to}#${addr.context}`,
+          signal: text
         };
     }
+  }
+
+  /**
+   * Renders a context from a view into a FeedTarget containing projected API packets.
+   */
+  render(context, view, target = new FeedTarget()) {
+    if (!context || !context.isNode) {
+      console.error('ApiRenderer.render: Invalid context provided.');
+      return target;
+    }
+
+    target.clear();
+    const packets = [];
+
+    context.traverseVisible((node) => {
+      if (node !== context && (node.isActor || node.isPost || node.isComment || node.isReaction)) {
+        if (!view.layers || view.layers.test(node.layers)) {
+          packets.push(this.project(node));
+        }
+      }
+    });
+
+    target.write(packets);
+    return target;
   }
 }
 

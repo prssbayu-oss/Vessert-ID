@@ -12,4 +12,3 @@ class fflate.module {
 }
 
 export { fflate.module };
-export default fflate.module;

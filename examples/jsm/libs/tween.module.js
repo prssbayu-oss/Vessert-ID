@@ -12,4 +12,3 @@ class tween.module {
 }
 
 export { tween.module };
-export default tween.module;

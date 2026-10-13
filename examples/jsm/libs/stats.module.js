@@ -12,4 +12,3 @@ class stats.module {
 }
 
 export { stats.module };
-export default stats.module;
