@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>VessertID - Postprocessing Pipeline Example</title>
+  <link rel="stylesheet" href="/src/index.css" />
+  <style>
+    body { background-color: #0b0f19; color: #e2e8f0; font-family: ui-sans-serif, system-ui, sans-serif; }
+  </style>
+</head>
+<body class="p-6 max-w-4xl mx-auto space-y-6">
+  <div class="border-b border-slate-800 pb-4 flex items-center justify-between">
+    <div>
+      <span class="text-xs font-mono text-rose-400 bg-rose-950 px-2.5 py-1 rounded border border-rose-800">examples / postprocessing / effect_composer</span>
+      <h1 class="text-2xl font-bold text-white mt-2">EffectComposer Multi-Pass Pipeline</h1>
+      <p class="text-xs text-slate-400 mt-1">Multi-stage pipeline: <code class="text-rose-300">FeedModerationPass</code> &rarr; <code class="text-rose-300">FeedDecayPass</code> &rarr; <code class="text-rose-300">FeedRankingPass</code> with buffer swapping.</p>
+    </div>
+    <a href="/examples/index.html" class="text-xs font-mono text-indigo-400 hover:underline">&larr; Back to Examples</a>
+  </div>
+
+  <div class="p-4 rounded-xl bg-slate-900 border border-slate-800 flex items-center justify-between">
+    <div class="flex items-center gap-6 text-xs font-mono">
+      <label class="flex items-center gap-2 cursor-pointer">
+        <input type="checkbox" id="pass-mod" checked class="accent-indigo-500 rounded" />
+        <span>Pass 1: Moderation Filter</span>
+      </label>
+      <label class="flex items-center gap-2 cursor-pointer">
+        <input type="checkbox" id="pass-decay" checked class="accent-indigo-500 rounded" />
+        <span>Pass 2: Exponential Half-Life</span>
+      </label>
+      <label class="flex items-center gap-2 cursor-pointer">
+        <input type="checkbox" id="pass-rank" checked class="accent-indigo-500 rounded" />
+        <span>Pass 3: Engagement Ranking</span>
+      </label>
+    </div>
+    <button id="render-btn" class="text-xs font-mono bg-indigo-600 hover:bg-indigo-500 text-white px-4 py-2 rounded-lg cursor-pointer">Re-render Pipeline</button>
+  </div>
+
+  <div id="output-feed" class="space-y-3">
+    <!-- Items rendered here -->
+  </div>
+
+  <script type="module">
+    import * as Vessert from '/src/VessertID.js';
+    import { EffectComposer } from '/examples/jsm/postprocessing/EffectComposer.js';
+    import { FeedModerationPass } from '/examples/jsm/postprocessing/FeedModerationPass.js';
+    import { FeedDecayPass } from '/examples/jsm/postprocessing/FeedDecayPass.js';
+    import { FeedRankingPass } from '/examples/jsm/postprocessing/FeedRankingPass.js';
+
+    const context = new Vessert.Context('composer_scene');
+    const now = Date.now();
+    const posts = [
+      new Vessert.Post('alice', 'Post dengan engagement tinggi dan konten bermanfaat.', 'timeline', now - 1000 * 60 * 15),
+      new Vessert.Post('bob', 'Post normal yang diunggah 2 jam lalu.', 'timeline', now - 1000 * 3600 * 2),
+      new Vessert.Post('charlie', 'Post lama yang diunggah 2 hari lalu.', 'timeline', now - 1000 * 3600 * 48),
+      new Vessert.Post('bot_spam', 'SPAM TERLARANG JANGAN DIBACA!', 'timeline', now - 1000 * 60 * 2)
+    ];
+
+    posts.forEach(p => context.add(p));
+
+    const renderer = new Vessert.CPURenderer();
+    const algorithm = new Vessert.Algorithm('alice', { halfLifeHours: 12 });
+
+    function renderPipeline() {
+      const composer = new EffectComposer(renderer, context, algorithm);
+
+      const passMod = new FeedModerationPass({ blockList: ['bot_spam'], blockedKeywords: ['spam'] });
+      passMod.enabled = document.getElementById('pass-mod').checked;
+
+      const passDecay = new FeedDecayPass({ halfLifeHours: 12 });
+      passDecay.enabled = document.getElementById('pass-decay').checked;
+
+      const passRank = new FeedRankingPass(algorithm);
+      passRank.enabled = document.getElementById('pass-rank').checked;
+
+      composer.addPass(passMod);
+      composer.addPass(passDecay);
+      composer.addPass(passRank);
+
+      const target = composer.render();
+      const items = target.getItems();
+
+      const container = document.getElementById('output-feed');
+      container.innerHTML = '';
+
+      items.forEach((item, idx) => {
+        const div = document.createElement('div');
+        div.className = 'p-4 rounded-xl bg-slate-900 border border-slate-800 space-y-1 text-xs';
+        div.innerHTML = `
+          <div class="flex items-center justify-between">
+            <span class="font-mono font-bold text-indigo-300">#${idx + 1} ${item.author}</span>
+            <span class="font-mono text-[10px] text-slate-500">${new Date(item.address.time).toLocaleTimeString()}</span>
+          </div>
+          <p class="text-slate-200 text-sm">"${item.text}"</p>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    document.getElementById('render-btn').addEventListener('click', renderPipeline);
+    ['pass-mod', 'pass-decay', 'pass-rank'].forEach(id => {
+      document.getElementById(id).addEventListener('change', renderPipeline);
+    });
+
+    renderPipeline();
+  </script>
+</body>
+</html>

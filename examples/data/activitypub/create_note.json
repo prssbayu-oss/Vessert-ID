@@ -1,0 +1,21 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://mastodon.social/users/alice/statuses/110992345/activity",
+  "type": "Create",
+  "actor": "https://mastodon.social/users/alice",
+  "published": "2026-10-13T12:15:00Z",
+  "to": ["https://www.w3.org/ns/activitystreams#Public"],
+  "cc": ["https://mastodon.social/users/alice/followers"],
+  "object": {
+    "id": "https://mastodon.social/users/alice/statuses/110992345",
+    "type": "Note",
+    "summary": null,
+    "inReplyTo": null,
+    "published": "2026-10-13T12:15:00Z",
+    "url": "https://mastodon.social/@alice/110992345",
+    "attributedTo": "https://mastodon.social/users/alice",
+    "to": ["https://www.w3.org/ns/activitystreams#Public"],
+    "cc": ["https://mastodon.social/users/alice/followers"],
+    "content": "<p>Federated networks treat servers as relays, not owners of the human relationship graph.</p>"
+  }
+}

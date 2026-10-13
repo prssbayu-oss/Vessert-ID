@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>VessertID - ForcePhysics Simulation</title>
+  <link rel="stylesheet" href="/src/index.css" />
+  <style>
+    body { background-color: #0b0f19; color: #e2e8f0; font-family: ui-sans-serif, system-ui, sans-serif; }
+  </style>
+</head>
+<body class="p-6 max-w-5xl mx-auto space-y-6">
+  <div class="border-b border-slate-800 pb-4 flex items-center justify-between">
+    <div>
+      <span class="text-xs font-mono text-emerald-400 bg-emerald-950 px-2.5 py-1 rounded border border-emerald-800">examples / physics / force</span>
+      <h1 class="text-2xl font-bold text-white mt-2">ForcePhysics - Social Graph Spatial Dynamics</h1>
+      <p class="text-xs text-slate-400 mt-1">Simulates repulsive electrostatic forces between independent nodes and attractive spring forces along reply/relationship links.</p>
+    </div>
+    <div class="flex items-center gap-3">
+      <button id="add-random-btn" class="text-xs font-mono bg-indigo-600 hover:bg-indigo-500 text-white px-3 py-1.5 rounded-lg cursor-pointer">+ Spawn Connected Node</button>
+      <a href="/examples/index.html" class="text-xs font-mono text-indigo-400 hover:underline">&larr; Back to Examples</a>
+    </div>
+  </div>
+
+  <div class="relative w-full h-[450px] bg-black/60 rounded-2xl border border-slate-800 overflow-hidden shadow-2xl">
+    <canvas id="canvas" class="w-full h-full block"></canvas>
+    <div class="absolute top-3 left-4 text-xs font-mono text-slate-400 bg-slate-900/80 px-3 py-1 rounded border border-slate-800">
+      Node Count: <span id="count" class="text-emerald-400 font-bold">0</span> | Simulation: Running 60 FPS
+    </div>
+  </div>
+
+  <script type="module">
+    import * as Vessert from '/src/VessertID.js';
+    import { ForcePhysics } from '/examples/jsm/physics/ForcePhysics.js';
+
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    const countEl = document.getElementById('count');
+
+    function resize() {
+      const rect = canvas.getBoundingClientRect();
+      canvas.width = rect.width * window.devicePixelRatio;
+      canvas.height = rect.height * window.devicePixelRatio;
+      ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+    }
+    window.addEventListener('resize', resize);
+    resize();
+
+    const context = new Vessert.Context('physics_manifold');
+    const root = new Vessert.Post('actor:origin', 'Origin Post', 'timeline', Date.now());
+    context.add(root);
+
+    // Initial cluster
+    const nodes = [root];
+    for (let i = 1; i <= 8; i++) {
+      const parent = nodes[Math.floor(Math.random() * nodes.length)];
+      const child = new Vessert.Comment(`actor:user_${i}`, parent.uuid, `Reply ${i}`, 'thread', Date.now());
+      parent.add(child);
+      context.add(child);
+      nodes.push(child);
+    }
+
+    const physics = new ForcePhysics(context, {
+      repulsionStrength: 300,
+      attractionStrength: 0.04,
+      damping: 0.88
+    });
+
+    document.getElementById('add-random-btn').addEventListener('click', () => {
+      const parent = nodes[Math.floor(Math.random() * nodes.length)];
+      const id = nodes.length + 1;
+      const child = new Vessert.Comment(`actor:user_${id}`, parent.uuid, `Dynamic Reply ${id}`, 'thread', Date.now());
+      parent.add(child);
+      context.add(child);
+      nodes.push(child);
+      countEl.textContent = nodes.length;
+    });
+
+    countEl.textContent = nodes.length;
+
+    function animate() {
+      physics.step();
+
+      const rect = canvas.getBoundingClientRect();
+      const w = rect.width;
+      const h = rect.height;
+      ctx.clearRect(0, 0, w, h);
+
+      const cx = w / 2;
+      const cy = h / 2;
+
+      // Draw links
+      ctx.strokeStyle = 'rgba(99, 102, 241, 0.3)';
+      ctx.lineWidth = 1.5;
+
+      nodes.forEach(node => {
+        if (node.parent && node.parent !== context) {
+          const p1 = physics.getPosition(node);
+          const p2 = physics.getPosition(node.parent);
+          ctx.beginPath();
+          ctx.moveTo(cx + p1.x * 0.7, cy + p1.y * 0.7);
+          ctx.lineTo(cx + p2.x * 0.7, cy + p2.y * 0.7);
+          ctx.stroke();
+        }
+      });
+
+      // Draw nodes
+      nodes.forEach((node, i) => {
+        const p = physics.getPosition(node);
+        const x = cx + p.x * 0.7;
+        const y = cy + p.y * 0.7;
+
+        ctx.fillStyle = i === 0 ? '#f59e0b' : '#10b981';
+        ctx.beginPath();
+        ctx.arc(x, y, i === 0 ? 8 : 5, 0, Math.PI * 2);
+        ctx.fill();
+
+        ctx.fillStyle = '#cbd5e1';
+        ctx.font = '10px monospace';
+        ctx.fillText(node.author, x + 8, y + 3);
+      });
+
+      requestAnimationFrame(animate);
+    }
+
+    animate();
+  </script>
+</body>
+</html>

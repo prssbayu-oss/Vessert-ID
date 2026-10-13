@@ -26,6 +26,14 @@ export const MathUtils = {
   DEG2RAD: Math.PI / 180,
   RAD2DEG: 180 / Math.PI,
 
+  degToRad(degrees) {
+    return degrees * this.DEG2RAD;
+  },
+
+  radToDeg(radians) {
+    return radians * this.RAD2DEG;
+  },
+
   generateUUID() {
     const d0 = (Math.random() * 0xffffffff) | 0;
     const d1 = (Math.random() * 0xffffffff) | 0;

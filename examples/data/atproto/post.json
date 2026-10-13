@@ -1,0 +1,17 @@
+{
+  "$type": "app.bsky.feed.post",
+  "text": "Universal social space engine with axiomatic Address and Node primitives.",
+  "createdAt": "2026-10-13T12:00:00.000Z",
+  "langs": ["id", "en"],
+  "facets": [
+    {
+      "index": { "byteStart": 0, "byteEnd": 9 },
+      "features": [
+        {
+          "$type": "app.bsky.richtext.facet#tag",
+          "tag": "universal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4376c65d2f2323f934d4b5331e31a8a3e70d1058ec1ff3aabf561dd0b837fd7f",
+  "pubkey": "32e1827635450ebb3c5a7d12c1f8e7b2b514439ac10a67eef3d9fd9c5c68e245",
+  "created_at": 1728820800,
+  "kind": 1,
+  "tags": [
+    ["t", "decentralization"],
+    ["e", "b0635d6a9851d3aed0cd6c495b282167acf761729078d975fc341b22650b07b9", "", "root"]
+  ],
+  "content": "Axiomatic coordinates replace ad-hoc database silos in human coordination.",
+  "sig": "26a8d447f464d447b22ac13be88a13637602f083ff223a4285e245ef85bcc30eeb86fd2e23f01021441630dd1161d7b0a16000dd139d8db13744c4f3dd241345"
+}

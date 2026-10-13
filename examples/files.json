@@ -1,0 +1,15 @@
+{
+  "loaders": [
+    "social_loaders_atproto",
+    "social_loaders_nostr"
+  ],
+  "physics": [
+    "social_physics_force"
+  ],
+  "views": [
+    "social_camera_views"
+  ],
+  "postprocessing": [
+    "social_postprocessing_pipeline"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>VessertID Protocol Updates</title>
+  <link>https://vessert.org</link>
+  <description>Mathematical modeling of universal human coordination</description>
+  <item>
+    <title>Announcing Axiomatic Node Architecture</title>
+    <link>https://vessert.org/posts/axiomatic-nodes</link>
+    <description>Universal graph modeling independent of central databases.</description>
+    <pubDate>Mon, 13 Oct 2026 12:00:00 GMT</pubDate>
+    <guid>https://vessert.org/posts/axiomatic-nodes</guid>
+    <author>research@vessert.org</author>
+  </item>
+</channel>
+</rss>

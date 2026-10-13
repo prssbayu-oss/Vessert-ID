@@ -1,0 +1,39 @@
+{
+  "social_loaders_atproto": [
+    "atproto",
+    "bluesky",
+    "raw",
+    "json",
+    "post"
+  ],
+  "social_loaders_nostr": [
+    "nostr",
+    "nip01",
+    "nip25",
+    "relay",
+    "reaction"
+  ],
+  "social_physics_force": [
+    "physics",
+    "spring",
+    "force",
+    "layout",
+    "dynamics",
+    "graph"
+  ],
+  "social_camera_views": [
+    "views",
+    "camera",
+    "perspective",
+    "orthographic",
+    "projection"
+  ],
+  "social_postprocessing_pipeline": [
+    "postprocessing",
+    "effectcomposer",
+    "passes",
+    "moderation",
+    "decay",
+    "ranking"
+  ]
+}

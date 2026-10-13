@@ -1,0 +1,14 @@
+{
+  "tweet": {
+    "id_str": "1845423891048591360",
+    "full_text": "Universal social primitives map any graph topology.",
+    "created_at": "Mon Oct 13 12:00:00 +0000 2026",
+    "favorite_count": "42",
+    "retweet_count": "15",
+    "user": {
+      "id_str": "99887766",
+      "screen_name": "architect",
+      "name": "Social Architect"
+    }
+  }
+}
