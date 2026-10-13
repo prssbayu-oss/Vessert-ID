@@ -1,1 +1,3 @@
-# Vessert-ID
+# VessertID
+
+Universal Social Media Engine Architecture.

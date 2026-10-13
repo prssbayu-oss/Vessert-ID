@@ -1,0 +1,6 @@
+{
+  "name": "VessertID Core: Social Space Primitives",
+  "description": "Universal social media engine with axiomatic Address and Node primitives for mathematical modeling of human coordination networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

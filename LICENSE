@@ -1,0 +1,15 @@
+/**
+ * LICENSE.js
+ * VessertID Universal Social Engine
+ */
+
+class LICENSE {
+  constructor(options = {}) {
+    this.name = 'LICENSE';
+    this.isLICENSE = true;
+    this.options = options;
+  }
+}
+
+export { LICENSE };
+export default LICENSE;
